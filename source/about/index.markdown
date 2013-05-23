@@ -20,7 +20,7 @@ You are always welcome to bring guests!
 
 Meetings are organized on the [Meetup Group Page](http://www.meetup.com/Windy-City-Perl-mongers-Meetup/).
 
-## Mailing Lists
+<h2 id="lists">Mailing Lists</h2>
 
 There are two email discussion lists for you to keep in touch with the Chicago Perl community, and to have discussions (not limited to Perl).
 
