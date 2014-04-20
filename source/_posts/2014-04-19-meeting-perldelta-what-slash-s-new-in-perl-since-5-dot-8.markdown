@@ -34,7 +34,7 @@ If you upgrade to 5.14 you get:
 
 If you upgrade to 5.16 you get:
 
-* Reference to the current running sub (__SUB__)
+* Reference to the current running sub (\__SUB__)
 
 If you upgrade to 5.18 you get:
 
