@@ -8,7 +8,7 @@ sharing: true
 footer: true
 ---
 
-This site is hosted on GithHub at [https://github.com/ChicagoPM/ChicagoPM.github.io](https://github.com/ChicagoPM/ChicagoPM.github.io). But wait! Thats not enough to go tinkering just yet. Please read at least through the section entitled _For small changes_ before contributing. Thanks.
+This site is hosted on GitHub at [https://github.com/ChicagoPM/ChicagoPM.github.io](https://github.com/ChicagoPM/ChicagoPM.github.io). But wait! Thats not enough to go tinkering just yet. Please read at least through the section entitled _For small changes_ before contributing. Thanks.
 
 ##Octopress
 
