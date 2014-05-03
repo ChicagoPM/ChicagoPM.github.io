@@ -18,7 +18,7 @@ We normally organize two meetings per month.
 
 You are always welcome to bring guests!
 
-Meetings are organized on the [Meetup Group Page](http://www.meetup.com/Windy-City-Perl-mongers-Meetup/).
+Meetings are organized on the [Meetup Group Page](http://www.meetup.com/ChicagoPM/).
 
 <h2 id="lists">Mailing Lists</h2>
 
