@@ -25,9 +25,9 @@ The workshop will be held on Thursday, August 14, just in time for [CPAN Day
 [RSVP for Become a CPAN Author on the Chicago.PM Meetup](http://www.meetup.com/ChicagoPM/events/196897312/)
 
 With this, we are moving Office Hours to August 28th. Additionally, since
-having Office Hours has been more confusing than helpful, we will change our
-meeting schedule from "2nd Wednesday and 4th Thursday" to "2nd and 4th
-Thursdays".
+having Office Hours on Wednesday has been more confusing than helpful, we will
+change our meeting schedule from "2nd Wednesday and 4th Thursday" to "2nd and
+4th Thursdays".
 
 [RSVP for this month's Office Hours on the Chicago.PM Meetup](http://www.meetup.com/ChicagoPM/events/184243292/)
 
