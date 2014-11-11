@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Jobs - Chicago.PM"
+description: Perl job listings in the Chicagoland area
 date: 2014-11-11
 sharing: true
 footer: true
