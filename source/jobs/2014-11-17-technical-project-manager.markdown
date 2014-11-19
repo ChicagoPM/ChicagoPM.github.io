@@ -6,11 +6,10 @@ sharing: true
 footer: true
 ---
 
-These are exciting times at [Goldstar
-Learning](https://www.masterymanager.com/). We've been an innovator and leader
-in the EdTech space for over 10 years. To accommodate our rapid growth, we will
-be moving our headquarters to a new office in downtown Chicago (River
-North)--near the Merchandise Mart.
+These are exciting times at [Goldstar Learning](https://www.masterymanager.com/). 
+We've been an innovator and leader in the EdTech space for over 10 years. To
+accommodate our rapid growth, we will be moving our headquarters to a new
+office in downtown Chicago (River North)--near the Merchandise Mart.
 
 Our software platform has served us well, and we want to take it to the next
 level. That's the part where you come in.
