@@ -36,6 +36,8 @@ site:
                   href: /about
                 - title: Mailing List
                   href: /about#lists
+                - title: How To
+                  href: /howto
         deploy:
             $class: Statocles::Deploy::Git
         index: blog
