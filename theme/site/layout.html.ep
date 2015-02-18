@@ -11,10 +11,36 @@
         %= include 'site/head_after.html.ep'
     </head>
     <body>
+
         <header>
-            <nav class="navbar">
+        % if ( $self->path eq '/index.html' ) {
+            <div class="main-title">
+                <div class="logo">
+                    <img src="/theme/images/chicagopm-large.png" alt="logo" />
+                </div>
+                <h1>Chicago Perl Mongers</h1>
+
+                <nav class="navbar" style="text-align: center">
+                    <div class="container">
+                        % if ( my @nav_links = $site->nav( 'main' ) ) {
+                        <ul>
+                            % for my $nav ( @nav_links ) {
+                            <li>
+                                <a href="<%= $nav->href %>"><%= $nav->text %></a>
+                            </li>
+                            % }
+                        </ul>
+                        % }
+                    </div>
+                </nav>
+
+            </div>
+
+        % }
+        % else {
+            <nav class="navbar inner">
                 <div class="container">
-                    <a class="brand" href="/"><%= $site->title %></a>
+                    <a href="/" alt="<%= $site->title %>"><img src="/theme/images/chicagopm-small.png" /></a>
                     % if ( my @nav_links = $site->nav( 'main' ) ) {
                     <ul>
                         % for my $nav ( @nav_links ) {
@@ -27,10 +53,13 @@
                 </div>
             </nav>
             %= include 'site/header_after.html.ep'
+        % }
         </header>
+
         <div class="main container">
             <%= $content %>
         </div>
+
         <footer>
             %= include 'site/footer.html.ep'
             <div class="container tagline">
@@ -38,5 +67,6 @@
                 <a href="http://www.perl.org">Powered by Perl</a>
             </div>
         </footer>
+
     </body>
 </html>

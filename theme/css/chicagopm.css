@@ -1,0 +1,26 @@
+.main-title .logo {
+    position: relative;
+    height: 270px;
+    background: url( /theme/images/chicagopm-large-bg.png ) repeat-x;
+    text-align: center;
+}
+
+.main-title h1 {
+    text-align: center;
+}
+
+.main-title nav {
+    text-align: center;
+    border-top: 1px solid #bbb;
+}
+
+.main.container { padding-top: 1em; }
+
+.navbar.inner {
+    /* This looks terrible, but here it is in case */
+    /*background: url( /theme/images/chicagopm-small-bg.png ) repeat-x; */
+}
+
+.navbar.inner img {
+    vertical-align: bottom;
+}
