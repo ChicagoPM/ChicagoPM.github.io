@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Chicago.PM</title>
+        <link>http://chicago.pm.org/blog/tag/meeting-presentation</link>
+        <atom:link href="http://chicago.pm.org/blog/tag/meeting-presentation.rss" rel="self" type="application/rss+xml" />
+        <description>Blog feed of Chicago.PM</description>
+        <generator>Statocles 0.036</generator>
+        <item>
+            <title>perldelta - What's New in Perl Since 5.8 - April 24, 2014</title>
+            <link>http://chicago.pm.org/blog/2014/04/19/meeting-perldelta-what-slash-s-new-in-perl-since-5-dot-8.html</link>
+            <guid>http://chicago.pm.org/blog/2014/04/19/meeting-perldelta-what-slash-s-new-in-perl-since-5-dot-8.html</guid>
+            <description><![CDATA[
+                <p>This month, <a href="http://blogs.perl.org/users/preaction">Doug Bell</a> will be giving a presentation on
+the most important features and modules added to the Perl core since the 5.8 series.</p>
+
+<p>RSVP on the <a href="http://www.meetup.com/ChicagoPM/events/176551582/">Chicago.PM Meetup page</a> to attend.</p>
+
+<p>If you upgrade to 5.10 you get:</p>
+
+<ul>
+<li>say</li>
+<li>state</li>
+<li>defined-or (//)</li>
+<li>Switch (given/when)</li>
+<li>Module::CoreList - List the modules your Perl has in core</li>
+</ul>
+
+<p>If you upgrade to 5.12 you get:</p>
+
+<ul>
+<li>The yada-yada operator (...)</li>
+<li>each(), keys(), and values() on arrays</li>
+<li>autodie</li>
+</ul>
+
+<p>If you upgrade to 5.14 you get:</p>
+
+<ul>
+<li>Non-destructive substitution (s///r)</li>
+<li>More reliable exception throwing</li>
+<li>HTTP::Tiny</li>
+<li>JSON::PP</li>
+</ul>
+
+<p>If you upgrade to 5.16 you get:</p>
+
+<ul>
+<li>Reference to the current running sub (__SUB__)</li>
+</ul>
+
+<p>If you upgrade to 5.18 you get:</p>
+
+<ul>
+<li>Lexical subroutines (my sub, our sub, state sub)</li>
+</ul>
+
+<p>Awaiting us in 5.20:</p>
+
+<ul>
+<li>Hash-based slices (%hash{...} and %array[...])</li>
+<li>EXP: Postfix dereference operators ($ref->%*)</li>
+<li>EXP: Subroutine signatures (sub mysub( $foo, $bar, @baz ) { ... })</li>
+<li>IO::Socket::IP</li>
+</ul>
+
+                    <p><a href="http://chicago.pm.org/blog/2014/04/19/meeting-perldelta-what-slash-s-new-in-perl-since-5-dot-8.html#section-2">Continue reading...</a></p>
+                <p>Tags:
+                    <a href="/blog/tag/meeting-presentation">meeting presentation</a>
+                </p>
+            ]]></description>
+            <pubDate>
+                Sat, 19 Apr 2014 21:02:00 +0000
+            </pubDate>
+        </item>
+    </channel>
+</rss>
+

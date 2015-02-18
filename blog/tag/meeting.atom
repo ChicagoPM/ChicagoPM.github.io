@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://chicago.pm.org/blog/tag/meeting</id>
+    <title>Chicago.PM</title>
+    <updated>2015-02-17T18:53:01Z</updated>
+    <link rel="self" href="http://chicago.pm.org/blog/tag/meeting.atom"/>
+    <link rel="alternate" href="http://chicago.pm.org/blog/tag/meeting"/>
+    <generator version="0.036">Statocles</generator>
+    <entry>
+        <id>http://chicago.pm.org/blog/2015/02/05/presentation-debugging-with-the-perl-debugger.html</id>
+        <title>Presentation - Debugging with the Perl Debugger</title>
+        <link rel="alternate" href="http://chicago.pm.org/blog/2015/02/05/presentation-debugging-with-the-perl-debugger.html" />
+        <content type="html"><![CDATA[
+            <p>This month, Brian Mielke will be giving a hands-on talk about the built-in Perl Debugger. The debugger allows you to pause execution of your code, run through it step by step, and examine variables and run arbitrary code while paused. The debugger is a great tool to use when dealing with unfamiliar code, and there's always a lot more of that than it appears.</p>
+
+<p>RSVP on <a href="http://www.meetup.com/ChicagoPM/events/220314797/">the Chicago.PM Meetup page</a></p>
+
+                <p><a href="http://chicago.pm.org/blog/2015/02/05/presentation-debugging-with-the-perl-debugger.html#section-2">Continue reading...</a></p>
+            <p>Tags:
+                <a href="/blog/tag/meeting">meeting</a>
+            </p>
+        ]]></content>
+        <updated>2015-02-05T23:23:00Z</updated>
+        <category term="meeting" />
+    </entry>
+    <entry>
+        <id>http://chicago.pm.org/blog/2015/01/13/presentation-introduction-to-mojolicious.html</id>
+        <title>Presentation - Introduction to Mojolicious</title>
+        <link rel="alternate" href="http://chicago.pm.org/blog/2015/01/13/presentation-introduction-to-mojolicious.html" />
+        <content type="html"><![CDATA[
+            <p>To start off the new year, <a href="">Joel Berger</a> will be giving an introduction to <a href="http://mojolicio.us">the Mojolicious web framework</a>. The <a href="http://mojolicious-introduction.herokuapp.com">presentation itself is a Mojolicious app, hosted on Heroku</a>.</p>
+
+<p><a href="http://www.meetup.com/ChicagoPM/events/219629915/">RSVP for this meeting on the Chicago.PM Meetup page</a></p>
+
+<p>The Chicago.PM is going mobile! If you're a business using Perl and would like to host one of the regular Chicago.PM meetings, or a special event, let <a href="mailto:madcityzen@gmail.com">Doug Bell</a> know. <a href="http://www.meetup.com/ChicagoPM/messages/boards/thread/48618307">More details on our Meetup discussion page</a>.</p>
+
+                <p><a href="http://chicago.pm.org/blog/2015/01/13/presentation-introduction-to-mojolicious.html#section-2">Continue reading...</a></p>
+            <p>Tags:
+                <a href="/blog/tag/meeting">meeting</a>
+            </p>
+        ]]></content>
+        <updated>2015-01-13T21:58:00Z</updated>
+        <category term="meeting" />
+    </entry>
+    <entry>
+        <id>http://chicago.pm.org/blog/2014/12/04/holiday-schedule-office-hours-2.html</id>
+        <title>Holiday Schedule - Office Hours 2</title>
+        <link rel="alternate" href="http://chicago.pm.org/blog/2014/12/04/holiday-schedule-office-hours-2.html" />
+        <content type="html"><![CDATA[
+            <p>Due to the holiday schedule, our last meeting of the year will be Office Hours on December 11, starting at 6:30pm.</p>
+
+<p><a href="http://www.meetup.com/ChicagoPM/events/219034393/">RSVP on the Chicago.PM Meetup</a> to talk about Perl, code, and anything that comes up!</p>
+
+                <p><a href="http://chicago.pm.org/blog/2014/12/04/holiday-schedule-office-hours-2.html#section-2">Continue reading...</a></p>
+            <p>Tags:
+                <a href="/blog/tag/meeting">meeting</a>
+            </p>
+        ]]></content>
+        <updated>2014-12-04T02:58:00Z</updated>
+        <category term="meeting" />
+    </entry>
+    <entry>
+        <id>http://chicago.pm.org/blog/2014/10/07/presentation-modern-perl-object-oriented-programming.html</id>
+        <title>Presentation - Modern Perl Object-Oriented Programming</title>
+        <link rel="alternate" href="http://chicago.pm.org/blog/2014/10/07/presentation-modern-perl-object-oriented-programming.html" />
+        <content type="html"><![CDATA[
+            <p>This month's presentation will be on <a href="http://www.meetup.com/ChicagoPM/events/211160342/">modern Perl OO and the tools to make object-oriented code easy</a>.</p>
+
+<p>Topics will include</p>
+
+<ul>
+<li>Simple objects</li>
+<li>Inheritance and roles</li>
+<li>Method modifiers</li>
+<li>Type checking and coercion</li>
+<li>Meta classes</li>
+</ul>
+
+<p>CPAN modules covered:</p>
+
+<ul>
+<li><a href="https://metacpan.org/pod/Moo">Moo</a></li>
+<li><a href="https://metacpan.org/pod/Role::Tiny">Role::Tiny</a></li>
+<li><a href="https://metacpan.org/pod/Type::Tiny">Type::Tiny</a></li>
+<li><a href="https://metacpan.org/pod/Moose">Moose</a></li>
+</ul>
+
+<p>Doors open at 6:30pm. Meeting starts at 7:00pm. <a href="http://www.meetup.com/ChicagoPM/events/211160342/">RSVP on the Chicago.PM Meetup</a></p>
+
+                <p><a href="http://chicago.pm.org/blog/2014/10/07/presentation-modern-perl-object-oriented-programming.html#section-2">Continue reading...</a></p>
+            <p>Tags:
+                <a href="/blog/tag/meeting">meeting</a>
+            </p>
+        ]]></content>
+        <updated>2014-10-07T01:10:00Z</updated>
+        <category term="meeting" />
+    </entry>
+    <entry>
+        <id>http://chicago.pm.org/blog/2014/07/04/meeting-parsing-regex-and-grammars.html</id>
+        <title>Meeting - Parsing - Regex and Grammars</title>
+        <link rel="alternate" href="http://chicago.pm.org/blog/2014/07/04/meeting-parsing-regex-and-grammars.html" />
+        <content type="html"><![CDATA[
+            <p>This month, Doug Bell from Bank of America will be giving a talk on Parsing
+using plain regular expressions, the venerable
+<a href="https://metacpan.org/pod/Parse::RecDescent">Parse::RecDescent</a>, and the modern
+<a href="https://metacpan.org/release/Marpa-R2">Marpa::R2</a>.</p>
+
+<p>The examples given will be based on
+<a href="https://metacpan.org/pod/distribution/App-YAML-Filter/bin/yq">App::YAML::Filter</a>,
+a mini-language like <a href="http://stedolan.github.io/jq/">the jq document query
+language</a> that allows filtering and creating
+YAML documents.</p>
+
+<p><a href="http://www.meetup.com/ChicagoPM/events/184242172/">RSVP on the Chicago.PM Meetup page</a></p>
+
+                <p><a href="http://chicago.pm.org/blog/2014/07/04/meeting-parsing-regex-and-grammars.html#section-2">Continue reading...</a></p>
+            <p>Tags:
+                <a href="/blog/tag/meeting">meeting</a>
+            </p>
+        ]]></content>
+        <updated>2014-07-04T15:49:00Z</updated>
+        <category term="meeting" />
+    </entry>
+</feed>
+
