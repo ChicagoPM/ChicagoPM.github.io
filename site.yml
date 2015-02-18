@@ -10,12 +10,6 @@ plain_app:
         store: '.'
         url_root: '/'
 
-static_app:
-    class: Statocles::App::Static
-    args:
-        store: '.'
-        url_root: '/'
-
 site:
     class: Statocles::Site
     args:
@@ -46,5 +40,3 @@ site:
                 $ref: blog_app
             plain:
                 $ref: plain_app
-            static:
-                $ref: static_app
