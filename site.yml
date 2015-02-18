@@ -1,0 +1,46 @@
+blog_app:
+    class: Statocles::App::Blog
+    args:
+        store: 'blog'
+        url_root: /blog
+
+plain_app:
+    class: Statocles::App::Plain
+    args:
+        store: '.'
+        url_root: '/'
+
+static_app:
+    class: Statocles::App::Static
+    args:
+        store: '.'
+        url_root: '/'
+
+site:
+    class: Statocles::Site
+    args:
+        title: Chicago.PM
+        base_url: http://chicago.pm.org
+        theme: 'theme'
+        nav:
+            main:
+                - title: Meetup
+                  href: http://www.meetup.com/ChicagoPM
+                - title: Talks
+                  href: /talks
+                - title: Jobs
+                  href: /jobs
+                - title: About
+                  href: /about
+                - title: Mailing List
+                  href: /about#lists
+        deploy:
+            $class: Statocles::Deploy::Git
+        index: blog
+        apps:
+            blog:
+                $ref: blog_app
+            plain:
+                $ref: plain_app
+            static:
+                $ref: static_app
