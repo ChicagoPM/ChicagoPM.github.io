@@ -26,6 +26,8 @@ site:
             main:
                 - title: Meetup
                   href: http://www.meetup.com/ChicagoPM
+                - title: Github
+                  href: http://github.com/ChicagoPM
                 - title: Talks
                   href: /talks
                 - title: Jobs
