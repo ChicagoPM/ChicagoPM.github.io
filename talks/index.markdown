@@ -7,6 +7,7 @@ date: 2014-10-25
 
 Here are the slides to some of the talks that have been given at Chicago.PM.
 
+* [2015-01-22: Introduction to Mojolicious](http://jberger.github.io/MojoliciousIntroduction)
 * [2014-10-23: Modern Object-Oriented Perl (Moo, Moose, Moops, Type::Tiny)](http://chicago.pm.org/Object-Oriented)
 * [2014-07-24: Parsing - Regex and Grammars (Parse::RecDescent, Marpa::R2)](http://chicago.pm.org/Parsing-Regex-Grammars)
 * [2014-04-24: perldelta - What is new in Perl since 5.10?)](http://chicago.pm.org/perldelta)
