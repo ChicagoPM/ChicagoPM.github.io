@@ -21,3 +21,5 @@ CPAN modules covered:
 * [Moose](https://metacpan.org/pod/Moose)
 
 Doors open at 6:30pm. Meeting starts at 7:00pm. [RSVP on the Chicago.PM Meetup](http://www.meetup.com/ChicagoPM/events/211160342/)
+
+Update: [Slides are available on the talks page](http://chicago.pm.org/Object-Oriented)

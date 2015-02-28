@@ -16,3 +16,5 @@ language](http://stedolan.github.io/jq/) that allows filtering and creating
 YAML documents.
 
 [RSVP on the Chicago.PM Meetup page](http://www.meetup.com/ChicagoPM/events/184242172/)
+
+Update: [Slides are available on the Talks page](http://chicago.pm.org/Parsing-Regex-Grammars)

@@ -16,3 +16,5 @@ This will be the first in a set of free, open-source intermediate-level presenta
 More information is available on [the meetup page][1].
 
 [1]: http://www.meetup.com/Windy-City-Perl-mongers-Meetup/events/119961772/
+
+Update: [Slides are available on the Talks page](http://chicago.pm.org/Command-Line-Apps)
