@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://chicago.pm.org/blog/tag/announcement</id>
     <title>Chicago.PM</title>
-    <updated>2015-02-27T20:21:38Z</updated>
+    <updated>2015-02-27T20:34:31Z</updated>
     <link rel="self" href="http://chicago.pm.org/blog/tag/announcement.atom"/>
     <link rel="alternate" href="http://chicago.pm.org/blog/tag/announcement"/>
     <generator version="0.039">Statocles</generator>
@@ -18,6 +18,8 @@
 <p>This will be the first in a set of free, open-source intermediate-level presentations released by the Chicago.PM organization on Github. The presentation itself will be released with a Creative Commons Attribution-ShareAlike license, and the code inside the presentation will be licensed under the same terms as Perl itself (Artistic License 1 or GPL version 1 at your discretion). Our goal is to build a repository of living presentations that pick up after the beginner's workshops and explore single topics with some depth. Emphasis will be placed on best practices with pragmatism: Here's multiple ways to do it, here's why you might choose one way over another, here's some things you might see out in the wild and how to improve on them. Our github organization is located at <a href="http://github.com/ChicagoPM">http://github.com/ChicagoPM</a></p>
 
 <p>More information is available on <a href="http://www.meetup.com/Windy-City-Perl-mongers-Meetup/events/119961772/">the meetup page</a>.</p>
+
+<p>Update: <a href="http://chicago.pm.org/Command-Line-Apps">Slides are available on the Talks page</a></p>
 
                 <p><a href="http://chicago.pm.org/blog/2013/05/20/building-command-line-applications-doug-bell-may-23.html#section-2">Continue reading...</a></p>
             <p>Tags:
