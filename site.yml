@@ -42,9 +42,9 @@ site:
             $class: Statocles::Deploy::Git
         index: blog
         apps:
-            blog:
-                $ref: blog_app
             plain:
                 $ref: plain_app
             static:
                 $ref: static_app
+            blog:
+                $ref: blog_app
