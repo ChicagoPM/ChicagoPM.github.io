@@ -19,28 +19,10 @@
         <lastmod>2015-02-05</lastmod>
     </url>
     <url>
-        <loc>http://chicago.pm.org/blog/tag/announcement</loc>
-        <changefreq>daily</changefreq>
-        <priority>0.3</priority>
-        <lastmod>2013-05-20</lastmod>
-    </url>
-    <url>
-        <loc>http://chicago.pm.org/blog/tag/meeting-presentation</loc>
-        <changefreq>daily</changefreq>
-        <priority>0.3</priority>
-        <lastmod>2014-04-19</lastmod>
-    </url>
-    <url>
         <loc>http://chicago.pm.org/blog/tag/command-line</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
         <lastmod>2013-05-20</lastmod>
-    </url>
-    <url>
-        <loc>http://chicago.pm.org/blog/tag/meetings</loc>
-        <changefreq>daily</changefreq>
-        <priority>0.3</priority>
-        <lastmod>2014-11-04</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/tag/meeting</loc>
@@ -55,7 +37,25 @@
         <lastmod>2015-02-05</lastmod>
     </url>
     <url>
+        <loc>http://chicago.pm.org/blog/tag/meeting-presentation</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.3</priority>
+        <lastmod>2014-04-19</lastmod>
+    </url>
+    <url>
         <loc>http://chicago.pm.org/blog/tag/presentation</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.3</priority>
+        <lastmod>2013-05-20</lastmod>
+    </url>
+    <url>
+        <loc>http://chicago.pm.org/blog/tag/meetings</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.3</priority>
+        <lastmod>2014-11-04</lastmod>
+    </url>
+    <url>
+        <loc>http://chicago.pm.org/blog/tag/announcement</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
         <lastmod>2013-05-20</lastmod>
