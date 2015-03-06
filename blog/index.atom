@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://chicago.pm.org</id>
     <title>Chicago.PM</title>
-    <updated>2015-02-27T20:34:31Z</updated>
+    <updated>2015-03-05T22:57:22Z</updated>
     <link rel="self" href="http://chicago.pm.org/blog/index.atom"/>
     <link rel="alternate" href="http://chicago.pm.org"/>
-    <generator version="0.039">Statocles</generator>
+    <generator version="0.040">Statocles</generator>
+    <entry>
+        <id>http://chicago.pm.org/blog/2015/03/05/presentation---introduction-to-moo</id>
+        <title>Presentation - Introduction to Moo</title>
+        <link rel="alternate" href="http://chicago.pm.org/blog/2015/03/05/presentation---introduction-to-moo" />
+        <content type="html"><![CDATA[
+            <p>For this month's <a href="http://www.meetup.com/ChicagoPM/events/220963375/">technical meeting on March 26</a>, <a href="https://github.com/kablamo">Eric Johnson</a>
+is giving an introduction to the <a href="http://metacpan.org/pod/Moo">Moo</a> object
+system, and how to do object-oriented programming with Moo. The topics include:</p>
+
+<ul>
+<li>Why Moo</li>
+<li>Moo vs <a href="http://metacpan.org/pod/Moose">Moose</a></li>
+<li>Object construction</li>
+<li>Object destruction</li>
+<li>Attributes</li>
+<li>Method modifiers</li>
+<li>Roles</li>
+<li>Best practices</li>
+</ul>
+
+<p>For a preview, <a href="http://kablamo.org/slides-2014-ddg-intro-to-moo/#/">slides for the Moo presentation are available</a>.</p>
+
+<p><a href="http://www.meetup.com/ChicagoPM/events/220963375/">RSVP for the presentation on the Chicago.PM Meetup</a></p>
+
+<p>Office Hours will be March 12. This is where you can bring questions or code
+and get assistance from other Perl programmers. <a href="http://www.meetup.com/ChicagoPM/events/220897775/">RSVP for Office Hours on the
+Chicago.PM Meetup</a></p>
+
+                <p><a href="http://chicago.pm.org/blog/2015/03/05/presentation---introduction-to-moo#section-2">Continue reading...</a></p>
+            <p>Tags:
+                <a href="/blog/tag/meeting">meeting</a>
+            </p>
+        ]]></content>
+        <updated>2015-03-05T00:00:00Z</updated>
+        <category term="meeting" />
+    </entry>
     <entry>
         <id>http://chicago.pm.org/blog/2015/02/05/presentation-debugging-with-the-perl-debugger.html</id>
         <title>Presentation - Debugging with the Perl Debugger</title>
@@ -90,44 +126,6 @@ page</a>.</p>
         ]]></content>
         <updated>2014-11-04T23:19:00Z</updated>
         <category term="meetings" />
-    </entry>
-    <entry>
-        <id>http://chicago.pm.org/blog/2014/10/07/presentation-modern-perl-object-oriented-programming.html</id>
-        <title>Presentation - Modern Perl Object-Oriented Programming</title>
-        <link rel="alternate" href="http://chicago.pm.org/blog/2014/10/07/presentation-modern-perl-object-oriented-programming.html" />
-        <content type="html"><![CDATA[
-            <p>This month's presentation will be on <a href="http://www.meetup.com/ChicagoPM/events/211160342/">modern Perl OO and the tools to make object-oriented code easy</a>.</p>
-
-<p>Topics will include</p>
-
-<ul>
-<li>Simple objects</li>
-<li>Inheritance and roles</li>
-<li>Method modifiers</li>
-<li>Type checking and coercion</li>
-<li>Meta classes</li>
-</ul>
-
-<p>CPAN modules covered:</p>
-
-<ul>
-<li><a href="https://metacpan.org/pod/Moo">Moo</a></li>
-<li><a href="https://metacpan.org/pod/Role::Tiny">Role::Tiny</a></li>
-<li><a href="https://metacpan.org/pod/Type::Tiny">Type::Tiny</a></li>
-<li><a href="https://metacpan.org/pod/Moose">Moose</a></li>
-</ul>
-
-<p>Doors open at 6:30pm. Meeting starts at 7:00pm. <a href="http://www.meetup.com/ChicagoPM/events/211160342/">RSVP on the Chicago.PM Meetup</a></p>
-
-<p>Update: <a href="http://chicago.pm.org/Object-Oriented">Slides are available on the talks page</a></p>
-
-                <p><a href="http://chicago.pm.org/blog/2014/10/07/presentation-modern-perl-object-oriented-programming.html#section-2">Continue reading...</a></p>
-            <p>Tags:
-                <a href="/blog/tag/meeting">meeting</a>
-            </p>
-        ]]></content>
-        <updated>2014-10-07T01:10:00Z</updated>
-        <category term="meeting" />
     </entry>
 </feed>
 
