@@ -38,7 +38,5 @@ site:
         apps:
             plain:
                 $ref: plain_app
-            static:
-                $ref: static_app
             blog:
                 $ref: blog_app
