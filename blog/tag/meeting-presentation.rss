@@ -5,7 +5,7 @@
         <link>http://chicago.pm.org/blog/tag/meeting-presentation</link>
         <atom:link href="http://chicago.pm.org/blog/tag/meeting-presentation.rss" rel="self" type="application/rss+xml" />
         <description>Blog feed of Chicago.PM</description>
-        <generator>Statocles 0.040</generator>
+        <generator>Statocles 0.044</generator>
         <item>
             <title>perldelta - What's New in Perl Since 5.8 - April 24, 2014</title>
             <link>http://chicago.pm.org/blog/2014/04/19/meeting-perldelta-what-slash-s-new-in-perl-since-5-dot-8.html</link>
@@ -70,7 +70,7 @@ the most important features and modules added to the Perl core since the 5.8 ser
                 </p>
             ]]></description>
             <pubDate>
-                Sat, 19 Apr 2014 21:02:00 +0000
+                Sat, 19 Apr 2014 00:00:00 +0000
             </pubDate>
         </item>
     </channel>

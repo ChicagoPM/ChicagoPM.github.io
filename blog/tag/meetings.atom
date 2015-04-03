@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://chicago.pm.org/blog/tag/meetings</id>
     <title>Chicago.PM</title>
-    <updated>2015-03-05T23:01:25Z</updated>
+    <updated>2015-04-03T00:04:52Z</updated>
     <link rel="self" href="http://chicago.pm.org/blog/tag/meetings.atom"/>
     <link rel="alternate" href="http://chicago.pm.org/blog/tag/meetings"/>
-    <generator version="0.040">Statocles</generator>
+    <generator version="0.044">Statocles</generator>
     <entry>
         <id>http://chicago.pm.org/blog/2014/11/04/holiday-schedule-office-hours.html</id>
         <title>Holiday Schedule - Office Hours</title>
@@ -20,7 +20,7 @@
                 <a href="/blog/tag/meetings">meetings</a>
             </p>
         ]]></content>
-        <updated>2014-11-04T23:19:00Z</updated>
+        <updated>2014-11-04T00:00:00Z</updated>
         <category term="meetings" />
     </entry>
     <entry>
@@ -46,7 +46,7 @@ some tips, or would like to give some tips, bring them along.</p>
                 <a href="/blog/tag/meetings">meetings</a>
             </p>
         ]]></content>
-        <updated>2014-09-05T01:17:00Z</updated>
+        <updated>2014-09-05T00:00:00Z</updated>
         <category term="meetings" />
     </entry>
 </feed>

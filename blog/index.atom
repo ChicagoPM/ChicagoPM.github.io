@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://chicago.pm.org</id>
     <title>Chicago.PM</title>
-    <updated>2015-03-05T23:01:25Z</updated>
+    <updated>2015-04-03T00:04:52Z</updated>
     <link rel="self" href="http://chicago.pm.org/blog/index.atom"/>
     <link rel="alternate" href="http://chicago.pm.org"/>
-    <generator version="0.040">Statocles</generator>
+    <generator version="0.044">Statocles</generator>
+    <entry>
+        <id>http://chicago.pm.org/blog/2015/04/02/introduction-to-ffi-platypus</id>
+        <title>Introduction to FFI::Platypus</title>
+        <link rel="alternate" href="http://chicago.pm.org/blog/2015/04/02/introduction-to-ffi-platypus" />
+        <content type="html"><![CDATA[
+            <p>This month, Dylan Cali will give a presentation on <a href="https://metacpan.org/release/FFI-Platypus">FFI::Platypus, a friendly
+and fast interface to libffi</a>. With
+FFI::Platypus, you can use native libraries without having to write bindings in
+XS or one of the Inline modules, and still achieve excellent performance
+(almost as fast as XS).</p>
+
+<p>Dylan will also show off other performance improvements added to version 1 of
+<a href="https://metacpan.org/pod/ZMQ::FFI">ZMQ::FFI</a>, an FFI-based wrapper for the
+<a href="http://zeromq.org">zeromq messaging library</a>.</p>
+
+<p><a href="http://www.meetup.com/ChicagoPM/events/220967211/">RSVP on the Chicago.PM Meetup page</a></p>
+
+                <p><a href="http://chicago.pm.org/blog/2015/04/02/introduction-to-ffi-platypus#section-2">Continue reading...</a></p>
+            <p>Tags:
+                <a href="/blog/tag/meeting">meeting</a>
+            </p>
+        ]]></content>
+        <updated>2015-04-02T00:00:00Z</updated>
+        <category term="meeting" />
+    </entry>
     <entry>
         <id>http://chicago.pm.org/blog/2015/03/05/presentation---introduction-to-moo</id>
         <title>Presentation - Introduction to Moo</title>
@@ -62,7 +87,7 @@ always a lot more of that than it appears.</p>
                 <a href="/blog/tag/meeting">meeting</a>
             </p>
         ]]></content>
-        <updated>2015-02-05T23:23:00Z</updated>
+        <updated>2015-02-05T00:00:00Z</updated>
         <category term="meeting" />
     </entry>
     <entry>
@@ -90,7 +115,7 @@ page</a>.</p>
                 <a href="/blog/tag/meeting">meeting</a>
             </p>
         ]]></content>
-        <updated>2015-01-13T21:58:00Z</updated>
+        <updated>2015-01-13T00:00:00Z</updated>
         <category term="meeting" />
     </entry>
     <entry>
@@ -107,25 +132,8 @@ page</a>.</p>
                 <a href="/blog/tag/meeting">meeting</a>
             </p>
         ]]></content>
-        <updated>2014-12-04T02:58:00Z</updated>
+        <updated>2014-12-04T00:00:00Z</updated>
         <category term="meeting" />
-    </entry>
-    <entry>
-        <id>http://chicago.pm.org/blog/2014/11/04/holiday-schedule-office-hours.html</id>
-        <title>Holiday Schedule - Office Hours</title>
-        <link rel="alternate" href="http://chicago.pm.org/blog/2014/11/04/holiday-schedule-office-hours.html" />
-        <content type="html"><![CDATA[
-            <p>Due to the holiday schedule, this month we will be having Office Hours, with no meeting on Thanksgiving.</p>
-
-<p><a href="http://www.meetup.com/ChicagoPM/events/216964242/">RSVP on the Chicago.PM Meetup</a> to talk about Perl, code, and anything that comes up!</p>
-
-                <p><a href="http://chicago.pm.org/blog/2014/11/04/holiday-schedule-office-hours.html#section-2">Continue reading...</a></p>
-            <p>Tags:
-                <a href="/blog/tag/meetings">meetings</a>
-            </p>
-        ]]></content>
-        <updated>2014-11-04T23:19:00Z</updated>
-        <category term="meetings" />
     </entry>
 </feed>
 

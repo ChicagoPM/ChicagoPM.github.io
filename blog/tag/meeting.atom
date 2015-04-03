@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://chicago.pm.org/blog/tag/meeting</id>
     <title>Chicago.PM</title>
-    <updated>2015-03-05T23:01:25Z</updated>
+    <updated>2015-04-03T00:04:52Z</updated>
     <link rel="self" href="http://chicago.pm.org/blog/tag/meeting.atom"/>
     <link rel="alternate" href="http://chicago.pm.org/blog/tag/meeting"/>
-    <generator version="0.040">Statocles</generator>
+    <generator version="0.044">Statocles</generator>
+    <entry>
+        <id>http://chicago.pm.org/blog/2015/04/02/introduction-to-ffi-platypus</id>
+        <title>Introduction to FFI::Platypus</title>
+        <link rel="alternate" href="http://chicago.pm.org/blog/2015/04/02/introduction-to-ffi-platypus" />
+        <content type="html"><![CDATA[
+            <p>This month, Dylan Cali will give a presentation on <a href="https://metacpan.org/release/FFI-Platypus">FFI::Platypus, a friendly
+and fast interface to libffi</a>. With
+FFI::Platypus, you can use native libraries without having to write bindings in
+XS or one of the Inline modules, and still achieve excellent performance
+(almost as fast as XS).</p>
+
+<p>Dylan will also show off other performance improvements added to version 1 of
+<a href="https://metacpan.org/pod/ZMQ::FFI">ZMQ::FFI</a>, an FFI-based wrapper for the
+<a href="http://zeromq.org">zeromq messaging library</a>.</p>
+
+<p><a href="http://www.meetup.com/ChicagoPM/events/220967211/">RSVP on the Chicago.PM Meetup page</a></p>
+
+                <p><a href="http://chicago.pm.org/blog/2015/04/02/introduction-to-ffi-platypus#section-2">Continue reading...</a></p>
+            <p>Tags:
+                <a href="/blog/tag/meeting">meeting</a>
+            </p>
+        ]]></content>
+        <updated>2015-04-02T00:00:00Z</updated>
+        <category term="meeting" />
+    </entry>
     <entry>
         <id>http://chicago.pm.org/blog/2015/03/05/presentation---introduction-to-moo</id>
         <title>Presentation - Introduction to Moo</title>
@@ -62,7 +87,7 @@ always a lot more of that than it appears.</p>
                 <a href="/blog/tag/meeting">meeting</a>
             </p>
         ]]></content>
-        <updated>2015-02-05T23:23:00Z</updated>
+        <updated>2015-02-05T00:00:00Z</updated>
         <category term="meeting" />
     </entry>
     <entry>
@@ -90,7 +115,7 @@ page</a>.</p>
                 <a href="/blog/tag/meeting">meeting</a>
             </p>
         ]]></content>
-        <updated>2015-01-13T21:58:00Z</updated>
+        <updated>2015-01-13T00:00:00Z</updated>
         <category term="meeting" />
     </entry>
     <entry>
@@ -107,45 +132,7 @@ page</a>.</p>
                 <a href="/blog/tag/meeting">meeting</a>
             </p>
         ]]></content>
-        <updated>2014-12-04T02:58:00Z</updated>
-        <category term="meeting" />
-    </entry>
-    <entry>
-        <id>http://chicago.pm.org/blog/2014/10/07/presentation-modern-perl-object-oriented-programming.html</id>
-        <title>Presentation - Modern Perl Object-Oriented Programming</title>
-        <link rel="alternate" href="http://chicago.pm.org/blog/2014/10/07/presentation-modern-perl-object-oriented-programming.html" />
-        <content type="html"><![CDATA[
-            <p>This month's presentation will be on <a href="http://www.meetup.com/ChicagoPM/events/211160342/">modern Perl OO and the tools to make object-oriented code easy</a>.</p>
-
-<p>Topics will include</p>
-
-<ul>
-<li>Simple objects</li>
-<li>Inheritance and roles</li>
-<li>Method modifiers</li>
-<li>Type checking and coercion</li>
-<li>Meta classes</li>
-</ul>
-
-<p>CPAN modules covered:</p>
-
-<ul>
-<li><a href="https://metacpan.org/pod/Moo">Moo</a></li>
-<li><a href="https://metacpan.org/pod/Role::Tiny">Role::Tiny</a></li>
-<li><a href="https://metacpan.org/pod/Type::Tiny">Type::Tiny</a></li>
-<li><a href="https://metacpan.org/pod/Moose">Moose</a></li>
-</ul>
-
-<p>Doors open at 6:30pm. Meeting starts at 7:00pm. <a href="http://www.meetup.com/ChicagoPM/events/211160342/">RSVP on the Chicago.PM Meetup</a></p>
-
-<p>Update: <a href="http://chicago.pm.org/Object-Oriented">Slides are available on the talks page</a></p>
-
-                <p><a href="http://chicago.pm.org/blog/2014/10/07/presentation-modern-perl-object-oriented-programming.html#section-2">Continue reading...</a></p>
-            <p>Tags:
-                <a href="/blog/tag/meeting">meeting</a>
-            </p>
-        ]]></content>
-        <updated>2014-10-07T01:10:00Z</updated>
+        <updated>2014-12-04T00:00:00Z</updated>
         <category term="meeting" />
     </entry>
 </feed>
