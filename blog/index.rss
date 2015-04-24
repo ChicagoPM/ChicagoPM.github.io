@@ -5,7 +5,7 @@
         <link>http://chicago.pm.org</link>
         <atom:link href="http://chicago.pm.org/blog/index.rss" rel="self" type="application/rss+xml" />
         <description>Blog feed of Chicago.PM</description>
-        <generator>Statocles 0.044</generator>
+        <generator>Statocles 0.045</generator>
         <item>
             <title>Introduction to DBIx::Class</title>
             <link>http://chicago.pm.org/blog/2015/04/02/introduction-to-dbix-class</link>
@@ -22,6 +22,10 @@ web application.</p>
 <p><a href="http://www.meetup.com/ChicagoPM/events/220967211/">RSVP on the Chicago.PM Meetup page</a></p>
 
 <p>(edit: The FFI::Platypus talk will be given another time)</p>
+
+<p>(update: The <a href="http://preaction.github.io/Introduction-to-DBIx-Class">slides for the Introduction to DBIx::Class
+talk</a> are now available
+on <a href="/talks">the talks page</a>)</p>
 
                     <p><a href="http://chicago.pm.org/blog/2015/04/02/introduction-to-dbix-class#section-2">Continue reading...</a></p>
                 <p>Tags:

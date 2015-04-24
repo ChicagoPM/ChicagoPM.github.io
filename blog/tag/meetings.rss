@@ -5,7 +5,7 @@
         <link>http://chicago.pm.org/blog/tag/meetings</link>
         <atom:link href="http://chicago.pm.org/blog/tag/meetings.rss" rel="self" type="application/rss+xml" />
         <description>Blog feed of Chicago.PM</description>
-        <generator>Statocles 0.044</generator>
+        <generator>Statocles 0.045</generator>
         <item>
             <title>Holiday Schedule - Office Hours</title>
             <link>http://chicago.pm.org/blog/2014/11/04/holiday-schedule-office-hours.html</link>
