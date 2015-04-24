@@ -7,6 +7,7 @@ date: 2015-03-05
 
 Here are the slides to some of the talks that have been given at Chicago.PM.
 
+* [2015-04-23: Introduction to DBIx::Class](http://preaction.github.io/Introduction-to-DBIx-Class)
 * [2015-03-26: Introduction to Moo](http://kablamo.org/slides-2014-ddg-intro-to-moo/#/)
 * [2015-02-26: Perl Debugger Training](perl-debugger-training.pdf)
 * [2015-01-22: Introduction to Mojolicious](http://jberger.github.io/MojoliciousIntroduction)

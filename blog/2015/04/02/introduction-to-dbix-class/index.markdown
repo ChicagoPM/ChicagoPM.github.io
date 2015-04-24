@@ -14,3 +14,7 @@ web application.
 [RSVP on the Chicago.PM Meetup page](http://www.meetup.com/ChicagoPM/events/220967211/)
 
 (edit: The FFI::Platypus talk will be given another time)
+
+(update: The [slides for the Introduction to DBIx::Class
+talk](http://preaction.github.io/Introduction-to-DBIx-Class) are now available
+on [the talks page](/talks))
