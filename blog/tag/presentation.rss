@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Chicago.PM</title>
-        <link>http://chicago.pm.org/blog/tag/presentation</link>
+        <link>http://chicago.pm.org/blog/tag/presentation/</link>
         <atom:link href="http://chicago.pm.org/blog/tag/presentation.rss" rel="self" type="application/rss+xml" />
         <description>Blog feed of Chicago.PM</description>
-        <generator>Statocles 0.045</generator>
+        <generator>Statocles 0.046</generator>
         <item>
             <title>Building Command-Line Applications: Doug Bell - May 23</title>
             <link>http://chicago.pm.org/blog/2013/05/20/building-command-line-applications-doug-bell-may-23.html</link>
@@ -23,9 +23,9 @@
 
                     <p><a href="http://chicago.pm.org/blog/2013/05/20/building-command-line-applications-doug-bell-may-23.html#section-2">Continue reading...</a></p>
                 <p>Tags:
-                    <a href="/blog/tag/presentation">presentation</a>
-                    <a href="/blog/tag/announcement">announcement</a>
-                    <a href="/blog/tag/command-line">command line</a>
+                    <a href="/blog/tag/presentation/">presentation</a>
+                    <a href="/blog/tag/announcement/">announcement</a>
+                    <a href="/blog/tag/command-line/">command line</a>
                 </p>
             ]]></description>
             <pubDate>

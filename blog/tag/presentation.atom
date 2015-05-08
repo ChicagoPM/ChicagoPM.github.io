@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://chicago.pm.org/blog/tag/presentation</id>
+    <id>http://chicago.pm.org/blog/tag/presentation/</id>
     <title>Chicago.PM</title>
-    <updated>2015-04-23T23:25:50Z</updated>
+    <updated>2015-05-08T00:09:17Z</updated>
     <link rel="self" href="http://chicago.pm.org/blog/tag/presentation.atom"/>
-    <link rel="alternate" href="http://chicago.pm.org/blog/tag/presentation"/>
-    <generator version="0.045">Statocles</generator>
+    <link rel="alternate" href="http://chicago.pm.org/blog/tag/presentation/"/>
+    <generator version="0.046">Statocles</generator>
     <entry>
         <id>http://chicago.pm.org/blog/2013/05/20/building-command-line-applications-doug-bell-may-23.html</id>
         <title>Building Command-Line Applications: Doug Bell - May 23</title>
@@ -23,9 +23,9 @@
 
                 <p><a href="http://chicago.pm.org/blog/2013/05/20/building-command-line-applications-doug-bell-may-23.html#section-2">Continue reading...</a></p>
             <p>Tags:
-                <a href="/blog/tag/presentation">presentation</a>
-                <a href="/blog/tag/announcement">announcement</a>
-                <a href="/blog/tag/command-line">command line</a>
+                <a href="/blog/tag/presentation/">presentation</a>
+                <a href="/blog/tag/announcement/">announcement</a>
+                <a href="/blog/tag/command-line/">command line</a>
             </p>
         ]]></content>
         <updated>2013-05-20T00:00:00Z</updated>

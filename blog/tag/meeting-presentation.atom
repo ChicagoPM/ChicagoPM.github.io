@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://chicago.pm.org/blog/tag/meeting-presentation</id>
+    <id>http://chicago.pm.org/blog/tag/meeting-presentation/</id>
     <title>Chicago.PM</title>
-    <updated>2015-04-23T23:25:50Z</updated>
+    <updated>2015-05-08T00:09:17Z</updated>
     <link rel="self" href="http://chicago.pm.org/blog/tag/meeting-presentation.atom"/>
-    <link rel="alternate" href="http://chicago.pm.org/blog/tag/meeting-presentation"/>
-    <generator version="0.045">Statocles</generator>
+    <link rel="alternate" href="http://chicago.pm.org/blog/tag/meeting-presentation/"/>
+    <generator version="0.046">Statocles</generator>
     <entry>
         <id>http://chicago.pm.org/blog/2014/04/19/meeting-perldelta-what-slash-s-new-in-perl-since-5-dot-8.html</id>
         <title>perldelta - What's New in Perl Since 5.8 - April 24, 2014</title>
@@ -66,7 +66,7 @@ the most important features and modules added to the Perl core since the 5.8 ser
 
                 <p><a href="http://chicago.pm.org/blog/2014/04/19/meeting-perldelta-what-slash-s-new-in-perl-since-5-dot-8.html#section-2">Continue reading...</a></p>
             <p>Tags:
-                <a href="/blog/tag/meeting-presentation">meeting presentation</a>
+                <a href="/blog/tag/meeting-presentation/">meeting presentation</a>
             </p>
         ]]></content>
         <updated>2014-04-19T00:00:00Z</updated>

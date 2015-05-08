@@ -1,15 +1,50 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://chicago.pm.org/blog/tag/meeting</id>
+    <id>http://chicago.pm.org/blog/tag/meeting/</id>
     <title>Chicago.PM</title>
-    <updated>2015-04-23T23:25:50Z</updated>
+    <updated>2015-05-08T00:09:16Z</updated>
     <link rel="self" href="http://chicago.pm.org/blog/tag/meeting.atom"/>
-    <link rel="alternate" href="http://chicago.pm.org/blog/tag/meeting"/>
-    <generator version="0.045">Statocles</generator>
+    <link rel="alternate" href="http://chicago.pm.org/blog/tag/meeting/"/>
+    <generator version="0.046">Statocles</generator>
     <entry>
-        <id>http://chicago.pm.org/blog/2015/04/02/introduction-to-dbix-class</id>
+        <id>http://chicago.pm.org/blog/2015/05/07/getting-into-perl-6/</id>
+        <title>Getting Into Perl 6</title>
+        <link rel="alternate" href="http://chicago.pm.org/blog/2015/05/07/getting-into-perl-6/" />
+        <content type="html"><![CDATA[
+            <p>You may have heard that <a href="http://perl6.org">Perl 6</a> is making its debut this
+Christmas; This is the perfect time to get involved and help the team get
+through the last mile. <a href="http://hoelz.ro">Rob Hoelz</a> will walk through making a
+change to <a href="http://rakudo.org">the Rakudo compiler</a>, which will make it easier
+to make your own changes and help out! A brief rundown of the evening:</p>
+
+<ul>
+<li>A quick intro to Perl 6 for newbies</li>
+<li>A brief overview of the Perl 6 ecosystem</li>
+<li>A tour of the Rakudo compiler's source</li>
+<li>Going through the compiler and making the change</li>
+</ul>
+
+<p>Join us on Thursday, May 28 at 7:00 PM. <a href="http://www.meetup.com/ChicagoPM/events/222390262/">RSVP on the Chicago.PM
+Meetup page</a></p>
+
+<p>If you've got Perl problems, questions, or just want to meet fellow Perl programmers,
+come to Office Hours on Thursday, May 14. <a href="http://www.meetup.com/ChicagoPM/events/221766093/">RSVP for Office Hours on the Chicago.PM
+Meetup page</a></p>
+
+                <p><a href="http://chicago.pm.org/blog/2015/05/07/getting-into-perl-6/#section-2">Continue reading...</a></p>
+            <p>Tags:
+                <a href="/blog/tag/meeting/">meeting</a>
+                <a href="/blog/tag/perl-6/">perl 6</a>
+            </p>
+        ]]></content>
+        <updated>2015-05-07T00:00:00Z</updated>
+        <category term="meeting" />
+        <category term="perl 6" />
+    </entry>
+    <entry>
+        <id>http://chicago.pm.org/blog/2015/04/02/introduction-to-dbix-class/</id>
         <title>Introduction to DBIx::Class</title>
-        <link rel="alternate" href="http://chicago.pm.org/blog/2015/04/02/introduction-to-dbix-class" />
+        <link rel="alternate" href="http://chicago.pm.org/blog/2015/04/02/introduction-to-dbix-class/" />
         <content type="html"><![CDATA[
             <p>This month, Doug Bell will be giving a talk on the
 <a href="http://metacpan.org/pod/DBIx::Class">DBIx::Class</a> ORM library.  DBIx::Class
@@ -27,18 +62,18 @@ web application.</p>
 talk</a> are now available
 on <a href="/talks">the talks page</a>)</p>
 
-                <p><a href="http://chicago.pm.org/blog/2015/04/02/introduction-to-dbix-class#section-2">Continue reading...</a></p>
+                <p><a href="http://chicago.pm.org/blog/2015/04/02/introduction-to-dbix-class/#section-2">Continue reading...</a></p>
             <p>Tags:
-                <a href="/blog/tag/meeting">meeting</a>
+                <a href="/blog/tag/meeting/">meeting</a>
             </p>
         ]]></content>
         <updated>2015-04-02T00:00:00Z</updated>
         <category term="meeting" />
     </entry>
     <entry>
-        <id>http://chicago.pm.org/blog/2015/03/05/presentation---introduction-to-moo</id>
+        <id>http://chicago.pm.org/blog/2015/03/05/presentation---introduction-to-moo/</id>
         <title>Presentation - Introduction to Moo</title>
-        <link rel="alternate" href="http://chicago.pm.org/blog/2015/03/05/presentation---introduction-to-moo" />
+        <link rel="alternate" href="http://chicago.pm.org/blog/2015/03/05/presentation---introduction-to-moo/" />
         <content type="html"><![CDATA[
             <p>For this month's <a href="http://www.meetup.com/ChicagoPM/events/220963375/">technical meeting on March 26</a>, <a href="https://github.com/kablamo">Eric Johnson</a>
 is giving an introduction to the <a href="http://metacpan.org/pod/Moo">Moo</a> object
@@ -63,9 +98,9 @@ system, and how to do object-oriented programming with Moo. The topics include:<
 and get assistance from other Perl programmers. <a href="http://www.meetup.com/ChicagoPM/events/220897775/">RSVP for Office Hours on the
 Chicago.PM Meetup</a></p>
 
-                <p><a href="http://chicago.pm.org/blog/2015/03/05/presentation---introduction-to-moo#section-2">Continue reading...</a></p>
+                <p><a href="http://chicago.pm.org/blog/2015/03/05/presentation---introduction-to-moo/#section-2">Continue reading...</a></p>
             <p>Tags:
-                <a href="/blog/tag/meeting">meeting</a>
+                <a href="/blog/tag/meeting/">meeting</a>
             </p>
         ]]></content>
         <updated>2015-03-05T00:00:00Z</updated>
@@ -88,7 +123,7 @@ always a lot more of that than it appears.</p>
 
                 <p><a href="http://chicago.pm.org/blog/2015/02/05/presentation-debugging-with-the-perl-debugger.html#section-2">Continue reading...</a></p>
             <p>Tags:
-                <a href="/blog/tag/meeting">meeting</a>
+                <a href="/blog/tag/meeting/">meeting</a>
             </p>
         ]]></content>
         <updated>2015-02-05T00:00:00Z</updated>
@@ -116,27 +151,10 @@ page</a>.</p>
 
                 <p><a href="http://chicago.pm.org/blog/2015/01/13/presentation-introduction-to-mojolicious.html#section-2">Continue reading...</a></p>
             <p>Tags:
-                <a href="/blog/tag/meeting">meeting</a>
+                <a href="/blog/tag/meeting/">meeting</a>
             </p>
         ]]></content>
         <updated>2015-01-13T00:00:00Z</updated>
-        <category term="meeting" />
-    </entry>
-    <entry>
-        <id>http://chicago.pm.org/blog/2014/12/04/holiday-schedule-office-hours-2.html</id>
-        <title>Holiday Schedule - Office Hours 2</title>
-        <link rel="alternate" href="http://chicago.pm.org/blog/2014/12/04/holiday-schedule-office-hours-2.html" />
-        <content type="html"><![CDATA[
-            <p>Due to the holiday schedule, our last meeting of the year will be Office Hours on December 11, starting at 6:30pm.</p>
-
-<p><a href="http://www.meetup.com/ChicagoPM/events/219034393/">RSVP on the Chicago.PM Meetup</a> to talk about Perl, code, and anything that comes up!</p>
-
-                <p><a href="http://chicago.pm.org/blog/2014/12/04/holiday-schedule-office-hours-2.html#section-2">Continue reading...</a></p>
-            <p>Tags:
-                <a href="/blog/tag/meeting">meeting</a>
-            </p>
-        ]]></content>
-        <updated>2014-12-04T00:00:00Z</updated>
         <category term="meeting" />
     </entry>
 </feed>

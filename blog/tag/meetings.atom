@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://chicago.pm.org/blog/tag/meetings</id>
+    <id>http://chicago.pm.org/blog/tag/meetings/</id>
     <title>Chicago.PM</title>
-    <updated>2015-04-23T23:25:50Z</updated>
+    <updated>2015-05-08T00:09:16Z</updated>
     <link rel="self" href="http://chicago.pm.org/blog/tag/meetings.atom"/>
-    <link rel="alternate" href="http://chicago.pm.org/blog/tag/meetings"/>
-    <generator version="0.045">Statocles</generator>
+    <link rel="alternate" href="http://chicago.pm.org/blog/tag/meetings/"/>
+    <generator version="0.046">Statocles</generator>
     <entry>
         <id>http://chicago.pm.org/blog/2014/11/04/holiday-schedule-office-hours.html</id>
         <title>Holiday Schedule - Office Hours</title>
@@ -17,7 +17,7 @@
 
                 <p><a href="http://chicago.pm.org/blog/2014/11/04/holiday-schedule-office-hours.html#section-2">Continue reading...</a></p>
             <p>Tags:
-                <a href="/blog/tag/meetings">meetings</a>
+                <a href="/blog/tag/meetings/">meetings</a>
             </p>
         ]]></content>
         <updated>2014-11-04T00:00:00Z</updated>
@@ -43,7 +43,7 @@ some tips, or would like to give some tips, bring them along.</p>
 
                 <p><a href="http://chicago.pm.org/blog/2014/09/05/lightning-talks-my-dev-environment.html#section-2">Continue reading...</a></p>
             <p>Tags:
-                <a href="/blog/tag/meetings">meetings</a>
+                <a href="/blog/tag/meetings/">meetings</a>
             </p>
         ]]></content>
         <updated>2014-09-05T00:00:00Z</updated>
