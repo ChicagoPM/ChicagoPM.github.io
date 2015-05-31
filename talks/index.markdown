@@ -1,12 +1,13 @@
 ---
 title: "Talks - Chicago.PM"
-date: 2015-03-05
+date: 2015-05-28
 ---
 
 # Talks
 
 Here are the slides to some of the talks that have been given at Chicago.PM.
 
+* [2015-05-28: Getting into Perl 6 (Hacking the Rakudo Compiler)](https://docs.google.com/presentation/d/1JVJfNlCQL7crJytbKsdlf7Jw4c4dMScjogHLkZuOwcs/edit#slide=id.p)
 * [2015-04-23: Introduction to DBIx::Class](http://preaction.github.io/Introduction-to-DBIx-Class)
 * [2015-03-26: Introduction to Moo](http://kablamo.org/slides-2014-ddg-intro-to-moo/#/)
 * [2015-02-26: Perl Debugger Training](perl-debugger-training.pdf)

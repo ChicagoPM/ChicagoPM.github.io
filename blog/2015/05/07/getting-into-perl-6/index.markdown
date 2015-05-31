@@ -22,3 +22,5 @@ Meetup page](http://www.meetup.com/ChicagoPM/events/222390262/)
 If you've got Perl problems, questions, or just want to meet fellow Perl programmers,
 come to Office Hours on Thursday, May 14. [RSVP for Office Hours on the Chicago.PM
 Meetup page](http://www.meetup.com/ChicagoPM/events/221766093/)
+
+(EDIT: Slides have been added [to the talks page](/talks))
