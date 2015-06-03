@@ -7,6 +7,33 @@
         <description>Blog feed of Chicago.PM</description>
         <generator>Statocles 0.046</generator>
         <item>
+            <title>Meeting June 25 - Excel Spreadsheets with Perl</title>
+            <link>http://chicago.pm.org/blog/2015/06/02/meeting-june-25-excel-spreadsheets-with-perl/</link>
+            <guid>http://chicago.pm.org/blog/2015/06/02/meeting-june-25-excel-spreadsheets-with-perl/</guid>
+            <description><![CDATA[
+                <p>This month, Mike Schienle will to talk about reading and writing Excel
+spreadsheets from Perl, with the main focus on writing them. The presentation
+will discuss writing both data and formulas, multiple sheets, adding comments,
+etc. Mike uses Excel in both his day job as an ETL geek for Northern Trust and
+processing weather data.</p>
+
+<p>Doors open at 6:30pm. Meeting starts at 7:00pm. <a href="http://www.meetup.com/ChicagoPM/events/221598709/">RSVP for Excel Spreadsheets
+with Perl on the Chicago.PM
+Meetup.</a></p>
+
+<p>This month's office hours will be on June 11. <a href="http://www.meetup.com/ChicagoPM/events/222836256/">RSVP for office hours on the
+Chicago.PM Meetup</a></p>
+
+                    <p><a href="http://chicago.pm.org/blog/2015/06/02/meeting-june-25-excel-spreadsheets-with-perl/#section-2">Continue reading...</a></p>
+                <p>Tags:
+                    <a href="/blog/tag/meeting/">meeting</a>
+                </p>
+            ]]></description>
+            <pubDate>
+                Tue, 02 Jun 2015 00:00:00 +0000
+            </pubDate>
+        </item>
+        <item>
             <title>Getting Into Perl 6</title>
             <link>http://chicago.pm.org/blog/2015/05/07/getting-into-perl-6/</link>
             <guid>http://chicago.pm.org/blog/2015/05/07/getting-into-perl-6/</guid>
@@ -132,35 +159,6 @@ always a lot more of that than it appears.</p>
             ]]></description>
             <pubDate>
                 Thu, 05 Feb 2015 00:00:00 +0000
-            </pubDate>
-        </item>
-        <item>
-            <title>Presentation - Introduction to Mojolicious</title>
-            <link>http://chicago.pm.org/blog/2015/01/13/presentation-introduction-to-mojolicious.html</link>
-            <guid>http://chicago.pm.org/blog/2015/01/13/presentation-introduction-to-mojolicious.html</guid>
-            <description><![CDATA[
-                <p>To start off the new year, <a href="">Joel Berger</a> will be giving an introduction to
-<a href="http://mojolicio.us">the Mojolicious web framework</a>. The <a href="http://mojolicious-introduction.herokuapp.com">presentation itself
-is a Mojolicious app, hosted on
-Heroku</a>.</p>
-
-<p><a href="http://www.meetup.com/ChicagoPM/events/219629915/">RSVP for this meeting on the Chicago.PM Meetup
-page</a></p>
-
-<p>The Chicago.PM is going mobile! If you're a business using Perl and would like
-to host one of the regular Chicago.PM meetings, or a special event, let <a href="mailto:madcityzen@gmail.com">Doug
-Bell</a> know. <a href="http://www.meetup.com/ChicagoPM/messages/boards/thread/48618307">More details on our Meetup discussion
-page</a>.</p>
-
-<p><a href="http://jberger.github.io/MojoliciousIntroduction">Presentation slides are available on the Talks page</a></p>
-
-                    <p><a href="http://chicago.pm.org/blog/2015/01/13/presentation-introduction-to-mojolicious.html#section-2">Continue reading...</a></p>
-                <p>Tags:
-                    <a href="/blog/tag/meeting/">meeting</a>
-                </p>
-            ]]></description>
-            <pubDate>
-                Tue, 13 Jan 2015 00:00:00 +0000
             </pubDate>
         </item>
     </channel>
