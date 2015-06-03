@@ -1,9 +1,9 @@
 ---
 tags:
   - meeting
-title: 'Meeting June 25 - Excel Spreadsheets with Perl'
+title: 'Excel Spreadsheets with Perl'
 ---
-This month, Mike Schienle will to talk about reading and writing Excel
+This month, Mike Schienle will talk about reading and writing Excel
 spreadsheets from Perl, with the main focus on writing them. The presentation
 will discuss writing both data and formulas, multiple sheets, adding comments,
 etc. Mike uses Excel in both his day job as an ETL geek for Northern Trust and
