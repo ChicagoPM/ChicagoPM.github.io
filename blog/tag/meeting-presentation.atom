@@ -2,19 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://chicago.pm.org/blog/tag/meeting-presentation/</id>
     <title>Chicago.PM</title>
-    <updated>2015-06-02T23:15:22Z</updated>
-    <link rel="self" href="http://chicago.pm.org/blog/tag/meeting-presentation.atom"/>
-    <link rel="alternate" href="http://chicago.pm.org/blog/tag/meeting-presentation/"/>
-    <generator version="0.046">Statocles</generator>
+    <updated>2015-06-28T22:08:44Z</updated>
+    <link href="http://chicago.pm.org/blog/tag/meeting-presentation.atom" rel="self" />
+    <link href="http://chicago.pm.org/blog/tag/meeting-presentation/" rel="alternate" />
+    <generator version="0.050">Statocles</generator>
     <entry>
         <id>http://chicago.pm.org/blog/2014/04/19/meeting-perldelta-what-slash-s-new-in-perl-since-5-dot-8.html</id>
-        <title>perldelta - What's New in Perl Since 5.8 - April 24, 2014</title>
-        <link rel="alternate" href="http://chicago.pm.org/blog/2014/04/19/meeting-perldelta-what-slash-s-new-in-perl-since-5-dot-8.html" />
+        <title>perldelta - What&#39;s New in Perl Since 5.8 - April 24, 2014</title>
+        <link href="http://chicago.pm.org/blog/2014/04/19/meeting-perldelta-what-slash-s-new-in-perl-since-5-dot-8.html" rel="alternate" />
         <content type="html"><![CDATA[
-            <p>This month, <a href="http://blogs.perl.org/users/preaction">Doug Bell</a> will be giving a presentation on
+            <p>This month, <a href="http://chicago.pm.org/blog/2014/04/19/http://blogs.perl.org/users/preaction">Doug Bell</a> will be giving a presentation on
 the most important features and modules added to the Perl core since the 5.8 series.</p>
 
-<p>RSVP on the <a href="http://www.meetup.com/ChicagoPM/events/176551582/">Chicago.PM Meetup page</a> to attend.</p>
+<p>RSVP on the <a href="http://chicago.pm.org/blog/2014/04/19/http://www.meetup.com/ChicagoPM/events/176551582/">Chicago.PM Meetup page</a> to attend.</p>
 
 <p>If you upgrade to 5.10 you get:</p>
 
@@ -59,7 +59,7 @@ the most important features and modules added to the Perl core since the 5.8 ser
 
 <ul>
 <li>Hash-based slices (%hash{...} and %array[...])</li>
-<li>EXP: Postfix dereference operators ($ref->%*)</li>
+<li>EXP: Postfix dereference operators ($ref-&gt;%*)</li>
 <li>EXP: Subroutine signatures (sub mysub( $foo, $bar, @baz ) { ... })</li>
 <li>IO::Socket::IP</li>
 </ul>
