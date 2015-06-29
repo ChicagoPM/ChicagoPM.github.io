@@ -15,3 +15,6 @@ Meetup.](http://www.meetup.com/ChicagoPM/events/221598709/)
 
 This month's office hours will be on June 11. [RSVP for office hours on the
 Chicago.PM Meetup](http://www.meetup.com/ChicagoPM/events/222836256/)
+
+(EDIT: [Slides from the talk](/talks/excel-spreadsheets-with-perl.pdf) have been added
+to [the talks page](/talks))
