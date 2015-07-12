@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://chicago.pm.org/blog/tag/meeting/</id>
     <title>Chicago.PM</title>
-    <updated>2015-07-09T18:40:57Z</updated>
+    <updated>2015-07-12T15:55:44Z</updated>
     <link href="http://chicago.pm.org/blog/tag/meeting.atom" rel="self" />
     <link href="http://chicago.pm.org/blog/tag/meeting/" rel="alternate" />
-    <generator version="0.050">Statocles</generator>
+    <generator version="0.051">Statocles</generator>
     <entry>
         <id>http://chicago.pm.org/blog/2015/07/09/testing-javascript-from-perl/</id>
         <title>Testing Javascript From Perl</title>
