@@ -36,7 +36,7 @@ site:
                   href: /howto
         deploy:
             $class: Statocles::Deploy::Git
-        index: blog
+        index: /blog
         apps:
             plain:
                 $ref: plain_app
