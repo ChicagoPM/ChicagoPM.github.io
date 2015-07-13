@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://chicago.pm.org/blog/tag/meetings/</id>
     <title>Chicago.PM</title>
-    <updated>2015-07-12T15:56:40Z</updated>
+    <updated>2015-07-13T10:58:26Z</updated>
     <link href="http://chicago.pm.org/blog/tag/meetings.atom" rel="self" />
     <link href="http://chicago.pm.org/blog/tag/meetings/" rel="alternate" />
-    <generator version="0.051">Statocles</generator>
+    <generator version="0.053">Statocles</generator>
     <entry>
         <id>http://chicago.pm.org/blog/2014/11/04/holiday-schedule-office-hours.html</id>
         <title>Holiday Schedule - Office Hours</title>
@@ -13,7 +13,7 @@
         <content type="html"><![CDATA[
             <p>Due to the holiday schedule, this month we will be having Office Hours, with no meeting on Thanksgiving.</p>
 
-<p><a href="http://chicago.pm.org/blog/2014/11/04/http://www.meetup.com/ChicagoPM/events/216964242/">RSVP on the Chicago.PM Meetup</a> to talk about Perl, code, and anything that comes up!</p>
+<p><a href="http://www.meetup.com/ChicagoPM/events/216964242/">RSVP on the Chicago.PM Meetup</a> to talk about Perl, code, and anything that comes up!</p>
 
                 <p><a href="http://chicago.pm.org/blog/2014/11/04/holiday-schedule-office-hours.html#section-2">Continue reading...</a></p>
             <p>Tags:
@@ -28,8 +28,8 @@
         <title>Lightning Talks - My Dev Environment</title>
         <link href="http://chicago.pm.org/blog/2014/09/05/lightning-talks-my-dev-environment.html" rel="alternate" />
         <content type="html"><![CDATA[
-            <p>This month, we&#39;re doing <a href="http://chicago.pm.org/blog/2014/09/05/http://www.meetup.com/ChicagoPM/events/199302682/">lightning talks on the topic of &quot;My Dev Environment&quot;</a>.
-<a href="http://chicago.pm.org/blog/2014/09/05/http://en.wikipedia.org/wiki/Lightning_talk">Lightning talks</a> are 5-10 minute, informal
+            <p>This month, we&#39;re doing <a href="http://www.meetup.com/ChicagoPM/events/199302682/">lightning talks on the topic of &quot;My Dev Environment&quot;</a>.
+<a href="http://en.wikipedia.org/wiki/Lightning_talk">Lightning talks</a> are 5-10 minute, informal
 presentations. Bring your development environment (editor, IDE, operating
 system, shell, and otherwise) and tell us
 the most useful parts.</p>
@@ -37,9 +37,9 @@ the most useful parts.</p>
 <p>This is not strictly a Perl talk, so if you know someone who&#39;d like to hear
 some tips, or would like to give some tips, bring them along.</p>
 
-<p>If you&#39;d like to present your dev environment, <a href="http://chicago.pm.org/blog/2014/09/05/http://www.meetup.com/ChicagoPM/events/199302682/">leave a comment on the ChicagoPM Meetup page</a>.</p>
+<p>If you&#39;d like to present your dev environment, <a href="http://www.meetup.com/ChicagoPM/events/199302682/">leave a comment on the ChicagoPM Meetup page</a>.</p>
 
-<p>Office Hours will be on Thursday the 11th. <a href="http://chicago.pm.org/blog/2014/09/05/http://www.meetup.com/ChicagoPM/events/204729852/">RSVP for Office Hours on the ChicagoPM Meetup page</a>.</p>
+<p>Office Hours will be on Thursday the 11th. <a href="http://www.meetup.com/ChicagoPM/events/204729852/">RSVP for Office Hours on the ChicagoPM Meetup page</a>.</p>
 
                 <p><a href="http://chicago.pm.org/blog/2014/09/05/lightning-talks-my-dev-environment.html#section-2">Continue reading...</a></p>
             <p>Tags:

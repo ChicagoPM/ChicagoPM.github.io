@@ -1,19 +1,187 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>http://chicago.pm.org/notes/2015-07-09/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2015-07-13</lastmod>
+    </url>
+    <url>
+        <loc>http://chicago.pm.org/blog/2014/07/04/meeting-parsing-regex-and-grammars.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2014-07-04</lastmod>
+    </url>
+    <url>
+        <loc>http://chicago.pm.org/blog/2014/06/02/meeting-ffi-raw-libffi-bindings-for-perl.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2014-06-02</lastmod>
+    </url>
+    <url>
+        <loc>http://chicago.pm.org/notes/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2015-07-13</lastmod>
+    </url>
+    <url>
+        <loc>http://chicago.pm.org/howto/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2015-07-13</lastmod>
+    </url>
+    <url>
+        <loc>http://chicago.pm.org/blog/2013/05/20/building-command-line-applications-doug-bell-may-23.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2013-05-20</lastmod>
+    </url>
+    <url>
+        <loc>http://chicago.pm.org/notes/2014-03-27/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2015-07-13</lastmod>
+    </url>
+    <url>
+        <loc>http://chicago.pm.org/blog/tag/meeting/page/3/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.3</priority>
+        <lastmod>2015-07-09</lastmod>
+    </url>
+    <url>
+        <loc>http://chicago.pm.org/blog/tag/perl-6/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.3</priority>
+        <lastmod>2015-05-07</lastmod>
+    </url>
+    <url>
+        <loc>http://chicago.pm.org/blog/2015/03/05/presentation---introduction-to-moo/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2015-03-05</lastmod>
+    </url>
+    <url>
+        <loc>http://chicago.pm.org/blog/2014/05/19/meeting-lightning-talks-anything-goes.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2014-05-19</lastmod>
+    </url>
+    <url>
+        <loc>http://chicago.pm.org/blog/2015/06/02/excel-spreadsheets-with-perl/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2015-06-02</lastmod>
+    </url>
+    <url>
+        <loc>http://chicago.pm.org/blog/page/3/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.3</priority>
+        <lastmod>2015-07-09</lastmod>
+    </url>
+    <url>
+        <loc>http://chicago.pm.org/blog/2015/07/09/testing-javascript-from-perl/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2015-07-09</lastmod>
+    </url>
+    <url>
+        <loc>http://chicago.pm.org/about/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2013-05-20</lastmod>
+    </url>
+    <url>
+        <loc>http://chicago.pm.org/blog/tag/meeting-presentation/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.3</priority>
+        <lastmod>2014-04-19</lastmod>
+    </url>
+    <url>
+        <loc>http://chicago.pm.org/blog/tag/meetings/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.3</priority>
+        <lastmod>2014-11-04</lastmod>
+    </url>
+    <url>
+        <loc>http://chicago.pm.org/blog/2014/12/04/holiday-schedule-office-hours-2.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2014-12-04</lastmod>
+    </url>
+    <url>
+        <loc>http://chicago.pm.org/blog/2014/04/19/meeting-perldelta-what-slash-s-new-in-perl-since-5-dot-8.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2014-04-19</lastmod>
+    </url>
+    <url>
+        <loc>http://chicago.pm.org/notes/2014-04-09/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2015-07-13</lastmod>
+    </url>
+    <url>
+        <loc>http://chicago.pm.org/blog/tag/announcement/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.3</priority>
+        <lastmod>2013-05-20</lastmod>
+    </url>
+    <url>
+        <loc>http://chicago.pm.org/blog/2014/10/07/presentation-modern-perl-object-oriented-programming.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2014-10-07</lastmod>
+    </url>
+    <url>
+        <loc>http://chicago.pm.org/blog/2015/05/07/getting-into-perl-6/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2015-05-07</lastmod>
+    </url>
+    <url>
+        <loc>http://chicago.pm.org/jobs/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2015-07-13</lastmod>
+    </url>
+    <url>
+        <loc>http://chicago.pm.org/blog/2015/02/05/presentation-debugging-with-the-perl-debugger.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2015-02-05</lastmod>
+    </url>
+    <url>
+        <loc>http://chicago.pm.org/blog/tag/meeting/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.3</priority>
+        <lastmod>2015-07-09</lastmod>
+    </url>
+    <url>
+        <loc>http://chicago.pm.org/notes/2014-07-09/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2015-07-13</lastmod>
+    </url>
+    <url>
+        <loc>http://chicago.pm.org/blog/2015/01/13/presentation-introduction-to-mojolicious.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2015-01-13</lastmod>
+    </url>
+    <url>
         <loc>http://chicago.pm.org/blog/tag/presentation/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
         <lastmod>2013-05-20</lastmod>
     </url>
     <url>
-        <loc>http://chicago.pm.org/blog/page/4/</loc>
-        <changefreq>daily</changefreq>
-        <priority>0.3</priority>
-        <lastmod>2015-07-09</lastmod>
+        <loc>http://chicago.pm.org/notes/2014-05-22/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2015-07-13</lastmod>
     </url>
     <url>
-        <loc>http://chicago.pm.org/</loc>
+        <loc>http://chicago.pm.org/blog/page/4/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
         <lastmod>2015-07-09</lastmod>
@@ -25,22 +193,10 @@
         <lastmod>2015-05-28</lastmod>
     </url>
     <url>
-        <loc>http://chicago.pm.org/blog/tag/meeting-presentation/</loc>
+        <loc>http://chicago.pm.org/blog/tag/meeting/page/2/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2014-04-19</lastmod>
-    </url>
-    <url>
-        <loc>http://chicago.pm.org/blog/2014/07/04/meeting-parsing-regex-and-grammars.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        <lastmod>2014-07-04</lastmod>
-    </url>
-    <url>
-        <loc>http://chicago.pm.org/blog/2015/06/02/excel-spreadsheets-with-perl/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        <lastmod>2015-06-02</lastmod>
+        <lastmod>2015-07-09</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/2014/08/06/become-a-cpan-author-workshop-brian-d-foy.html</loc>
@@ -55,52 +211,10 @@
         <lastmod>2013-05-20</lastmod>
     </url>
     <url>
-        <loc>http://chicago.pm.org/blog/tag/perl-6/</loc>
-        <changefreq>daily</changefreq>
-        <priority>0.3</priority>
-        <lastmod>2015-05-07</lastmod>
-    </url>
-    <url>
-        <loc>http://chicago.pm.org/blog/2014/06/02/meeting-ffi-raw-libffi-bindings-for-perl.html</loc>
+        <loc>http://chicago.pm.org/blog/2015/04/02/introduction-to-dbix-class/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2014-06-02</lastmod>
-    </url>
-    <url>
-        <loc>http://chicago.pm.org/blog/page/3/</loc>
-        <changefreq>daily</changefreq>
-        <priority>0.3</priority>
-        <lastmod>2015-07-09</lastmod>
-    </url>
-    <url>
-        <loc>http://chicago.pm.org/blog/2015/01/13/presentation-introduction-to-mojolicious.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        <lastmod>2015-01-13</lastmod>
-    </url>
-    <url>
-        <loc>http://chicago.pm.org/howto/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        <lastmod>2015-07-12</lastmod>
-    </url>
-    <url>
-        <loc>http://chicago.pm.org/blog/tag/meeting/page/3/</loc>
-        <changefreq>daily</changefreq>
-        <priority>0.3</priority>
-        <lastmod>2015-07-09</lastmod>
-    </url>
-    <url>
-        <loc>http://chicago.pm.org/blog/2014/10/07/presentation-modern-perl-object-oriented-programming.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        <lastmod>2014-10-07</lastmod>
-    </url>
-    <url>
-        <loc>http://chicago.pm.org/notes/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        <lastmod>2015-07-12</lastmod>
+        <lastmod>2015-04-02</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/2014/09/05/lightning-talks-my-dev-environment.html</loc>
@@ -115,9 +229,9 @@
         <lastmod>2014-11-04</lastmod>
     </url>
     <url>
-        <loc>http://chicago.pm.org/blog/2015/07/09/testing-javascript-from-perl/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
+        <loc>http://chicago.pm.org/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.3</priority>
         <lastmod>2015-07-09</lastmod>
     </url>
     <url>
@@ -125,120 +239,6 @@
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
         <lastmod>2015-07-09</lastmod>
-    </url>
-    <url>
-        <loc>http://chicago.pm.org/blog/2013/05/20/building-command-line-applications-doug-bell-may-23.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        <lastmod>2013-05-20</lastmod>
-    </url>
-    <url>
-        <loc>http://chicago.pm.org/notes/2014-07-09/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        <lastmod>2015-07-12</lastmod>
-    </url>
-    <url>
-        <loc>http://chicago.pm.org/blog/2015/02/05/presentation-debugging-with-the-perl-debugger.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        <lastmod>2015-02-05</lastmod>
-    </url>
-    <url>
-        <loc>http://chicago.pm.org/notes/2015-07-09/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        <lastmod>2015-07-12</lastmod>
-    </url>
-    <url>
-        <loc>http://chicago.pm.org/notes/2014-04-09/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        <lastmod>2015-07-12</lastmod>
-    </url>
-    <url>
-        <loc>http://chicago.pm.org/blog/2015/05/07/getting-into-perl-6/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        <lastmod>2015-05-07</lastmod>
-    </url>
-    <url>
-        <loc>http://chicago.pm.org/blog/tag/meetings/</loc>
-        <changefreq>daily</changefreq>
-        <priority>0.3</priority>
-        <lastmod>2014-11-04</lastmod>
-    </url>
-    <url>
-        <loc>http://chicago.pm.org/blog/tag/meeting/page/2/</loc>
-        <changefreq>daily</changefreq>
-        <priority>0.3</priority>
-        <lastmod>2015-07-09</lastmod>
-    </url>
-    <url>
-        <loc>http://chicago.pm.org/blog/2014/05/19/meeting-lightning-talks-anything-goes.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        <lastmod>2014-05-19</lastmod>
-    </url>
-    <url>
-        <loc>http://chicago.pm.org/notes/2014-03-27/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        <lastmod>2015-07-12</lastmod>
-    </url>
-    <url>
-        <loc>http://chicago.pm.org/blog/2015/03/05/presentation---introduction-to-moo/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        <lastmod>2015-03-05</lastmod>
-    </url>
-    <url>
-        <loc>http://chicago.pm.org/jobs/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        <lastmod>2015-07-12</lastmod>
-    </url>
-    <url>
-        <loc>http://chicago.pm.org/blog/2015/04/02/introduction-to-dbix-class/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        <lastmod>2015-04-02</lastmod>
-    </url>
-    <url>
-        <loc>http://chicago.pm.org/blog/2014/04/19/meeting-perldelta-what-slash-s-new-in-perl-since-5-dot-8.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        <lastmod>2014-04-19</lastmod>
-    </url>
-    <url>
-        <loc>http://chicago.pm.org/notes/2014-05-22/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        <lastmod>2015-07-12</lastmod>
-    </url>
-    <url>
-        <loc>http://chicago.pm.org/blog/2014/12/04/holiday-schedule-office-hours-2.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        <lastmod>2014-12-04</lastmod>
-    </url>
-    <url>
-        <loc>http://chicago.pm.org/blog/tag/announcement/</loc>
-        <changefreq>daily</changefreq>
-        <priority>0.3</priority>
-        <lastmod>2013-05-20</lastmod>
-    </url>
-    <url>
-        <loc>http://chicago.pm.org/blog/tag/meeting/</loc>
-        <changefreq>daily</changefreq>
-        <priority>0.3</priority>
-        <lastmod>2015-07-09</lastmod>
-    </url>
-    <url>
-        <loc>http://chicago.pm.org/about/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        <lastmod>2013-05-20</lastmod>
     </url>
 </urlset>
 

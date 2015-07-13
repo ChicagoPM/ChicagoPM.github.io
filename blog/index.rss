@@ -5,14 +5,14 @@
         <link>http://chicago.pm.org/blog/</link>
         <atom:link href="http://chicago.pm.org/blog/index.rss" rel="self" type="application/rss+xml" />
         <description>Blog feed of Chicago.PM</description>
-        <generator>Statocles 0.051</generator>
+        <generator>Statocles 0.053</generator>
         <item>
             <title>Testing Javascript From Perl</title>
             <link>http://chicago.pm.org/blog/2015/07/09/testing-javascript-from-perl/</link>
             <guid>http://chicago.pm.org/blog/2015/07/09/testing-javascript-from-perl/</guid>
             <description><![CDATA[
-                <p>This month, <a href="http://chicago.pm.org/blog/2015/07/09/testing-javascript-from-perl/https://metacpan.org/author/JBERGER">Joel Berger</a> will be giving a
-talk on testing Javascript from <a href="http://chicago.pm.org/blog/2015/07/09/testing-javascript-from-perl/http://mojolicio.us">Mojolicious</a></p>
+                <p>This month, <a href="https://metacpan.org/author/JBERGER">Joel Berger</a> will be giving a
+talk on testing Javascript from <a href="http://mojolicio.us">Mojolicious</a></p>
 
 <blockquote>
   <p>Do you test your Javascript? All of it? Be honest. I thought so, neither did
@@ -29,7 +29,7 @@ talk on testing Javascript from <a href="http://chicago.pm.org/blog/2015/07/09/t
   cake to install. You&#39;ll be testing your browser behavior in no time!</p>
 </blockquote>
 
-<p>Doors open at 6:45. Meeting starts at 7:00. <a href="http://chicago.pm.org/blog/2015/07/09/testing-javascript-from-perl/http://www.meetup.com/ChicagoPM/events/223686277/">RSVP on the Meetup
+<p>Doors open at 6:45. Meeting starts at 7:00. <a href="http://www.meetup.com/ChicagoPM/events/223686277/">RSVP on the Meetup
 page</a></p>
 
                     <p><a href="http://chicago.pm.org/blog/2015/07/09/testing-javascript-from-perl/#section-2">Continue reading...</a></p>
@@ -52,11 +52,11 @@ will discuss writing both data and formulas, multiple sheets, adding comments,
 etc. Mike uses Excel in both his day job as an ETL geek for Northern Trust and
 processing weather data.</p>
 
-<p>Doors open at 6:30pm. Meeting starts at 7:00pm. <a href="http://chicago.pm.org/blog/2015/06/02/excel-spreadsheets-with-perl/http://www.meetup.com/ChicagoPM/events/221598709/">RSVP for Excel Spreadsheets
+<p>Doors open at 6:30pm. Meeting starts at 7:00pm. <a href="http://www.meetup.com/ChicagoPM/events/221598709/">RSVP for Excel Spreadsheets
 with Perl on the Chicago.PM
 Meetup.</a></p>
 
-<p>This month&#39;s office hours will be on June 11. <a href="http://chicago.pm.org/blog/2015/06/02/excel-spreadsheets-with-perl/http://www.meetup.com/ChicagoPM/events/222836256/">RSVP for office hours on the
+<p>This month&#39;s office hours will be on June 11. <a href="http://www.meetup.com/ChicagoPM/events/222836256/">RSVP for office hours on the
 Chicago.PM Meetup</a></p>
 
 <p>(EDIT: <a href="http://chicago.pm.org/talks/excel-spreadsheets-with-perl.pdf">Slides from the talk</a> have been added
@@ -76,10 +76,10 @@ to <a href="http://chicago.pm.org/talks">the talks page</a>)</p>
             <link>http://chicago.pm.org/blog/2015/05/07/getting-into-perl-6/</link>
             <guid>http://chicago.pm.org/blog/2015/05/07/getting-into-perl-6/</guid>
             <description><![CDATA[
-                <p>You may have heard that <a href="http://chicago.pm.org/blog/2015/05/07/getting-into-perl-6/http://perl6.org">Perl 6</a> is making its debut this
+                <p>You may have heard that <a href="http://perl6.org">Perl 6</a> is making its debut this
 Christmas; This is the perfect time to get involved and help the team get
-through the last mile. <a href="http://chicago.pm.org/blog/2015/05/07/getting-into-perl-6/http://hoelz.ro">Rob Hoelz</a> will walk through making a
-change to <a href="http://chicago.pm.org/blog/2015/05/07/getting-into-perl-6/http://rakudo.org">the Rakudo compiler</a>, which will make it easier
+through the last mile. <a href="http://hoelz.ro">Rob Hoelz</a> will walk through making a
+change to <a href="http://rakudo.org">the Rakudo compiler</a>, which will make it easier
 to make your own changes and help out! A brief rundown of the evening:</p>
 
 <ul>
@@ -89,11 +89,11 @@ to make your own changes and help out! A brief rundown of the evening:</p>
 <li>Going through the compiler and making the change</li>
 </ul>
 
-<p>Join us on Thursday, May 28 at 7:00 PM. <a href="http://chicago.pm.org/blog/2015/05/07/getting-into-perl-6/http://www.meetup.com/ChicagoPM/events/222390262/">RSVP on the Chicago.PM
+<p>Join us on Thursday, May 28 at 7:00 PM. <a href="http://www.meetup.com/ChicagoPM/events/222390262/">RSVP on the Chicago.PM
 Meetup page</a></p>
 
 <p>If you&#39;ve got Perl problems, questions, or just want to meet fellow Perl programmers,
-come to Office Hours on Thursday, May 14. <a href="http://chicago.pm.org/blog/2015/05/07/getting-into-perl-6/http://www.meetup.com/ChicagoPM/events/221766093/">RSVP for Office Hours on the Chicago.PM
+come to Office Hours on Thursday, May 14. <a href="http://www.meetup.com/ChicagoPM/events/221766093/">RSVP for Office Hours on the Chicago.PM
 Meetup page</a></p>
 
 <p>(EDIT: Slides have been added <a href="http://chicago.pm.org/talks">to the talks page</a>)</p>
@@ -114,18 +114,18 @@ Meetup page</a></p>
             <guid>http://chicago.pm.org/blog/2015/04/02/introduction-to-dbix-class/</guid>
             <description><![CDATA[
                 <p>This month, Doug Bell will be giving a talk on the
-<a href="http://chicago.pm.org/blog/2015/04/02/introduction-to-dbix-class/http://metacpan.org/pod/DBIx::Class">DBIx::Class</a> ORM library.  DBIx::Class
+<a href="http://metacpan.org/pod/DBIx::Class">DBIx::Class</a> ORM library.  DBIx::Class
 automates the tedium of writing SQL, and makes it easier to build more portable
 and reusable database models.</p>
 
 <p>Examples will be given for an ETL job reporting database with an accompanying
 web application.</p>
 
-<p><a href="http://chicago.pm.org/blog/2015/04/02/introduction-to-dbix-class/http://www.meetup.com/ChicagoPM/events/220967211/">RSVP on the Chicago.PM Meetup page</a></p>
+<p><a href="http://www.meetup.com/ChicagoPM/events/220967211/">RSVP on the Chicago.PM Meetup page</a></p>
 
 <p>(edit: The FFI::Platypus talk will be given another time)</p>
 
-<p>(update: The <a href="http://chicago.pm.org/blog/2015/04/02/introduction-to-dbix-class/http://preaction.github.io/Introduction-to-DBIx-Class">slides for the Introduction to DBIx::Class
+<p>(update: The <a href="http://preaction.github.io/Introduction-to-DBIx-Class">slides for the Introduction to DBIx::Class
 talk</a> are now available
 on <a href="http://chicago.pm.org/talks">the talks page</a>)</p>
 
@@ -143,13 +143,13 @@ on <a href="http://chicago.pm.org/talks">the talks page</a>)</p>
             <link>http://chicago.pm.org/blog/2015/03/05/presentation---introduction-to-moo/</link>
             <guid>http://chicago.pm.org/blog/2015/03/05/presentation---introduction-to-moo/</guid>
             <description><![CDATA[
-                <p>For this month&#39;s <a href="http://chicago.pm.org/blog/2015/03/05/presentation---introduction-to-moo/http://www.meetup.com/ChicagoPM/events/220963375/">technical meeting on March 26</a>, <a href="http://chicago.pm.org/blog/2015/03/05/presentation---introduction-to-moo/https://github.com/kablamo">Eric Johnson</a>
-is giving an introduction to the <a href="http://chicago.pm.org/blog/2015/03/05/presentation---introduction-to-moo/http://metacpan.org/pod/Moo">Moo</a> object
+                <p>For this month&#39;s <a href="http://www.meetup.com/ChicagoPM/events/220963375/">technical meeting on March 26</a>, <a href="https://github.com/kablamo">Eric Johnson</a>
+is giving an introduction to the <a href="http://metacpan.org/pod/Moo">Moo</a> object
 system, and how to do object-oriented programming with Moo. The topics include:</p>
 
 <ul>
 <li>Why Moo</li>
-<li>Moo vs <a href="http://chicago.pm.org/blog/2015/03/05/presentation---introduction-to-moo/http://metacpan.org/pod/Moose">Moose</a></li>
+<li>Moo vs <a href="http://metacpan.org/pod/Moose">Moose</a></li>
 <li>Object construction</li>
 <li>Object destruction</li>
 <li>Attributes</li>
@@ -158,12 +158,12 @@ system, and how to do object-oriented programming with Moo. The topics include:<
 <li>Best practices</li>
 </ul>
 
-<p>For a preview, <a href="http://chicago.pm.org/blog/2015/03/05/presentation---introduction-to-moo/http://kablamo.org/slides-2014-ddg-intro-to-moo/#/">slides for the Moo presentation are available</a>.</p>
+<p>For a preview, <a href="http://kablamo.org/slides-2014-ddg-intro-to-moo/#/">slides for the Moo presentation are available</a>.</p>
 
-<p><a href="http://chicago.pm.org/blog/2015/03/05/presentation---introduction-to-moo/http://www.meetup.com/ChicagoPM/events/220963375/">RSVP for the presentation on the Chicago.PM Meetup</a></p>
+<p><a href="http://www.meetup.com/ChicagoPM/events/220963375/">RSVP for the presentation on the Chicago.PM Meetup</a></p>
 
 <p>Office Hours will be March 12. This is where you can bring questions or code
-and get assistance from other Perl programmers. <a href="http://chicago.pm.org/blog/2015/03/05/presentation---introduction-to-moo/http://www.meetup.com/ChicagoPM/events/220897775/">RSVP for Office Hours on the
+and get assistance from other Perl programmers. <a href="http://www.meetup.com/ChicagoPM/events/220897775/">RSVP for Office Hours on the
 Chicago.PM Meetup</a></p>
 
                     <p><a href="http://chicago.pm.org/blog/2015/03/05/presentation---introduction-to-moo/#section-2">Continue reading...</a></p>
