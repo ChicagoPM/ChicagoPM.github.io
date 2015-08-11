@@ -17,4 +17,4 @@ Carton.
 Each talk with take about 20 minutes, with some extra time for
 questions.
 
-[RSVP on the Chicago.PM](http://www.meetup.com/ChicagoPM/events/224393894/)
+[RSVP on the Chicago.PM Meetup](http://www.meetup.com/ChicagoPM/events/224393894/)
