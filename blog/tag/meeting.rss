@@ -5,7 +5,36 @@
         <link>http://chicago.pm.org/blog/tag/meeting/</link>
         <atom:link href="http://chicago.pm.org/blog/tag/meeting.rss" rel="self" type="application/rss+xml" />
         <description>Blog feed of Chicago.PM</description>
-        <generator>Statocles 0.053</generator>
+        <generator>Statocles 0.054</generator>
+        <item>
+            <title>Distribution Management Shootout</title>
+            <link>http://chicago.pm.org/blog/2015/08/10/distribution-management-shootout/</link>
+            <guid>http://chicago.pm.org/blog/2015/08/10/distribution-management-shootout/</guid>
+            <description><![CDATA[
+                <p>This month, Doug Bell, Joel Berger, and Eric Johnson will be giving
+short demonstrations of tools to manage Perl distributions. A
+distribution is an installable bundle of modules, usually uploaded to
+CPAN for others to download.</p>
+
+<p>Doug will be presenting Dist::Zilla, the 500-lb gorilla of dist
+management. Joel will presenting Module::Build and Module::Build::Tiny
+with App::ModuleBuildTiny. Finally, Eric will be presenting Minilla and
+Carton.</p>
+
+<p>Each talk with take about 20 minutes, with some extra time for
+questions.</p>
+
+<p><a href="http://www.meetup.com/ChicagoPM/events/224393894/">RSVP on the Chicago.PM</a></p>
+
+                    <p><a href="http://chicago.pm.org/blog/2015/08/10/distribution-management-shootout/#section-2">Continue reading...</a></p>
+                <p>Tags:
+                    <a href="/blog/tag/meeting/">meeting</a>
+                </p>
+            ]]></description>
+            <pubDate>
+                Mon, 10 Aug 2015 00:00:00 +0000
+            </pubDate>
+        </item>
         <item>
             <title>Testing Javascript From Perl</title>
             <link>http://chicago.pm.org/blog/2015/07/09/testing-javascript-from-perl/</link>
@@ -136,43 +165,6 @@ on <a href="http://chicago.pm.org/talks">the talks page</a>)</p>
             ]]></description>
             <pubDate>
                 Thu, 02 Apr 2015 00:00:00 +0000
-            </pubDate>
-        </item>
-        <item>
-            <title>Presentation - Introduction to Moo</title>
-            <link>http://chicago.pm.org/blog/2015/03/05/presentation---introduction-to-moo/</link>
-            <guid>http://chicago.pm.org/blog/2015/03/05/presentation---introduction-to-moo/</guid>
-            <description><![CDATA[
-                <p>For this month&#39;s <a href="http://www.meetup.com/ChicagoPM/events/220963375/">technical meeting on March 26</a>, <a href="https://github.com/kablamo">Eric Johnson</a>
-is giving an introduction to the <a href="http://metacpan.org/pod/Moo">Moo</a> object
-system, and how to do object-oriented programming with Moo. The topics include:</p>
-
-<ul>
-<li>Why Moo</li>
-<li>Moo vs <a href="http://metacpan.org/pod/Moose">Moose</a></li>
-<li>Object construction</li>
-<li>Object destruction</li>
-<li>Attributes</li>
-<li>Method modifiers</li>
-<li>Roles</li>
-<li>Best practices</li>
-</ul>
-
-<p>For a preview, <a href="http://kablamo.org/slides-2014-ddg-intro-to-moo/#/">slides for the Moo presentation are available</a>.</p>
-
-<p><a href="http://www.meetup.com/ChicagoPM/events/220963375/">RSVP for the presentation on the Chicago.PM Meetup</a></p>
-
-<p>Office Hours will be March 12. This is where you can bring questions or code
-and get assistance from other Perl programmers. <a href="http://www.meetup.com/ChicagoPM/events/220897775/">RSVP for Office Hours on the
-Chicago.PM Meetup</a></p>
-
-                    <p><a href="http://chicago.pm.org/blog/2015/03/05/presentation---introduction-to-moo/#section-2">Continue reading...</a></p>
-                <p>Tags:
-                    <a href="/blog/tag/meeting/">meeting</a>
-                </p>
-            ]]></description>
-            <pubDate>
-                Thu, 05 Mar 2015 00:00:00 +0000
             </pubDate>
         </item>
     </channel>

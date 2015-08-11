@@ -5,7 +5,7 @@
         <link>http://chicago.pm.org/blog/tag/perl-6/</link>
         <atom:link href="http://chicago.pm.org/blog/tag/perl-6.rss" rel="self" type="application/rss+xml" />
         <description>Blog feed of Chicago.PM</description>
-        <generator>Statocles 0.053</generator>
+        <generator>Statocles 0.054</generator>
         <item>
             <title>Getting Into Perl 6</title>
             <link>http://chicago.pm.org/blog/2015/05/07/getting-into-perl-6/</link>
