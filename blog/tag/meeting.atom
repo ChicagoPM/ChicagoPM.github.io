@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://chicago.pm.org/blog/tag/meeting/</id>
     <title>Chicago.PM</title>
-    <updated>2015-08-10T20:27:08Z</updated>
+    <updated>2015-09-19T01:14:57Z</updated>
     <link href="http://chicago.pm.org/blog/tag/meeting.atom" rel="self" />
     <link href="http://chicago.pm.org/blog/tag/meeting/" rel="alternate" />
-    <generator version="0.054">Statocles</generator>
+    <generator version="0.055">Statocles</generator>
+    <entry>
+        <id>http://chicago.pm.org/blog/2015/09/19/the-perl-test-ecosystem/</id>
+        <title>The Perl Test Ecosystem</title>
+        <link href="http://chicago.pm.org/blog/2015/09/19/the-perl-test-ecosystem/" rel="alternate" />
+        <content type="html"><![CDATA[
+            <p>This month, <a href="http://kablamo.org">Eric Johnson (kablamo)</a> will be giving
+a talk exploring the Perl testing ecosystem, including how to write
+tests in Perl, using prove to run tests, TAP (the Test-Anything
+Protocol), and an exploration of CPAN test libraries including:</p>
+
+<ul>
+<li><a href="http://metacpan.org/pod/Test::More">Test::More</a></li>
+<li><a href="http://metacpan.org/pod/Test::Differences">Test::Differences</a></li>
+<li><a href="http://metacpan.org/pod/Test::Deep">Test::Deep</a></li>
+<li><a href="http://metacpan.org/pod/Test::Fatal">Test::Fatal</a></li>
+<li><a href="http://metacpan.org/pod/Test::Warnings">Test::Warnings</a></li>
+<li><a href="http://metacpan.org/pod/Test::Lib">Test::Lib</a></li>
+<li><a href="http://metacpan.org/pod/Test::Cmd">Test::Cmd</a></li>
+<li><a href="http://metacpan.org/pod/Test::DescribeMe">Test::DescribeMe</a></li>
+<li><a href="http://metacpan.org/pod/Plack::Test">Plack::Test</a></li>
+<li><a href="http://metacpan.org/pod/Devel::Cover">Devel::Cover</a></li>
+<li><a href="http://metacpan.org/pod/Test::Most">Test::Most</a></li>
+<li><a href="http://metacpan.org/pod/Test::Modern">Test::Modern</a></li>
+<li><a href="http://metacpan.org/pod/Test::Pretty">Test::Pretty</a></li>
+</ul>
+
+<p><a href="http://www.meetup.com/ChicagoPM/events/225357015/">RSVP on the Chicago.PM Meetup
+page</a></p>
+
+                <p><a href="http://chicago.pm.org/blog/2015/09/19/the-perl-test-ecosystem/#section-2">Continue reading...</a></p>
+            <p>Tags:
+                <a href="/blog/tag/meeting/">meeting</a>
+                <a href="/blog/tag/test/">test</a>
+            </p>
+        ]]></content>
+        <updated>2015-09-19T00:00:00Z</updated>
+        <category term="meeting" />
+        <category term="test" />
+    </entry>
     <entry>
         <id>http://chicago.pm.org/blog/2015/08/10/distribution-management-shootout/</id>
         <title>Distribution Management Shootout</title>
@@ -133,35 +172,6 @@ Meetup page</a></p>
         <updated>2015-05-07T00:00:00Z</updated>
         <category term="meeting" />
         <category term="perl 6" />
-    </entry>
-    <entry>
-        <id>http://chicago.pm.org/blog/2015/04/02/introduction-to-dbix-class/</id>
-        <title>Introduction to DBIx::Class</title>
-        <link href="http://chicago.pm.org/blog/2015/04/02/introduction-to-dbix-class/" rel="alternate" />
-        <content type="html"><![CDATA[
-            <p>This month, Doug Bell will be giving a talk on the
-<a href="http://metacpan.org/pod/DBIx::Class">DBIx::Class</a> ORM library.  DBIx::Class
-automates the tedium of writing SQL, and makes it easier to build more portable
-and reusable database models.</p>
-
-<p>Examples will be given for an ETL job reporting database with an accompanying
-web application.</p>
-
-<p><a href="http://www.meetup.com/ChicagoPM/events/220967211/">RSVP on the Chicago.PM Meetup page</a></p>
-
-<p>(edit: The FFI::Platypus talk will be given another time)</p>
-
-<p>(update: The <a href="http://preaction.github.io/Introduction-to-DBIx-Class">slides for the Introduction to DBIx::Class
-talk</a> are now available
-on <a href="http://chicago.pm.org/talks">the talks page</a>)</p>
-
-                <p><a href="http://chicago.pm.org/blog/2015/04/02/introduction-to-dbix-class/#section-2">Continue reading...</a></p>
-            <p>Tags:
-                <a href="/blog/tag/meeting/">meeting</a>
-            </p>
-        ]]></content>
-        <updated>2015-04-02T00:00:00Z</updated>
-        <category term="meeting" />
     </entry>
 </feed>
 
