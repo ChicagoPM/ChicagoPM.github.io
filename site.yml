@@ -42,3 +42,6 @@ site:
                 $ref: basic_app
             blog:
                 $ref: blog_app
+        data:
+            disqus:
+                shortname: chicagopm
