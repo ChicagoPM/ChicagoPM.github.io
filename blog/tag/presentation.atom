@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://chicago.pm.org/blog/tag/presentation/</id>
     <title>Chicago.PM</title>
-    <updated>2015-09-19T01:15:00Z</updated>
+    <updated>2015-09-23T20:55:55Z</updated>
     <link href="http://chicago.pm.org/blog/tag/presentation.atom" rel="self" />
     <link href="http://chicago.pm.org/blog/tag/presentation/" rel="alternate" />
     <generator version="0.055">Statocles</generator>
@@ -23,9 +23,9 @@
 
                 <p><a href="http://chicago.pm.org/blog/2013/05/20/building-command-line-applications-doug-bell-may-23.html#section-2">Continue reading...</a></p>
             <p>Tags:
-                <a href="/blog/tag/presentation/">presentation</a>
-                <a href="/blog/tag/announcement/">announcement</a>
-                <a href="/blog/tag/command-line/">command line</a>
+                <a href="http://chicago.pm.org/blog/tag/presentation/">presentation</a>
+                <a href="http://chicago.pm.org/blog/tag/announcement/">announcement</a>
+                <a href="http://chicago.pm.org/blog/tag/command-line/">command line</a>
             </p>
         ]]></content>
         <updated>2013-05-20T00:00:00Z</updated>

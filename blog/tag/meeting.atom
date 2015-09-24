@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://chicago.pm.org/blog/tag/meeting/</id>
     <title>Chicago.PM</title>
-    <updated>2015-09-19T01:14:57Z</updated>
+    <updated>2015-09-23T20:55:56Z</updated>
     <link href="http://chicago.pm.org/blog/tag/meeting.atom" rel="self" />
     <link href="http://chicago.pm.org/blog/tag/meeting/" rel="alternate" />
     <generator version="0.055">Statocles</generator>
@@ -37,8 +37,8 @@ page</a></p>
 
                 <p><a href="http://chicago.pm.org/blog/2015/09/19/the-perl-test-ecosystem/#section-2">Continue reading...</a></p>
             <p>Tags:
-                <a href="/blog/tag/meeting/">meeting</a>
-                <a href="/blog/tag/test/">test</a>
+                <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
+                <a href="http://chicago.pm.org/blog/tag/test/">test</a>
             </p>
         ]]></content>
         <updated>2015-09-19T00:00:00Z</updated>
@@ -67,7 +67,7 @@ questions.</p>
 
                 <p><a href="http://chicago.pm.org/blog/2015/08/10/distribution-management-shootout/#section-2">Continue reading...</a></p>
             <p>Tags:
-                <a href="/blog/tag/meeting/">meeting</a>
+                <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
             </p>
         ]]></content>
         <updated>2015-08-10T00:00:00Z</updated>
@@ -101,7 +101,7 @@ page</a></p>
 
                 <p><a href="http://chicago.pm.org/blog/2015/07/09/testing-javascript-from-perl/#section-2">Continue reading...</a></p>
             <p>Tags:
-                <a href="/blog/tag/meeting/">meeting</a>
+                <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
             </p>
         ]]></content>
         <updated>2015-07-09T00:00:00Z</updated>
@@ -130,7 +130,7 @@ to <a href="http://chicago.pm.org/talks">the talks page</a>)</p>
 
                 <p><a href="http://chicago.pm.org/blog/2015/06/02/excel-spreadsheets-with-perl/#section-2">Continue reading...</a></p>
             <p>Tags:
-                <a href="/blog/tag/meeting/">meeting</a>
+                <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
             </p>
         ]]></content>
         <updated>2015-06-02T00:00:00Z</updated>
@@ -165,8 +165,8 @@ Meetup page</a></p>
 
                 <p><a href="http://chicago.pm.org/blog/2015/05/07/getting-into-perl-6/#section-2">Continue reading...</a></p>
             <p>Tags:
-                <a href="/blog/tag/meeting/">meeting</a>
-                <a href="/blog/tag/perl-6/">perl 6</a>
+                <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
+                <a href="http://chicago.pm.org/blog/tag/perl-6/">perl 6</a>
             </p>
         ]]></content>
         <updated>2015-05-07T00:00:00Z</updated>

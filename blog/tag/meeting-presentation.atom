@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://chicago.pm.org/blog/tag/meeting-presentation/</id>
     <title>Chicago.PM</title>
-    <updated>2015-09-19T01:14:58Z</updated>
+    <updated>2015-09-23T20:55:56Z</updated>
     <link href="http://chicago.pm.org/blog/tag/meeting-presentation.atom" rel="self" />
     <link href="http://chicago.pm.org/blog/tag/meeting-presentation/" rel="alternate" />
     <generator version="0.055">Statocles</generator>
@@ -66,7 +66,7 @@ the most important features and modules added to the Perl core since the 5.8 ser
 
                 <p><a href="http://chicago.pm.org/blog/2014/04/19/meeting-perldelta-what-slash-s-new-in-perl-since-5-dot-8.html#section-2">Continue reading...</a></p>
             <p>Tags:
-                <a href="/blog/tag/meeting-presentation/">meeting presentation</a>
+                <a href="http://chicago.pm.org/blog/tag/meeting-presentation/">meeting presentation</a>
             </p>
         ]]></content>
         <updated>2014-04-19T00:00:00Z</updated>
