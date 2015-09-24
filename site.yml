@@ -4,8 +4,8 @@ blog_app:
         store: 'blog'
         url_root: /blog
 
-plain_app:
-    class: Statocles::App::Plain
+basic_app:
+    class: Statocles::App::Basic
     args:
         store: '.'
         url_root: '/'
@@ -38,7 +38,7 @@ site:
             $class: Statocles::Deploy::Git
         index: /blog
         apps:
-            plain:
-                $ref: plain_app
+            basic:
+                $ref: basic_app
             blog:
                 $ref: blog_app
