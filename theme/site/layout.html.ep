@@ -5,14 +5,20 @@
         <link rel="stylesheet" href="/theme/css/skeleton.css" />
         <link rel="stylesheet" href="/theme/css/statocles-default.css" />
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-        <title><%= $site->title %></title>
+        <title><%= $self->title ? $self->title . ' - ' : '' %><%= $site->title %></title>
+        <meta name="generator" content="Statocles <%= $Statocles::VERSION %>" />
         % for my $link ( $self->links( 'feed' ) ) {
         <link rel="alternate" href="<%= $link->href %>" type="<%= $link->type %>" />
         % }
         %= include 'site/head_after.html.ep'
+        % for my $link ( $self->links( 'stylesheet' ) ) {
+        <link rel="stylesheet" href="<%= $link->href %>" type="<%= $link->type || 'text/css' %>" />
+        % }
+        % for my $link ( $self->links( 'script' ) ) {
+        <script src="<%= $link->href %>"></script>
+        % }
     </head>
     <body>
-
         <header>
         % if ( $self->path eq '/index.html' ) {
             <div class="main-title">
@@ -51,16 +57,15 @@
                         % }
                     </ul>
                     % }
+                    %= include 'site/navbar_extra.html.ep'
                 </div>
             </nav>
             %= include 'site/header_after.html.ep'
         % }
         </header>
-
         <div class="main container">
             <%= $content %>
         </div>
-
         <footer>
             %= include 'site/footer.html.ep'
             <div class="container tagline">
@@ -68,6 +73,5 @@
                 <a href="http://www.perl.org">Powered by Perl</a>
             </div>
         </footer>
-
     </body>
 </html>
