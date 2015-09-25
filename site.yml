@@ -30,6 +30,8 @@ site:
                   href: /jobs
                 - title: About
                   href: /about
+                - title: IRC
+                  href: 'https://chat.mibbit.com/?channel=%23chicago.pm&server=irc.perl.org'
                 - title: Mailing List
                   href: /about#lists
                 - title: How To
