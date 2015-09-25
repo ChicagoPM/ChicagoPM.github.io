@@ -6,8 +6,9 @@ title: The Perl Test Ecosystem
 ---
 
 This month, [Eric Johnson (kablamo)](http://kablamo.org) will be giving
-a talk exploring the Perl testing ecosystem, including how to write
-tests in Perl, using prove to run tests, TAP (the Test-Anything
+a [talk exploring the Perl testing
+ecosystem](http://kablamo.org/slides-perl-testing/), including how to
+write tests in Perl, using prove to run tests, TAP (the Test-Anything
 Protocol), and an exploration of CPAN test libraries including:
 
 * [Test::More](http://metacpan.org/pod/Test::More)
@@ -23,6 +24,9 @@ Protocol), and an exploration of CPAN test libraries including:
 * [Test::Most](http://metacpan.org/pod/Test::Most)
 * [Test::Modern](http://metacpan.org/pod/Test::Modern)
 * [Test::Pretty](http://metacpan.org/pod/Test::Pretty)
+
+[Slides are available on
+kablamo.org](http://kablamo.org/slides-perl-testing/#/)
 
 [RSVP on the Chicago.PM Meetup
 page](http://www.meetup.com/ChicagoPM/events/225357015/)
