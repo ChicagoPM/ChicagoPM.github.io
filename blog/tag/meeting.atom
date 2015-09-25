@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://chicago.pm.org/blog/tag/meeting/</id>
     <title>Chicago.PM</title>
-    <updated>2015-09-23T20:55:56Z</updated>
+    <updated>2015-09-24T20:00:55Z</updated>
     <link href="http://chicago.pm.org/blog/tag/meeting.atom" rel="self" />
     <link href="http://chicago.pm.org/blog/tag/meeting/" rel="alternate" />
     <generator version="0.055">Statocles</generator>
@@ -12,8 +12,9 @@
         <link href="http://chicago.pm.org/blog/2015/09/19/the-perl-test-ecosystem/" rel="alternate" />
         <content type="html"><![CDATA[
             <p>This month, <a href="http://kablamo.org">Eric Johnson (kablamo)</a> will be giving
-a talk exploring the Perl testing ecosystem, including how to write
-tests in Perl, using prove to run tests, TAP (the Test-Anything
+a <a href="http://kablamo.org/slides-perl-testing/">talk exploring the Perl testing
+ecosystem</a>, including how to
+write tests in Perl, using prove to run tests, TAP (the Test-Anything
 Protocol), and an exploration of CPAN test libraries including:</p>
 
 <ul>
@@ -31,6 +32,9 @@ Protocol), and an exploration of CPAN test libraries including:</p>
 <li><a href="http://metacpan.org/pod/Test::Modern">Test::Modern</a></li>
 <li><a href="http://metacpan.org/pod/Test::Pretty">Test::Pretty</a></li>
 </ul>
+
+<p><a href="http://kablamo.org/slides-perl-testing/#/">Slides are available on
+kablamo.org</a></p>
 
 <p><a href="http://www.meetup.com/ChicagoPM/events/225357015/">RSVP on the Chicago.PM Meetup
 page</a></p>
