@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://chicago.pm.org/blog/tag/meeting/</id>
     <title>Chicago.PM</title>
-    <updated>2015-09-25T01:11:02Z</updated>
+    <updated>2015-10-11T00:49:17Z</updated>
     <link href="http://chicago.pm.org/blog/tag/meeting.atom" rel="self" />
     <link href="http://chicago.pm.org/blog/tag/meeting/" rel="alternate" />
     <generator version="0.055">Statocles</generator>
+    <entry>
+        <id>http://chicago.pm.org/blog/2015/10/11/the-why-of-git/</id>
+        <title>The Why Of Git</title>
+        <link href="http://chicago.pm.org/blog/2015/10/11/the-why-of-git/" rel="alternate" />
+        <content type="html"><![CDATA[
+            <p>This month <a href="http://preaction.me">Doug Bell</a> will be giving a talk on
+<a href="http://git-scm.com">Git</a> internals, and how they effect how you use Git
+commands like <code>commit</code>, <code>merge</code>, <code>pull</code>, and <code>rebase</code>. The presentation
+will go over some common errors and explain what they mean, and how
+resolving them will affect the internal data of your repository.</p>
+
+<p><a href="http://www.meetup.com/ChicagoPM/events/225737511/">RSVP on the Chicago.PM
+Meetup</a></p>
+
+                <p><a href="http://chicago.pm.org/blog/2015/10/11/the-why-of-git/#section-2">Continue reading...</a></p>
+            <p>Tags:
+                <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
+            </p>
+        ]]></content>
+        <updated>2015-10-11T00:00:00Z</updated>
+        <category term="meeting" />
+    </entry>
     <entry>
         <id>http://chicago.pm.org/blog/2015/09/19/the-perl-test-ecosystem/</id>
         <title>The Perl Test Ecosystem</title>
@@ -139,43 +161,6 @@ to <a href="http://chicago.pm.org/talks">the talks page</a>)</p>
         ]]></content>
         <updated>2015-06-02T00:00:00Z</updated>
         <category term="meeting" />
-    </entry>
-    <entry>
-        <id>http://chicago.pm.org/blog/2015/05/07/getting-into-perl-6/</id>
-        <title>Getting Into Perl 6</title>
-        <link href="http://chicago.pm.org/blog/2015/05/07/getting-into-perl-6/" rel="alternate" />
-        <content type="html"><![CDATA[
-            <p>You may have heard that <a href="http://perl6.org">Perl 6</a> is making its debut this
-Christmas; This is the perfect time to get involved and help the team get
-through the last mile. <a href="http://hoelz.ro">Rob Hoelz</a> will walk through making a
-change to <a href="http://rakudo.org">the Rakudo compiler</a>, which will make it easier
-to make your own changes and help out! A brief rundown of the evening:</p>
-
-<ul>
-<li>A quick intro to Perl 6 for newbies</li>
-<li>A brief overview of the Perl 6 ecosystem</li>
-<li>A tour of the Rakudo compiler&#39;s source</li>
-<li>Going through the compiler and making the change</li>
-</ul>
-
-<p>Join us on Thursday, May 28 at 7:00 PM. <a href="http://www.meetup.com/ChicagoPM/events/222390262/">RSVP on the Chicago.PM
-Meetup page</a></p>
-
-<p>If you&#39;ve got Perl problems, questions, or just want to meet fellow Perl programmers,
-come to Office Hours on Thursday, May 14. <a href="http://www.meetup.com/ChicagoPM/events/221766093/">RSVP for Office Hours on the Chicago.PM
-Meetup page</a></p>
-
-<p>(EDIT: Slides have been added <a href="http://chicago.pm.org/talks">to the talks page</a>)</p>
-
-                <p><a href="http://chicago.pm.org/blog/2015/05/07/getting-into-perl-6/#section-2">Continue reading...</a></p>
-            <p>Tags:
-                <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
-                <a href="http://chicago.pm.org/blog/tag/perl-6/">perl 6</a>
-            </p>
-        ]]></content>
-        <updated>2015-05-07T00:00:00Z</updated>
-        <category term="meeting" />
-        <category term="perl 6" />
     </entry>
 </feed>
 
