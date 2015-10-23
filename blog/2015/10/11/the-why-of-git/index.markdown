@@ -12,3 +12,5 @@ resolving them will affect the internal data of your repository.
 
 [RSVP on the Chicago.PM
 Meetup](http://www.meetup.com/ChicagoPM/events/225737511/)
+
+(EDIT: [See the slides for The Why of Git](http://preaction.github.io/The-Why-of-Git/))
