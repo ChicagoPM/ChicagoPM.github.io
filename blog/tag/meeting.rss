@@ -5,7 +5,38 @@
         <link>http://chicago.pm.org/blog/tag/meeting/</link>
         <atom:link href="http://chicago.pm.org/blog/tag/meeting.rss" rel="self" type="application/rss+xml" />
         <description>Blog feed of Chicago.PM</description>
-        <generator>Statocles 0.056</generator>
+        <generator>Statocles 0.060</generator>
+        <item>
+            <title>Testing PSGI With Test::Mojo and Stupid Websocket Tricks</title>
+            <link>http://chicago.pm.org/blog/2015/12/03/testing-psgi-with-test-mojo-and-stupid-websocket-tricks/</link>
+            <guid>http://chicago.pm.org/blog/2015/12/03/testing-psgi-with-test-mojo-and-stupid-websocket-tricks/</guid>
+            <description><![CDATA[
+                <p>We&#39;ve got a couple short talks scheduled for this month, and we&#39;ve got
+a new venue, generously provided by <a href="http://www.servercentral.com">ServerCentral</a>.</p>
+
+<p><a href="http://metacpan.org/author/JBERGER">Joel Berger</a> is going to give
+a talk on testing any <a href="http://plackperl.org">PSGI application</a> with
+<a href="http://mojolicio.us/perldoc/Test/Mojo">Test::Mojo, Mojolicious&#39;s excellent web testing
+library.</a></p>
+
+<p>And, <a href="http://metacpan.org/author/PREACTION">Doug Bell</a> is going to give
+a talk on some simple websocket tricks with <a href="http://metacpan.org/pod/mercury">Mercury, a WebSocket
+message broker</a>, <a href="http://mojolicio.us">Mojolicious</a>
+and <a href="http://mojolicio.us/perldoc/Mojo/UserAgent">Mojo::UserAgent</a>.</p>
+
+<p>Due to the holidays, our meeting will be on December 10. <a href="http://www.meetup.com/ChicagoPM/events/226879320/">RSVP on the
+Chicago.PM Meetup</a></p>
+
+                    <p><a href="http://chicago.pm.org/blog/2015/12/03/testing-psgi-with-test-mojo-and-stupid-websocket-tricks/#section-2">Continue reading...</a></p>
+                <p>Tags:
+                    <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
+                    <a href="http://chicago.pm.org/blog/tag/mojolicious/">mojolicious</a>
+                </p>
+            ]]></description>
+            <pubDate>
+                Thu, 03 Dec 2015 00:00:00 +0000
+            </pubDate>
+        </item>
         <item>
             <title>The Why Of Git</title>
             <link>http://chicago.pm.org/blog/2015/10/11/the-why-of-git/</link>
@@ -136,36 +167,6 @@ page</a></p>
             ]]></description>
             <pubDate>
                 Thu, 09 Jul 2015 00:00:00 +0000
-            </pubDate>
-        </item>
-        <item>
-            <title>Excel Spreadsheets with Perl</title>
-            <link>http://chicago.pm.org/blog/2015/06/02/excel-spreadsheets-with-perl/</link>
-            <guid>http://chicago.pm.org/blog/2015/06/02/excel-spreadsheets-with-perl/</guid>
-            <description><![CDATA[
-                <p>This month, Mike Schienle will talk about reading and writing Excel
-spreadsheets from Perl, with the main focus on writing them. The presentation
-will discuss writing both data and formulas, multiple sheets, adding comments,
-etc. Mike uses Excel in both his day job as an ETL geek for Northern Trust and
-processing weather data.</p>
-
-<p>Doors open at 6:30pm. Meeting starts at 7:00pm. <a href="http://www.meetup.com/ChicagoPM/events/221598709/">RSVP for Excel Spreadsheets
-with Perl on the Chicago.PM
-Meetup.</a></p>
-
-<p>This month&#39;s office hours will be on June 11. <a href="http://www.meetup.com/ChicagoPM/events/222836256/">RSVP for office hours on the
-Chicago.PM Meetup</a></p>
-
-<p>(EDIT: <a href="http://chicago.pm.org/talks/excel-spreadsheets-with-perl.pdf">Slides from the talk</a> have been added
-to <a href="http://chicago.pm.org/talks">the talks page</a>)</p>
-
-                    <p><a href="http://chicago.pm.org/blog/2015/06/02/excel-spreadsheets-with-perl/#section-2">Continue reading...</a></p>
-                <p>Tags:
-                    <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
-                </p>
-            ]]></description>
-            <pubDate>
-                Tue, 02 Jun 2015 00:00:00 +0000
             </pubDate>
         </item>
     </channel>

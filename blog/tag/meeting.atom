@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://chicago.pm.org/blog/tag/meeting/</id>
     <title>Chicago.PM</title>
-    <updated>2015-10-23T00:07:47Z</updated>
+    <updated>2015-12-04T08:45:22Z</updated>
     <link href="http://chicago.pm.org/blog/tag/meeting.atom" rel="self" />
     <link href="http://chicago.pm.org/blog/tag/meeting/" rel="alternate" />
-    <generator version="0.056">Statocles</generator>
+    <generator version="0.060">Statocles</generator>
+    <entry>
+        <id>http://chicago.pm.org/blog/2015/12/03/testing-psgi-with-test-mojo-and-stupid-websocket-tricks/</id>
+        <title>Testing PSGI With Test::Mojo and Stupid Websocket Tricks</title>
+        <link href="http://chicago.pm.org/blog/2015/12/03/testing-psgi-with-test-mojo-and-stupid-websocket-tricks/" rel="alternate" />
+        <content type="html"><![CDATA[
+            <p>We&#39;ve got a couple short talks scheduled for this month, and we&#39;ve got
+a new venue, generously provided by <a href="http://www.servercentral.com">ServerCentral</a>.</p>
+
+<p><a href="http://metacpan.org/author/JBERGER">Joel Berger</a> is going to give
+a talk on testing any <a href="http://plackperl.org">PSGI application</a> with
+<a href="http://mojolicio.us/perldoc/Test/Mojo">Test::Mojo, Mojolicious&#39;s excellent web testing
+library.</a></p>
+
+<p>And, <a href="http://metacpan.org/author/PREACTION">Doug Bell</a> is going to give
+a talk on some simple websocket tricks with <a href="http://metacpan.org/pod/mercury">Mercury, a WebSocket
+message broker</a>, <a href="http://mojolicio.us">Mojolicious</a>
+and <a href="http://mojolicio.us/perldoc/Mojo/UserAgent">Mojo::UserAgent</a>.</p>
+
+<p>Due to the holidays, our meeting will be on December 10. <a href="http://www.meetup.com/ChicagoPM/events/226879320/">RSVP on the
+Chicago.PM Meetup</a></p>
+
+                <p><a href="http://chicago.pm.org/blog/2015/12/03/testing-psgi-with-test-mojo-and-stupid-websocket-tricks/#section-2">Continue reading...</a></p>
+            <p>Tags:
+                <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
+                <a href="http://chicago.pm.org/blog/tag/mojolicious/">mojolicious</a>
+            </p>
+        ]]></content>
+        <updated>2015-12-03T00:00:00Z</updated>
+        <category term="meeting" />
+        <category term="mojolicious" />
+    </entry>
     <entry>
         <id>http://chicago.pm.org/blog/2015/10/11/the-why-of-git/</id>
         <title>The Why Of Git</title>
@@ -133,35 +164,6 @@ page</a></p>
             </p>
         ]]></content>
         <updated>2015-07-09T00:00:00Z</updated>
-        <category term="meeting" />
-    </entry>
-    <entry>
-        <id>http://chicago.pm.org/blog/2015/06/02/excel-spreadsheets-with-perl/</id>
-        <title>Excel Spreadsheets with Perl</title>
-        <link href="http://chicago.pm.org/blog/2015/06/02/excel-spreadsheets-with-perl/" rel="alternate" />
-        <content type="html"><![CDATA[
-            <p>This month, Mike Schienle will talk about reading and writing Excel
-spreadsheets from Perl, with the main focus on writing them. The presentation
-will discuss writing both data and formulas, multiple sheets, adding comments,
-etc. Mike uses Excel in both his day job as an ETL geek for Northern Trust and
-processing weather data.</p>
-
-<p>Doors open at 6:30pm. Meeting starts at 7:00pm. <a href="http://www.meetup.com/ChicagoPM/events/221598709/">RSVP for Excel Spreadsheets
-with Perl on the Chicago.PM
-Meetup.</a></p>
-
-<p>This month&#39;s office hours will be on June 11. <a href="http://www.meetup.com/ChicagoPM/events/222836256/">RSVP for office hours on the
-Chicago.PM Meetup</a></p>
-
-<p>(EDIT: <a href="http://chicago.pm.org/talks/excel-spreadsheets-with-perl.pdf">Slides from the talk</a> have been added
-to <a href="http://chicago.pm.org/talks">the talks page</a>)</p>
-
-                <p><a href="http://chicago.pm.org/blog/2015/06/02/excel-spreadsheets-with-perl/#section-2">Continue reading...</a></p>
-            <p>Tags:
-                <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
-            </p>
-        ]]></content>
-        <updated>2015-06-02T00:00:00Z</updated>
         <category term="meeting" />
     </entry>
 </feed>

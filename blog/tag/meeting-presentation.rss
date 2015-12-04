@@ -5,7 +5,7 @@
         <link>http://chicago.pm.org/blog/tag/meeting-presentation/</link>
         <atom:link href="http://chicago.pm.org/blog/tag/meeting-presentation.rss" rel="self" type="application/rss+xml" />
         <description>Blog feed of Chicago.PM</description>
-        <generator>Statocles 0.056</generator>
+        <generator>Statocles 0.060</generator>
         <item>
             <title>perldelta - What&#39;s New in Perl Since 5.8 - April 24, 2014</title>
             <link>http://chicago.pm.org/blog/2014/04/19/meeting-perldelta-what-slash-s-new-in-perl-since-5-dot-8.html</link>
