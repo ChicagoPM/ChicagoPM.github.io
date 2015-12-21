@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://chicago.pm.org/blog/tag/test/</id>
     <title>Chicago.PM</title>
-    <updated>2015-12-04T09:43:12Z</updated>
+    <updated>2015-12-20T22:57:15Z</updated>
     <link href="http://chicago.pm.org/blog/tag/test.atom" rel="self" />
     <link href="http://chicago.pm.org/blog/tag/test/" rel="alternate" />
-    <generator version="0.060">Statocles</generator>
+    <generator version="0.061">Statocles</generator>
     <entry>
         <id>http://chicago.pm.org/blog/2015/09/19/the-perl-test-ecosystem/</id>
         <title>The Perl Test Ecosystem</title>
