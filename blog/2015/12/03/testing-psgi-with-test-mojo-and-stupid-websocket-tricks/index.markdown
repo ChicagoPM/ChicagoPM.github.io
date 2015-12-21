@@ -20,3 +20,6 @@ and [Mojo::UserAgent](http://mojolicio.us/perldoc/Mojo/UserAgent).
 
 Due to the holidays, our meeting will be on December 10. [RSVP on the
 Chicago.PM Meetup](http://www.meetup.com/ChicagoPM/events/226879320/)
+
+(EDIT: Slides from the [simple WebSocket tricks talk are now
+available](http://preaction.github.io/Stupid-Websocket-Tricks-With-Perl/))

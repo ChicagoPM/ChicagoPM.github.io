@@ -6,6 +6,8 @@ title: "Talks - Chicago.PM"
 
 Here are the slides to some of the talks that have been given at Chicago.PM.
 
+* 2015-12-10:
+    * [Stupid WebSocket Tricks with Perl](http://preaction.github.io/Stupid-Websocket-Tricks-With-Perl)
 * [2015-10-22: The Why of Git](http://preaction.github.io/The-Why-of-Git/)
 * [2015-09-24: The Perl Testing Ecosystem](http://kablamo.org/slides-perl-testing/)
 * 2015-08-27 - Distribution Management Shootout
