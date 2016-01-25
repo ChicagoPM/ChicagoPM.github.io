@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://chicago.pm.org/blog/</id>
     <title>Chicago.PM</title>
-    <updated>2015-12-20T22:57:15Z</updated>
+    <updated>2016-01-24T21:36:43Z</updated>
     <link href="http://chicago.pm.org/blog/index.atom" rel="self" />
     <link href="http://chicago.pm.org/blog/" rel="alternate" />
-    <generator version="0.061">Statocles</generator>
+    <generator version="0.066">Statocles</generator>
+    <entry>
+        <id>http://chicago.pm.org/blog/2016/01/24/collecting-metrics-with-graphite/</id>
+        <title>Collecting Metrics with Graphite</title>
+        <link href="http://chicago.pm.org/blog/2016/01/24/collecting-metrics-with-graphite/" rel="alternate" />
+        <content type="html"><![CDATA[
+            <p>This month, <a href="http://preaction.me">Doug Bell</a> will give a talk on
+<a href="http://graphite.readthedocs.org/en/latest">Graphite, a scalable time-series
+database</a>. He&#39;ll go over
+a quick installation and setup, how to add your metrics using Perl, and
+how to display your metrics using the <a href="http://grafana.org">Grafana charting
+dashboard</a>.</p>
+
+<p><a href="http://www.meetup.com/ChicagoPM/events/227353550/">RSVP on the Chicago.PM Meetup</a></p>
+
+                <p><a href="http://chicago.pm.org/blog/2016/01/24/collecting-metrics-with-graphite/#section-2">Continue reading...</a></p>
+            <p>Tags:
+                <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
+            </p>
+        ]]></content>
+        <updated>2016-01-24T00:00:00Z</updated>
+        <category term="meeting" />
+    </entry>
     <entry>
         <id>http://chicago.pm.org/blog/2015/12/03/testing-psgi-with-test-mojo-and-stupid-websocket-tricks/</id>
         <title>Testing PSGI With Test::Mojo and Stupid Websocket Tricks</title>
@@ -133,40 +155,6 @@ questions.</p>
             </p>
         ]]></content>
         <updated>2015-08-10T00:00:00Z</updated>
-        <category term="meeting" />
-    </entry>
-    <entry>
-        <id>http://chicago.pm.org/blog/2015/07/09/testing-javascript-from-perl/</id>
-        <title>Testing Javascript From Perl</title>
-        <link href="http://chicago.pm.org/blog/2015/07/09/testing-javascript-from-perl/" rel="alternate" />
-        <content type="html"><![CDATA[
-            <p>This month, <a href="https://metacpan.org/author/JBERGER">Joel Berger</a> will be giving a
-talk on testing Javascript from <a href="http://mojolicio.us">Mojolicious</a></p>
-
-<blockquote>
-  <p>Do you test your Javascript? All of it? Be honest. I thought so, neither did
-  I.</p>
-  
-  <p>It is very easy to say that testing Javascript is too hard, or that you don&#39;t
-  need to because you have so little of it. But what if testing your
-  client-side Javascript was as easy as testing a Mojolicious app, which is
-  pretty darn easy? Would you do it then?</p>
-  
-  <p>In this talk I will demonstrate Test::Mojo::Role::Phantom, which allows
-  testing a Mojolicious app, PSGI app or even external website&#39;s client-side
-  Javascript. It only requires the phantomjs executable, which is a piece of
-  cake to install. You&#39;ll be testing your browser behavior in no time!</p>
-</blockquote>
-
-<p>Doors open at 6:45. Meeting starts at 7:00. <a href="http://www.meetup.com/ChicagoPM/events/223686277/">RSVP on the Meetup
-page</a></p>
-
-                <p><a href="http://chicago.pm.org/blog/2015/07/09/testing-javascript-from-perl/#section-2">Continue reading...</a></p>
-            <p>Tags:
-                <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
-            </p>
-        ]]></content>
-        <updated>2015-07-09T00:00:00Z</updated>
         <category term="meeting" />
     </entry>
 </feed>
