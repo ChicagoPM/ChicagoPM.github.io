@@ -12,3 +12,5 @@ how to display your metrics using the [Grafana charting
 dashboard](http://grafana.org).
 
 [RSVP on the Chicago.PM Meetup](http://www.meetup.com/ChicagoPM/events/227353550/)
+
+EDIT: [Slides for Collecting Metrics with Graphite are now available on the Talks page](http://preaction.github.io/Collecting-Metrics-With-Graphite)

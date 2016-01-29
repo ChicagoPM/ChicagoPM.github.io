@@ -6,6 +6,7 @@ title: "Talks - Chicago.PM"
 
 Here are the slides to some of the talks that have been given at Chicago.PM.
 
+* 2016-01-28: [Collecting Metrics with Graphite](http://preaction.github.io/Collecting-Metrics-With-Graphite)
 * 2015-12-10:
     * [Stupid WebSocket Tricks with Perl](http://preaction.github.io/Stupid-Websocket-Tricks-With-Perl)
 * [2015-10-22: The Why of Git](http://preaction.github.io/The-Why-of-Git/)
