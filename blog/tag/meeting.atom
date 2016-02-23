@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://chicago.pm.org/blog/tag/meeting/</id>
     <title>Chicago.PM</title>
-    <updated>2016-02-23T16:12:22Z</updated>
+    <updated>2016-02-23T00:00:00Z</updated>
     <link href="http://chicago.pm.org/blog/tag/meeting.atom" rel="self" />
     <link href="http://chicago.pm.org/blog/tag/meeting/" rel="alternate" />
-    <generator version="0.067">Statocles</generator>
+    <generator version="0.070">Statocles</generator>
     <entry>
         <id>http://chicago.pm.org/blog/2016/02/23/imager-the-perl-image-library/</id>
         <title>Imager - The Perl Image Library</title>

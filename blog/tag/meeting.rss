@@ -5,7 +5,7 @@
         <link>http://chicago.pm.org/blog/tag/meeting/</link>
         <atom:link href="http://chicago.pm.org/blog/tag/meeting.rss" rel="self" type="application/rss+xml" />
         <description>Blog feed of Chicago.PM</description>
-        <generator>Statocles 0.067</generator>
+        <generator>Statocles 0.070</generator>
         <item>
             <title>Imager - The Perl Image Library</title>
             <link>http://chicago.pm.org/blog/2016/02/23/imager-the-perl-image-library/</link>
