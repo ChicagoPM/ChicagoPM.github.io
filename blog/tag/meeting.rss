@@ -5,7 +5,29 @@
         <link>http://chicago.pm.org/blog/tag/meeting/</link>
         <atom:link href="http://chicago.pm.org/blog/tag/meeting.rss" rel="self" type="application/rss+xml" />
         <description>Blog feed of Chicago.PM</description>
-        <generator>Statocles 0.066</generator>
+        <generator>Statocles 0.067</generator>
+        <item>
+            <title>Imager - The Perl Image Library</title>
+            <link>http://chicago.pm.org/blog/2016/02/23/imager-the-perl-image-library/</link>
+            <guid>http://chicago.pm.org/blog/2016/02/23/imager-the-perl-image-library/</guid>
+            <description><![CDATA[
+                <p>This month, <a href="http://wlindley.com">William Lindley</a> will be giving a talk
+on <a href="http://metacpan.org/pod/Imager">Imager, an image manipulation library for
+Perl</a>. Easier to install than
+Image::Magick, Imager has grown into a rich set of tools, including some
+overlooked features that turn it into a robust solution.</p>
+
+<p><a href="http://www.meetup.com/ChicagoPM/events/228490453/">RSVP on the Chicago.PM Meetup</a></p>
+
+                    <p><a href="http://chicago.pm.org/blog/2016/02/23/imager-the-perl-image-library/#section-2">Continue reading...</a></p>
+                <p>Tags:
+                    <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
+                </p>
+            ]]></description>
+            <pubDate>
+                Tue, 23 Feb 2016 00:00:00 +0000
+            </pubDate>
+        </item>
         <item>
             <title>Collecting Metrics with Graphite</title>
             <link>http://chicago.pm.org/blog/2016/01/24/collecting-metrics-with-graphite/</link>
@@ -131,35 +153,6 @@ page</a></p>
             ]]></description>
             <pubDate>
                 Sat, 19 Sep 2015 00:00:00 +0000
-            </pubDate>
-        </item>
-        <item>
-            <title>Distribution Management Shootout</title>
-            <link>http://chicago.pm.org/blog/2015/08/10/distribution-management-shootout/</link>
-            <guid>http://chicago.pm.org/blog/2015/08/10/distribution-management-shootout/</guid>
-            <description><![CDATA[
-                <p>This month, Doug Bell, Joel Berger, and Eric Johnson will be giving
-short demonstrations of tools to manage Perl distributions. A
-distribution is an installable bundle of modules, usually uploaded to
-CPAN for others to download.</p>
-
-<p>Doug will be presenting Dist::Zilla, the 500-lb gorilla of dist
-management. Joel will presenting Module::Build and Module::Build::Tiny
-with App::ModuleBuildTiny. Finally, Eric will be presenting Minilla and
-Carton.</p>
-
-<p>Each talk with take about 20 minutes, with some extra time for
-questions.</p>
-
-<p><a href="http://www.meetup.com/ChicagoPM/events/224393894/">RSVP on the Chicago.PM Meetup</a></p>
-
-                    <p><a href="http://chicago.pm.org/blog/2015/08/10/distribution-management-shootout/#section-2">Continue reading...</a></p>
-                <p>Tags:
-                    <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
-                </p>
-            ]]></description>
-            <pubDate>
-                Mon, 10 Aug 2015 00:00:00 +0000
             </pubDate>
         </item>
     </channel>

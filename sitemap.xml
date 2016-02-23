@@ -4,7 +4,7 @@
         <loc>http://chicago.pm.org/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2016-01-24</lastmod>
+        <lastmod>2016-02-23</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/about/</loc>
@@ -145,28 +145,34 @@
         <lastmod>2016-01-24</lastmod>
     </url>
     <url>
+        <loc>http://chicago.pm.org/blog/2016/02/23/imager-the-perl-image-library/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2016-02-23</lastmod>
+    </url>
+    <url>
         <loc>http://chicago.pm.org/blog/page/2/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2016-01-24</lastmod>
+        <lastmod>2016-02-23</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/page/3/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2016-01-24</lastmod>
+        <lastmod>2016-02-23</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/page/4/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2016-01-24</lastmod>
+        <lastmod>2016-02-23</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/page/5/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2016-01-24</lastmod>
+        <lastmod>2016-02-23</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/tag/announcement/</loc>
@@ -190,25 +196,25 @@
         <loc>http://chicago.pm.org/blog/tag/meeting/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2016-01-24</lastmod>
+        <lastmod>2016-02-23</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/tag/meeting/page/2/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2016-01-24</lastmod>
+        <lastmod>2016-02-23</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/tag/meeting/page/3/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2016-01-24</lastmod>
+        <lastmod>2016-02-23</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/tag/meeting/page/4/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2016-01-24</lastmod>
+        <lastmod>2016-02-23</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/tag/meetings/</loc>
@@ -244,55 +250,55 @@
         <loc>http://chicago.pm.org/howto/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2016-01-28</lastmod>
+        <lastmod>2016-02-23</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/jobs/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2016-01-28</lastmod>
+        <lastmod>2016-02-23</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/notes/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2016-01-28</lastmod>
+        <lastmod>2016-02-23</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/notes/2014-03-27/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2016-01-28</lastmod>
+        <lastmod>2016-02-23</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/notes/2014-04-09/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2016-01-28</lastmod>
+        <lastmod>2016-02-23</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/notes/2014-05-22/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2016-01-28</lastmod>
+        <lastmod>2016-02-23</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/notes/2014-07-09/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2016-01-28</lastmod>
+        <lastmod>2016-02-23</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/notes/2015-07-09/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2016-01-28</lastmod>
+        <lastmod>2016-02-23</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/talks/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2016-01-28</lastmod>
+        <lastmod>2016-02-23</lastmod>
     </url>
 </urlset>
 

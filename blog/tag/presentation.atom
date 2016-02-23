@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://chicago.pm.org/blog/tag/presentation/</id>
     <title>Chicago.PM</title>
-    <updated>2016-01-28T20:34:42Z</updated>
+    <updated>2016-02-23T16:12:21Z</updated>
     <link href="http://chicago.pm.org/blog/tag/presentation.atom" rel="self" />
     <link href="http://chicago.pm.org/blog/tag/presentation/" rel="alternate" />
-    <generator version="0.066">Statocles</generator>
+    <generator version="0.067">Statocles</generator>
     <entry>
         <id>http://chicago.pm.org/blog/2013/05/20/building-command-line-applications-doug-bell-may-23.html</id>
         <title>Building Command-Line Applications: Doug Bell - May 23</title>
