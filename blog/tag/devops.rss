@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Chicago.PM</title>
+        <link>http://chicago.pm.org/blog/tag/devops/</link>
+        <atom:link href="http://chicago.pm.org/blog/tag/devops.rss" rel="self" type="application/rss+xml" />
+        <description>Blog feed of Chicago.PM</description>
+        <generator>Statocles 0.073</generator>
+        <item>
+            <title>Travis-CI for Perl and Introduction to Rex</title>
+            <link>http://chicago.pm.org/blog/2016/03/18/travis-ci-for-perl-and-introduction-to-rex/</link>
+            <guid>http://chicago.pm.org/blog/2016/03/18/travis-ci-for-perl-and-introduction-to-rex/</guid>
+            <description><![CDATA[
+                <p>This month, <a href="http://preaction.me">Doug Bell</a> will be giving two short
+talks.</p>
+
+<p>One talk is about using <a href="https://travis-ci.org">Travis-CI, a free continuous integration
+testing service</a>, for Perl projects, and
+maximizing Travis&#39;s effectiveness. This talk introduces <a href="https://github.com/haarg">Graham
+Knop</a>&#39;s <a href="https://github.com/travis-perl/helpers">Perl Travis
+Helpers</a>, gets you started using
+Travis-CI, and shows how to configure Travis to cover edge cases like
+very old Perls and missing optional modules/features (using
+<a href="http://metacpan.org/pod/Devel::Hide">Devel::Hide</a>).</p>
+
+<p>The other talk is an introduction to <a href="http://rexify.org">Rex, a Perl-based server
+configuration management system</a>. This talk was given
+informally at an office hours last year, but now it&#39;s a real talk with
+real slides! This talk introduces Rex, goes through simple configuration
+and tasks, and touches on some of the more powerful features of Rex such
+as the CMDB (Configuration Management Database).</p>
+
+<p><a href="http://www.meetup.com/ChicagoPM/events/229699475/">RSVP on the Meetup</a></p>
+
+                    <p><a href="http://chicago.pm.org/blog/2016/03/18/travis-ci-for-perl-and-introduction-to-rex/#section-2">Continue reading...</a></p>
+                <p>Tags:
+                    <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
+                    <a href="http://chicago.pm.org/blog/tag/testing/">testing</a>
+                    <a href="http://chicago.pm.org/blog/tag/devops/">devops</a>
+                </p>
+            ]]></description>
+            <pubDate>
+                Fri, 18 Mar 2016 00:00:00 +0000
+            </pubDate>
+        </item>
+    </channel>
+</rss>
+
