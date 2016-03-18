@@ -43,6 +43,49 @@ as the CMDB (Configuration Management Database).</p>
                 Fri, 18 Mar 2016 00:00:00 +0000
             </pubDate>
         </item>
+        <item>
+            <title>The Perl Test Ecosystem</title>
+            <link>http://chicago.pm.org/blog/2015/09/19/the-perl-test-ecosystem/</link>
+            <guid>http://chicago.pm.org/blog/2015/09/19/the-perl-test-ecosystem/</guid>
+            <description><![CDATA[
+                <p>This month, <a href="http://kablamo.org">Eric Johnson (kablamo)</a> will be giving
+a <a href="http://kablamo.org/slides-perl-testing/">talk exploring the Perl testing
+ecosystem</a>, including how to
+write tests in Perl, using prove to run tests, TAP (the Test-Anything
+Protocol), and an exploration of CPAN test libraries including:</p>
+
+<ul>
+<li><a href="http://metacpan.org/pod/Test::More">Test::More</a></li>
+<li><a href="http://metacpan.org/pod/Test::Differences">Test::Differences</a></li>
+<li><a href="http://metacpan.org/pod/Test::Deep">Test::Deep</a></li>
+<li><a href="http://metacpan.org/pod/Test::Fatal">Test::Fatal</a></li>
+<li><a href="http://metacpan.org/pod/Test::Warnings">Test::Warnings</a></li>
+<li><a href="http://metacpan.org/pod/Test::Lib">Test::Lib</a></li>
+<li><a href="http://metacpan.org/pod/Test::Cmd">Test::Cmd</a></li>
+<li><a href="http://metacpan.org/pod/Test::DescribeMe">Test::DescribeMe</a></li>
+<li><a href="http://metacpan.org/pod/Plack::Test">Plack::Test</a></li>
+<li><a href="http://metacpan.org/pod/Devel::Cover">Devel::Cover</a></li>
+<li><a href="http://metacpan.org/pod/Test::Most">Test::Most</a></li>
+<li><a href="http://metacpan.org/pod/Test::Modern">Test::Modern</a></li>
+<li><a href="http://metacpan.org/pod/Test::Pretty">Test::Pretty</a></li>
+</ul>
+
+<p><a href="http://kablamo.org/slides-perl-testing/#/">Slides are available on
+kablamo.org</a></p>
+
+<p><a href="http://www.meetup.com/ChicagoPM/events/225357015/">RSVP on the Chicago.PM Meetup
+page</a></p>
+
+                    <p><a href="http://chicago.pm.org/blog/2015/09/19/the-perl-test-ecosystem/#section-2">Continue reading...</a></p>
+                <p>Tags:
+                    <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
+                    <a href="http://chicago.pm.org/blog/tag/testing/">testing</a>
+                </p>
+            ]]></description>
+            <pubDate>
+                Sat, 19 Sep 2015 00:00:00 +0000
+            </pubDate>
+        </item>
     </channel>
 </rss>
 
