@@ -1,9 +1,7 @@
 ---
 last_modified: 2013-05-20 14:23:00
 tags:
-  - presentation
-  - announcement
-  - command line
+  - meeting
 title: 'Building Command-Line Applications: Doug Bell - May 23'
 ---
 

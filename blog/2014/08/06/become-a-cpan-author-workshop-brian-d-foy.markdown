@@ -1,6 +1,6 @@
 ---
 last_modified: 2014-08-06 01:21:00
-tags: ''
+tags: meeting
 title: 'Become a CPAN Author Workshop - brian d foy'
 ---
 This month, brian d foy will be giving a workshop on How to Become a CPAN

@@ -1,6 +1,6 @@
 ---
 last_modified: 2014-11-04 23:19:00
-tags: meetings
+tags: meeting
 title: 'Holiday Schedule - Office Hours'
 ---
 Due to the holiday schedule, this month we will be having Office Hours, with no meeting on Thanksgiving.

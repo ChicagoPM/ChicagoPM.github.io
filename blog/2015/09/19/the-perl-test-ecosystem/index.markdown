@@ -1,7 +1,7 @@
 ---
 tags:
   - meeting
-  - test
+  - testing
 title: The Perl Test Ecosystem
 ---
 
