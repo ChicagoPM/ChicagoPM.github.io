@@ -3,7 +3,7 @@ tags: blog, web
 title: Super Easy SSL Certs for Mojolicious Apps
 ---
 
-[Joel Berger](https://metacpan.org/author/JBERGER) wrote a blog post about [using LetsEncrypt in your
+[Joel Berger](http://jberger.github.io) wrote a blog post about [using LetsEncrypt in your
 Mojolicious
 application](http://blogs.perl.org/users/joel_berger/2016/03/super-easy-ssl-certs-for-mojolicious-apps.html).
 [LetsEncrypt is a free, automated SSL certificate authority](https://letsencrypt.org), and
