@@ -7,6 +7,31 @@
         <description>Blog feed of Chicago.PM</description>
         <generator>Statocles 0.073</generator>
         <item>
+            <title>Super Easy SSL Certs for Mojolicious Apps</title>
+            <link>http://chicago.pm.org/blog/2016/03/20/super-easy-ssl-certs-for-mojolicious-apps/</link>
+            <guid>http://chicago.pm.org/blog/2016/03/20/super-easy-ssl-certs-for-mojolicious-apps/</guid>
+            <description><![CDATA[
+                <p><a href="https://metacpan.org/author/JBERGER">Joel Berger</a> wrote a blog post about <a href="http://blogs.perl.org/users/joel_berger/2016/03/super-easy-ssl-certs-for-mojolicious-apps.html">using LetsEncrypt in your
+Mojolicious
+application</a>.
+<a href="https://letsencrypt.org">LetsEncrypt is a free, automated SSL certificate authority</a>, and
+allows you to get SSL encryption on your website without the hassle and
+expense of dealing with the current style of CA.</p>
+
+<p><a href="http://blogs.perl.org/users/joel_berger/2016/03/super-easy-ssl-certs-for-mojolicious-apps.html">Read Super Easy SSL Certs for Mojolicious Apps on
+blogs.perl.org</a></p>
+
+                    <p><a href="http://chicago.pm.org/blog/2016/03/20/super-easy-ssl-certs-for-mojolicious-apps/#section-2">Continue reading...</a></p>
+                <p>Tags:
+                    <a href="http://chicago.pm.org/blog/tag/blog/">blog</a>
+                    <a href="http://chicago.pm.org/blog/tag/web/">web</a>
+                </p>
+            ]]></description>
+            <pubDate>
+                Sun, 20 Mar 2016 00:00:00 +0000
+            </pubDate>
+        </item>
+        <item>
             <title>Travis-CI for Perl and Introduction to Rex</title>
             <link>http://chicago.pm.org/blog/2016/03/18/travis-ci-for-perl-and-introduction-to-rex/</link>
             <guid>http://chicago.pm.org/blog/2016/03/18/travis-ci-for-perl-and-introduction-to-rex/</guid>
@@ -122,31 +147,6 @@ available</a>)</p>
             ]]></description>
             <pubDate>
                 Thu, 03 Dec 2015 00:00:00 +0000
-            </pubDate>
-        </item>
-        <item>
-            <title>The Why Of Git</title>
-            <link>http://chicago.pm.org/blog/2015/10/11/the-why-of-git/</link>
-            <guid>http://chicago.pm.org/blog/2015/10/11/the-why-of-git/</guid>
-            <description><![CDATA[
-                <p>This month <a href="http://preaction.me">Doug Bell</a> will be giving a talk on
-<a href="http://git-scm.com">Git</a> internals, and how they effect how you use Git
-commands like <code>commit</code>, <code>merge</code>, <code>pull</code>, and <code>rebase</code>. The presentation
-will go over some common errors and explain what they mean, and how
-resolving them will affect the internal data of your repository.</p>
-
-<p><a href="http://www.meetup.com/ChicagoPM/events/225737511/">RSVP on the Chicago.PM
-Meetup</a></p>
-
-<p>(EDIT: <a href="http://preaction.github.io/The-Why-of-Git/">See the slides for The Why of Git</a>)</p>
-
-                    <p><a href="http://chicago.pm.org/blog/2015/10/11/the-why-of-git/#section-2">Continue reading...</a></p>
-                <p>Tags:
-                    <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
-                </p>
-            ]]></description>
-            <pubDate>
-                Sun, 11 Oct 2015 00:00:00 +0000
             </pubDate>
         </item>
     </channel>
