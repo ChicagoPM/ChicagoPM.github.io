@@ -6,6 +6,9 @@ title: "Talks - Chicago.PM"
 
 Here are the slides to some of the talks that have been given at Chicago.PM.
 
+* 2016-03-24:
+    * [Introduction to Rex](http://preaction.github.io/Introduction-to-Rex/)
+    * [Getting the Most from Travis-CI for Perl](http://preaction.github.io/Getting-The-Most-From-Travis-CI-For-Perl/)
 * 2016-01-28: [Collecting Metrics with Graphite](http://preaction.github.io/Collecting-Metrics-With-Graphite)
 * 2015-12-10:
     * [Stupid WebSocket Tricks with Perl](http://preaction.github.io/Stupid-Websocket-Tricks-With-Perl)

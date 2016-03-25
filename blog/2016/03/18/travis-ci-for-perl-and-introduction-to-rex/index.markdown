@@ -26,3 +26,9 @@ and tasks, and touches on some of the more powerful features of Rex such
 as the CMDB (Configuration Management Database).
 
 [RSVP on the Meetup](http://www.meetup.com/ChicagoPM/events/229699475/)
+
+EDIT: Slides are now available for both talks on [the Chicago.PM talks
+page](/talks):
+
+* [Introduction to Rex](http://preaction.github.io/Introduction-to-Rex/)
+* [Getting the Most from Travis-CI for Perl](http://preaction.github.io/Getting-The-Most-From-Travis-CI-For-Perl/)
