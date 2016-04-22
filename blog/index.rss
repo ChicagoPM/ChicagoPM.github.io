@@ -5,7 +5,37 @@
         <link>http://chicago.pm.org/blog/</link>
         <atom:link href="http://chicago.pm.org/blog/index.rss" rel="self" type="application/rss+xml" />
         <description>Blog feed of Chicago.PM</description>
-        <generator>Statocles 0.073</generator>
+        <generator>Statocles 0.074</generator>
+        <item>
+            <title>Logging and Analytics Using Perl and Fluentd</title>
+            <link>http://chicago.pm.org/blog/2016/04/22/logging-and-analytics-using-perl-and-fluentd/</link>
+            <guid>http://chicago.pm.org/blog/2016/04/22/logging-and-analytics-using-perl-and-fluentd/</guid>
+            <description><![CDATA[
+                <p>This month, <a href="http://www.cromedome.net">Jason Crome</a> is giving a talk on
+using <a href="http://www.fluentd.org">Fluentd</a> for logging, and Perl for
+analytics:</p>
+
+<blockquote>
+  <p>Logging is one of the most important pieces you’ll have in any
+  large-scale software system, and in a massively multiplayer game it’s
+  even more critical. Using Ovid’s Veure MMO as an example, I’ll discuss
+  what we are logging and why, how we use fluentd to collect information
+  at all levels in the game’s stack, and the tools and processes we use
+  to analyze that data.</p>
+</blockquote>
+
+<p><a href="http://www.meetup.com/ChicagoPM/events/230564694/">RSVP on the Chicago.PM Meetup</a></p>
+
+                    <p><a href="http://chicago.pm.org/blog/2016/04/22/logging-and-analytics-using-perl-and-fluentd/#section-2">Continue reading...</a></p>
+                <p>Tags:
+                    <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
+                    <a href="http://chicago.pm.org/blog/tag/devops/">devops</a>
+                </p>
+            ]]></description>
+            <pubDate>
+                Fri, 22 Apr 2016 00:00:00 +0000
+            </pubDate>
+        </item>
         <item>
             <title>Super Easy SSL Certs for Mojolicious Apps</title>
             <link>http://chicago.pm.org/blog/2016/03/20/super-easy-ssl-certs-for-mojolicious-apps/</link>
@@ -121,40 +151,6 @@ dashboard</a>.</p>
             ]]></description>
             <pubDate>
                 Sun, 24 Jan 2016 00:00:00 +0000
-            </pubDate>
-        </item>
-        <item>
-            <title>Testing PSGI With Test::Mojo and Stupid Websocket Tricks</title>
-            <link>http://chicago.pm.org/blog/2015/12/03/testing-psgi-with-test-mojo-and-stupid-websocket-tricks/</link>
-            <guid>http://chicago.pm.org/blog/2015/12/03/testing-psgi-with-test-mojo-and-stupid-websocket-tricks/</guid>
-            <description><![CDATA[
-                <p>We&#39;ve got a couple short talks scheduled for this month, and we&#39;ve got
-a new venue, generously provided by <a href="http://www.servercentral.com">ServerCentral</a>.</p>
-
-<p><a href="http://metacpan.org/author/JBERGER">Joel Berger</a> is going to give
-a talk on testing any <a href="http://plackperl.org">PSGI application</a> with
-<a href="http://mojolicio.us/perldoc/Test/Mojo">Test::Mojo, Mojolicious&#39;s excellent web testing
-library.</a></p>
-
-<p>And, <a href="http://metacpan.org/author/PREACTION">Doug Bell</a> is going to give
-a talk on some simple websocket tricks with <a href="http://metacpan.org/pod/mercury">Mercury, a WebSocket
-message broker</a>, <a href="http://mojolicio.us">Mojolicious</a>
-and <a href="http://mojolicio.us/perldoc/Mojo/UserAgent">Mojo::UserAgent</a>.</p>
-
-<p>Due to the holidays, our meeting will be on December 10. <a href="http://www.meetup.com/ChicagoPM/events/226879320/">RSVP on the
-Chicago.PM Meetup</a></p>
-
-<p>(EDIT: Slides from the <a href="http://preaction.github.io/Stupid-Websocket-Tricks-With-Perl/">simple WebSocket tricks talk are now
-available</a>)</p>
-
-                    <p><a href="http://chicago.pm.org/blog/2015/12/03/testing-psgi-with-test-mojo-and-stupid-websocket-tricks/#section-2">Continue reading...</a></p>
-                <p>Tags:
-                    <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
-                    <a href="http://chicago.pm.org/blog/tag/mojolicious/">mojolicious</a>
-                </p>
-            ]]></description>
-            <pubDate>
-                Thu, 03 Dec 2015 00:00:00 +0000
             </pubDate>
         </item>
     </channel>

@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://chicago.pm.org/blog/tag/meeting/</id>
     <title>Chicago.PM</title>
-    <updated>2016-03-18T00:00:00Z</updated>
+    <updated>2016-04-22T00:00:00Z</updated>
     <link href="http://chicago.pm.org/blog/tag/meeting.atom" rel="self" />
     <link href="http://chicago.pm.org/blog/tag/meeting/" rel="alternate" />
-    <generator version="0.073">Statocles</generator>
+    <generator version="0.074">Statocles</generator>
+    <entry>
+        <id>http://chicago.pm.org/blog/2016/04/22/logging-and-analytics-using-perl-and-fluentd/</id>
+        <title>Logging and Analytics Using Perl and Fluentd</title>
+        <link href="http://chicago.pm.org/blog/2016/04/22/logging-and-analytics-using-perl-and-fluentd/" rel="alternate" />
+        <content type="html"><![CDATA[
+            <p>This month, <a href="http://www.cromedome.net">Jason Crome</a> is giving a talk on
+using <a href="http://www.fluentd.org">Fluentd</a> for logging, and Perl for
+analytics:</p>
+
+<blockquote>
+  <p>Logging is one of the most important pieces you’ll have in any
+  large-scale software system, and in a massively multiplayer game it’s
+  even more critical. Using Ovid’s Veure MMO as an example, I’ll discuss
+  what we are logging and why, how we use fluentd to collect information
+  at all levels in the game’s stack, and the tools and processes we use
+  to analyze that data.</p>
+</blockquote>
+
+<p><a href="http://www.meetup.com/ChicagoPM/events/230564694/">RSVP on the Chicago.PM Meetup</a></p>
+
+                <p><a href="http://chicago.pm.org/blog/2016/04/22/logging-and-analytics-using-perl-and-fluentd/#section-2">Continue reading...</a></p>
+            <p>Tags:
+                <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
+                <a href="http://chicago.pm.org/blog/tag/devops/">devops</a>
+            </p>
+        ]]></content>
+        <updated>2016-04-22T00:00:00Z</updated>
+        <category term="meeting" />
+        <category term="devops" />
+    </entry>
     <entry>
         <id>http://chicago.pm.org/blog/2016/03/18/travis-ci-for-perl-and-introduction-to-rex/</id>
         <title>Travis-CI for Perl and Introduction to Rex</title>
@@ -130,30 +160,6 @@ available</a>)</p>
         <updated>2015-12-03T00:00:00Z</updated>
         <category term="meeting" />
         <category term="mojolicious" />
-    </entry>
-    <entry>
-        <id>http://chicago.pm.org/blog/2015/10/11/the-why-of-git/</id>
-        <title>The Why Of Git</title>
-        <link href="http://chicago.pm.org/blog/2015/10/11/the-why-of-git/" rel="alternate" />
-        <content type="html"><![CDATA[
-            <p>This month <a href="http://preaction.me">Doug Bell</a> will be giving a talk on
-<a href="http://git-scm.com">Git</a> internals, and how they effect how you use Git
-commands like <code>commit</code>, <code>merge</code>, <code>pull</code>, and <code>rebase</code>. The presentation
-will go over some common errors and explain what they mean, and how
-resolving them will affect the internal data of your repository.</p>
-
-<p><a href="http://www.meetup.com/ChicagoPM/events/225737511/">RSVP on the Chicago.PM
-Meetup</a></p>
-
-<p>(EDIT: <a href="http://preaction.github.io/The-Why-of-Git/">See the slides for The Why of Git</a>)</p>
-
-                <p><a href="http://chicago.pm.org/blog/2015/10/11/the-why-of-git/#section-2">Continue reading...</a></p>
-            <p>Tags:
-                <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
-            </p>
-        ]]></content>
-        <updated>2015-10-11T00:00:00Z</updated>
-        <category term="meeting" />
     </entry>
 </feed>
 

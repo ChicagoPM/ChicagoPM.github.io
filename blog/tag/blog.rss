@@ -5,7 +5,7 @@
         <link>http://chicago.pm.org/blog/tag/blog/</link>
         <atom:link href="http://chicago.pm.org/blog/tag/blog.rss" rel="self" type="application/rss+xml" />
         <description>Blog feed of Chicago.PM</description>
-        <generator>Statocles 0.073</generator>
+        <generator>Statocles 0.074</generator>
         <item>
             <title>Super Easy SSL Certs for Mojolicious Apps</title>
             <link>http://chicago.pm.org/blog/2016/03/20/super-easy-ssl-certs-for-mojolicious-apps/</link>
