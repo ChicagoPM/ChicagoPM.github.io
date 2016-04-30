@@ -34,6 +34,33 @@ Perl core.</p>
             </pubDate>
         </item>
         <item>
+            <title>Blog: CPANTesters at the Perl QA Hackathon</title>
+            <link>http://chicago.pm.org/blog/2016/04/30/blog-cpantesters-at-the-perl-qa-hackathon/</link>
+            <guid>http://chicago.pm.org/blog/2016/04/30/blog-cpantesters-at-the-perl-qa-hackathon/</guid>
+            <description><![CDATA[
+                <p><a href="http://preaction.me">Doug Bell</a>, the new leader of <a href="http://cpantesters.org">the CPANTesters
+project</a>, blogged about his accomplishments at
+<a href="http://act.qa-hackathon.org/qa2016/">this year&#39;s Perl QA Hackathon</a>,
+including tracking <a href="http://github.com/cpan-testers/cpantesters-project">the CPANTesters project
+goals</a> and starting
+<a href="http://github.com/cpan-testers/cpantesters-deploy">an automated deploy for
+CPANTesters</a> using
+<a href="http://rexify.org">Rex, a Perl-based devops tool</a>.</p>
+
+<p>Read Doug&#39;s post on his website:
+<a href="http://preaction.me/blog/2016/04/30/perl-qa-hackathon-cpantesters/">http://preaction.me/blog/2016/04/30/perl-qa-hackathon-cpantesters/</a></p>
+
+                    <p><a href="http://chicago.pm.org/blog/2016/04/30/blog-cpantesters-at-the-perl-qa-hackathon/#section-2">Continue reading...</a></p>
+                <p>Tags:
+                    <a href="http://chicago.pm.org/blog/tag/blog/">blog</a>
+                    <a href="http://chicago.pm.org/blog/tag/testing/">testing</a>
+                </p>
+            ]]></description>
+            <pubDate>
+                Sat, 30 Apr 2016 00:00:00 +0000
+            </pubDate>
+        </item>
+        <item>
             <title>Super Easy SSL Certs for Mojolicious Apps</title>
             <link>http://chicago.pm.org/blog/2016/03/20/super-easy-ssl-certs-for-mojolicious-apps/</link>
             <guid>http://chicago.pm.org/blog/2016/03/20/super-easy-ssl-certs-for-mojolicious-apps/</guid>

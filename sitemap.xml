@@ -169,6 +169,12 @@
         <lastmod>2016-04-22</lastmod>
     </url>
     <url>
+        <loc>http://chicago.pm.org/blog/2016/04/30/blog-cpantesters-at-the-perl-qa-hackathon/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2016-04-30</lastmod>
+    </url>
+    <url>
         <loc>http://chicago.pm.org/blog/2016/04/30/blog-reflections-on-test2/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
