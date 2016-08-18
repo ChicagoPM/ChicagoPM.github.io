@@ -3,7 +3,7 @@ tags: meeting, development
 title: Perl Development Environment
 ---
 
-This month, Jason Crome will be giving a talk on Perl development
+This month, [Jason Crome](https://crome-plated.com) will be giving a talk on Perl development
 environment tooling like [perlbrew](https://perlbrew.pl/),
 [plenv](https://github.com/tokuhirom/plenv), and
 [Carton](https://metacpan.org/pod/Carton). These tools help to manage
