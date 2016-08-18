@@ -6,6 +6,7 @@
     <link href="http://chicago.pm.org/blog/tag/devops.atom" rel="self" />
     <link href="http://chicago.pm.org/blog/tag/devops/" rel="alternate" />
     <generator version="0.077">Statocles</generator>
+
     <entry>
         <id>http://chicago.pm.org/blog/2016/04/22/logging-and-analytics-using-perl-and-fluentd/</id>
         <title>Logging and Analytics Using Perl and Fluentd</title>
