@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Chicago.PM</title>
+        <link>http://chicago.pm.org/blog/tag/development/</link>
+        <atom:link href="http://chicago.pm.org/blog/tag/development.rss" rel="self" type="application/rss+xml" />
+        <description>Blog feed of Chicago.PM</description>
+        <generator>Statocles 0.077</generator>
+        <item>
+            <title>Perl Development Environment</title>
+            <link>http://chicago.pm.org/blog/2016/08/18/perl-development-environment/</link>
+            <guid>http://chicago.pm.org/blog/2016/08/18/perl-development-environment/</guid>
+            <description><![CDATA[
+                <p>This month, Jason Crome will be giving a talk on Perl development
+environment tooling like <a href="https://perlbrew.pl/">perlbrew</a>,
+<a href="https://github.com/tokuhirom/plenv">plenv</a>, and
+<a href="https://metacpan.org/pod/Carton">Carton</a>. These tools help to manage
+different Perl versions, different module versions, and help to isolate
+your development environments to help make dependency version problems
+manageable.</p>
+
+<p>Bring your questions and your own experiences with maintaining a Perl
+development environment.</p>
+
+<p><a href="https://www.meetup.com/ChicagoPM/events/232972645/">RSVP on the Chicago.PM Meetup</a></p>
+
+                    <p><a href="http://chicago.pm.org/blog/2016/08/18/perl-development-environment/#section-2">Continue reading...</a></p>
+                <p>Tags:
+                    <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
+                    <a href="http://chicago.pm.org/blog/tag/development/">development</a>
+                </p>
+            ]]></description>
+            <pubDate>
+                Thu, 18 Aug 2016 00:00:00 +0000
+            </pubDate>
+        </item>
+    </channel>
+</rss>
+

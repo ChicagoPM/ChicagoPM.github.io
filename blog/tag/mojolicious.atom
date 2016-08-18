@@ -5,7 +5,7 @@
     <updated>2015-12-03T00:00:00Z</updated>
     <link href="http://chicago.pm.org/blog/tag/mojolicious.atom" rel="self" />
     <link href="http://chicago.pm.org/blog/tag/mojolicious/" rel="alternate" />
-    <generator version="0.074">Statocles</generator>
+    <generator version="0.077">Statocles</generator>
     <entry>
         <id>http://chicago.pm.org/blog/2015/12/03/testing-psgi-with-test-mojo-and-stupid-websocket-tricks/</id>
         <title>Testing PSGI With Test::Mojo and Stupid Websocket Tricks</title>
