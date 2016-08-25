@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://chicago.pm.org/blog/</id>
     <title>Chicago.PM</title>
-    <updated>2016-08-18T00:00:00Z</updated>
+    <updated>2016-08-24T00:00:00Z</updated>
     <link href="http://chicago.pm.org/blog/index.atom" rel="self" />
     <link href="http://chicago.pm.org/blog/" rel="alternate" />
     <generator version="0.077">Statocles</generator>
 
+    <entry>
+        <id>http://chicago.pm.org/blog/2016/08/24/new-dancer2-release-with-security-and-bug-fixes/</id>
+        <title>New Dancer2 Release with Security and Bug Fixes</title>
+        <link href="http://chicago.pm.org/blog/2016/08/24/new-dancer2-release-with-security-and-bug-fixes/" rel="alternate" />
+        <content type="html"><![CDATA[
+            <p><a href="https://crome-plated.com/about">Jason Crome</a> has announced a new
+release of <a href="http://perldancer.org">the Dancer2 Perl web framework</a>. This
+release includes some improved security best practices and bugfixes.</p>
+
+<p><a href="http://blogs.perl.org/users/jason_a_crome/2016/08/dancer2-0203000-improves-session-security-fixes-decoding-bugs.html">Read more about the Dancer2 release on Jason&#39;s blog at
+blogs.perl.org</a></p>
+
+                <p><a href="http://chicago.pm.org/blog/2016/08/24/new-dancer2-release-with-security-and-bug-fixes/#section-2">Continue reading...</a></p>
+            <p>Tags:
+                <a href="http://chicago.pm.org/blog/tag/blog/">blog</a>
+                <a href="http://chicago.pm.org/blog/tag/web/">web</a>
+            </p>
+        ]]></content>
+        <updated>2016-08-24T00:00:00Z</updated>
+        <category term="blog" />
+        <category term="web" />
+    </entry>
     <entry>
         <id>http://chicago.pm.org/blog/2016/08/18/perl-development-environment/</id>
         <title>Perl Development Environment</title>
@@ -118,31 +140,6 @@ analytics:</p>
         <updated>2016-04-22T00:00:00Z</updated>
         <category term="meeting" />
         <category term="devops" />
-    </entry>
-    <entry>
-        <id>http://chicago.pm.org/blog/2016/03/20/super-easy-ssl-certs-for-mojolicious-apps/</id>
-        <title>Super Easy SSL Certs for Mojolicious Apps</title>
-        <link href="http://chicago.pm.org/blog/2016/03/20/super-easy-ssl-certs-for-mojolicious-apps/" rel="alternate" />
-        <content type="html"><![CDATA[
-            <p><a href="http://jberger.github.io">Joel Berger</a> wrote a blog post about <a href="http://blogs.perl.org/users/joel_berger/2016/03/super-easy-ssl-certs-for-mojolicious-apps.html">using LetsEncrypt in your
-Mojolicious
-application</a>.
-<a href="https://letsencrypt.org">LetsEncrypt is a free, automated SSL certificate authority</a>, and
-allows you to get SSL encryption on your website without the hassle and
-expense of dealing with the current style of CA.</p>
-
-<p><a href="http://blogs.perl.org/users/joel_berger/2016/03/super-easy-ssl-certs-for-mojolicious-apps.html">Read Super Easy SSL Certs for Mojolicious Apps on
-blogs.perl.org</a></p>
-
-                <p><a href="http://chicago.pm.org/blog/2016/03/20/super-easy-ssl-certs-for-mojolicious-apps/#section-2">Continue reading...</a></p>
-            <p>Tags:
-                <a href="http://chicago.pm.org/blog/tag/blog/">blog</a>
-                <a href="http://chicago.pm.org/blog/tag/web/">web</a>
-            </p>
-        ]]></content>
-        <updated>2016-03-20T00:00:00Z</updated>
-        <category term="blog" />
-        <category term="web" />
     </entry>
 </feed>
 

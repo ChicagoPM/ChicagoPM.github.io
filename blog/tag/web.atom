@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://chicago.pm.org/blog/tag/web/</id>
     <title>Chicago.PM</title>
-    <updated>2016-03-20T00:00:00Z</updated>
+    <updated>2016-08-24T00:00:00Z</updated>
     <link href="http://chicago.pm.org/blog/tag/web.atom" rel="self" />
     <link href="http://chicago.pm.org/blog/tag/web/" rel="alternate" />
     <generator version="0.077">Statocles</generator>
 
+    <entry>
+        <id>http://chicago.pm.org/blog/2016/08/24/new-dancer2-release-with-security-and-bug-fixes/</id>
+        <title>New Dancer2 Release with Security and Bug Fixes</title>
+        <link href="http://chicago.pm.org/blog/2016/08/24/new-dancer2-release-with-security-and-bug-fixes/" rel="alternate" />
+        <content type="html"><![CDATA[
+            <p><a href="https://crome-plated.com/about">Jason Crome</a> has announced a new
+release of <a href="http://perldancer.org">the Dancer2 Perl web framework</a>. This
+release includes some improved security best practices and bugfixes.</p>
+
+<p><a href="http://blogs.perl.org/users/jason_a_crome/2016/08/dancer2-0203000-improves-session-security-fixes-decoding-bugs.html">Read more about the Dancer2 release on Jason&#39;s blog at
+blogs.perl.org</a></p>
+
+                <p><a href="http://chicago.pm.org/blog/2016/08/24/new-dancer2-release-with-security-and-bug-fixes/#section-2">Continue reading...</a></p>
+            <p>Tags:
+                <a href="http://chicago.pm.org/blog/tag/blog/">blog</a>
+                <a href="http://chicago.pm.org/blog/tag/web/">web</a>
+            </p>
+        ]]></content>
+        <updated>2016-08-24T00:00:00Z</updated>
+        <category term="blog" />
+        <category term="web" />
+    </entry>
     <entry>
         <id>http://chicago.pm.org/blog/2016/03/20/super-easy-ssl-certs-for-mojolicious-apps/</id>
         <title>Super Easy SSL Certs for Mojolicious Apps</title>
@@ -30,6 +52,40 @@ blogs.perl.org</a></p>
         ]]></content>
         <updated>2016-03-20T00:00:00Z</updated>
         <category term="blog" />
+        <category term="web" />
+    </entry>
+    <entry>
+        <id>http://chicago.pm.org/blog/2015/12/03/testing-psgi-with-test-mojo-and-stupid-websocket-tricks/</id>
+        <title>Testing PSGI With Test::Mojo and Stupid Websocket Tricks</title>
+        <link href="http://chicago.pm.org/blog/2015/12/03/testing-psgi-with-test-mojo-and-stupid-websocket-tricks/" rel="alternate" />
+        <content type="html"><![CDATA[
+            <p>We&#39;ve got a couple short talks scheduled for this month, and we&#39;ve got
+a new venue, generously provided by <a href="http://www.servercentral.com">ServerCentral</a>.</p>
+
+<p><a href="http://metacpan.org/author/JBERGER">Joel Berger</a> is going to give
+a talk on testing any <a href="http://plackperl.org">PSGI application</a> with
+<a href="http://mojolicio.us/perldoc/Test/Mojo">Test::Mojo, Mojolicious&#39;s excellent web testing
+library.</a></p>
+
+<p>And, <a href="http://metacpan.org/author/PREACTION">Doug Bell</a> is going to give
+a talk on some simple websocket tricks with <a href="http://metacpan.org/pod/mercury">Mercury, a WebSocket
+message broker</a>, <a href="http://mojolicio.us">Mojolicious</a>
+and <a href="http://mojolicio.us/perldoc/Mojo/UserAgent">Mojo::UserAgent</a>.</p>
+
+<p>Due to the holidays, our meeting will be on December 10. <a href="http://www.meetup.com/ChicagoPM/events/226879320/">RSVP on the
+Chicago.PM Meetup</a></p>
+
+<p>(EDIT: Slides from the <a href="http://preaction.github.io/Stupid-Websocket-Tricks-With-Perl/">simple WebSocket tricks talk are now
+available</a>)</p>
+
+                <p><a href="http://chicago.pm.org/blog/2015/12/03/testing-psgi-with-test-mojo-and-stupid-websocket-tricks/#section-2">Continue reading...</a></p>
+            <p>Tags:
+                <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
+                <a href="http://chicago.pm.org/blog/tag/web/">web</a>
+            </p>
+        ]]></content>
+        <updated>2015-12-03T00:00:00Z</updated>
+        <category term="meeting" />
         <category term="web" />
     </entry>
 </feed>
