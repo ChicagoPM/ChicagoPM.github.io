@@ -1,7 +1,7 @@
 ---
 tags:
   - meeting
-  - mojolicious
+  - web
 title: Testing PSGI With Test::Mojo and Stupid Websocket Tricks
 ---
 
