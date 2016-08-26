@@ -6,6 +6,10 @@ title: "Talks - Chicago.PM"
 
 Here are the slides to some of the talks that have been given at Chicago.PM.
 
+* 2016-08-25: [Perl Development
+  Environment Tooling](http://www.slideshare.net/cromedome/perl-development-environment-tooling)
+* 2016-05-26: [Writing Effective Documentation](http://preaction.github.io/Effective-Documentation/)
+* 2016-04-28: [Logging and Analytics with Perl and Fluentd](http://www.slideshare.net/cromedome/logging-with-perl-and-fluentd)
 * 2016-03-24:
     * [Introduction to Rex](http://preaction.github.io/Introduction-to-Rex/)
     * [Getting the Most from Travis-CI for Perl](http://preaction.github.io/Getting-The-Most-From-Travis-CI-For-Perl/)

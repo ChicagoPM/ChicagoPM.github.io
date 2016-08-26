@@ -18,3 +18,7 @@ analytics:
 > to analyze that data.
 
 [RSVP on the Chicago.PM Meetup](http://www.meetup.com/ChicagoPM/events/230564694/)
+
+*EDIT*: [Slides for Logging and Analytics Using Perl and Fluentd have
+been posted to cromedome's
+Slideshare](http://www.slideshare.net/cromedome/logging-with-perl-and-fluentd)

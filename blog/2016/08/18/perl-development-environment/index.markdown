@@ -15,3 +15,7 @@ Bring your questions and your own experiences with maintaining a Perl
 development environment.
 
 [RSVP on the Chicago.PM Meetup](https://www.meetup.com/ChicagoPM/events/232972645/)
+
+*EDIT*: [Slides for Perl Development Environment Tooling have been
+posted to cromedome's
+Slideshare](http://www.slideshare.net/cromedome/perl-development-environment-tooling)
