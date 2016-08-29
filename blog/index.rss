@@ -7,6 +7,26 @@
         <description>Blog feed of Chicago.PM</description>
         <generator>Statocles 0.077</generator>
         <item>
+            <title>Interview about Perl Dancer 2</title>
+            <link>http://chicago.pm.org/blog/2016/08/29/interview-about-perl-dancer-2/</link>
+            <guid>http://chicago.pm.org/blog/2016/08/29/interview-about-perl-dancer-2/</guid>
+            <description><![CDATA[
+                <p><a href="http://szabgab.com">Gabor Szabo</a> started a podcast and interviewed
+<a href="https://crome-plated.com/about">Jason Crome</a> for his first episode.</p>
+
+<p>Listen here: <a href="http://code-maven.com/cmos-1-jason-crome-perl-dancer2">Code Maven Open Source (CMOS) interviews Jason Crome about Perl Dancer 2</a></p>
+
+                    <p><a href="http://chicago.pm.org/blog/2016/08/29/interview-about-perl-dancer-2/#section-2">Continue reading...</a></p>
+                <p>Tags:
+                    <a href="http://chicago.pm.org/blog/tag/podcast/">podcast</a>
+                    <a href="http://chicago.pm.org/blog/tag/web/">web</a>
+                </p>
+            ]]></description>
+            <pubDate>
+                Mon, 29 Aug 2016 00:00:00 +0000
+            </pubDate>
+        </item>
+        <item>
             <title>New Dancer2 Release with Security and Bug Fixes</title>
             <link>http://chicago.pm.org/blog/2016/08/24/new-dancer2-release-with-security-and-bug-fixes/</link>
             <guid>http://chicago.pm.org/blog/2016/08/24/new-dancer2-release-with-security-and-bug-fixes/</guid>
@@ -112,40 +132,6 @@ CPANTesters</a> using
             ]]></description>
             <pubDate>
                 Sat, 30 Apr 2016 00:00:00 +0000
-            </pubDate>
-        </item>
-        <item>
-            <title>Logging and Analytics Using Perl and Fluentd</title>
-            <link>http://chicago.pm.org/blog/2016/04/22/logging-and-analytics-using-perl-and-fluentd/</link>
-            <guid>http://chicago.pm.org/blog/2016/04/22/logging-and-analytics-using-perl-and-fluentd/</guid>
-            <description><![CDATA[
-                <p>This month, <a href="http://www.cromedome.net">Jason Crome</a> is giving a talk on
-using <a href="http://www.fluentd.org">Fluentd</a> for logging, and Perl for
-analytics:</p>
-
-<blockquote>
-  <p>Logging is one of the most important pieces you’ll have in any
-  large-scale software system, and in a massively multiplayer game it’s
-  even more critical. Using Ovid’s Veure MMO as an example, I’ll discuss
-  what we are logging and why, how we use fluentd to collect information
-  at all levels in the game’s stack, and the tools and processes we use
-  to analyze that data.</p>
-</blockquote>
-
-<p><a href="http://www.meetup.com/ChicagoPM/events/230564694/">RSVP on the Chicago.PM Meetup</a></p>
-
-<p><em>EDIT</em>: <a href="http://www.slideshare.net/cromedome/logging-with-perl-and-fluentd">Slides for Logging and Analytics Using Perl and Fluentd have
-been posted to cromedome&#39;s
-Slideshare</a></p>
-
-                    <p><a href="http://chicago.pm.org/blog/2016/04/22/logging-and-analytics-using-perl-and-fluentd/#section-2">Continue reading...</a></p>
-                <p>Tags:
-                    <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
-                    <a href="http://chicago.pm.org/blog/tag/devops/">devops</a>
-                </p>
-            ]]></description>
-            <pubDate>
-                Fri, 22 Apr 2016 00:00:00 +0000
             </pubDate>
         </item>
     </channel>

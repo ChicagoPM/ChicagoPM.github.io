@@ -2,11 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://chicago.pm.org/blog/tag/web/</id>
     <title>Chicago.PM</title>
-    <updated>2016-08-24T00:00:00Z</updated>
+    <updated>2016-08-29T00:00:00Z</updated>
     <link href="http://chicago.pm.org/blog/tag/web.atom" rel="self" />
     <link href="http://chicago.pm.org/blog/tag/web/" rel="alternate" />
     <generator version="0.077">Statocles</generator>
 
+    <entry>
+        <id>http://chicago.pm.org/blog/2016/08/29/interview-about-perl-dancer-2/</id>
+        <title>Interview about Perl Dancer 2</title>
+        <link href="http://chicago.pm.org/blog/2016/08/29/interview-about-perl-dancer-2/" rel="alternate" />
+        <content type="html"><![CDATA[
+            <p><a href="http://szabgab.com">Gabor Szabo</a> started a podcast and interviewed
+<a href="https://crome-plated.com/about">Jason Crome</a> for his first episode.</p>
+
+<p>Listen here: <a href="http://code-maven.com/cmos-1-jason-crome-perl-dancer2">Code Maven Open Source (CMOS) interviews Jason Crome about Perl Dancer 2</a></p>
+
+                <p><a href="http://chicago.pm.org/blog/2016/08/29/interview-about-perl-dancer-2/#section-2">Continue reading...</a></p>
+            <p>Tags:
+                <a href="http://chicago.pm.org/blog/tag/podcast/">podcast</a>
+                <a href="http://chicago.pm.org/blog/tag/web/">web</a>
+            </p>
+        ]]></content>
+        <updated>2016-08-29T00:00:00Z</updated>
+        <category term="podcast" />
+        <category term="web" />
+    </entry>
     <entry>
         <id>http://chicago.pm.org/blog/2016/08/24/new-dancer2-release-with-security-and-bug-fixes/</id>
         <title>New Dancer2 Release with Security and Bug Fixes</title>
