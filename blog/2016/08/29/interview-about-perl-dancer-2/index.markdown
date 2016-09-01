@@ -6,7 +6,9 @@ tags:
 title: Interview about Perl Dancer 2
 ---
 
-[Gabor Szabo](http://szabgab.com) started a podcast and interviewed
+[Gabor Szabo](http://szabgab.com) started a podcast called [CMOS: Code
+Maven Open Source news](http://code-maven.com/cmos) and interviewed
 [Jason Crome](https://crome-plated.com/about) for his first episode.
 
-Listen here: [Code Maven Open Source (CMOS) interviews Jason Crome about Perl Dancer 2](http://code-maven.com/cmos-1-jason-crome-perl-dancer2)
+[Listen to Code Maven Open Source (CMOS) interviewing Jason Crome about
+Perl Dancer 2](http://code-maven.com/cmos-1-jason-crome-perl-dancer2)
