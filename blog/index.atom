@@ -2,20 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://chicago.pm.org/blog/</id>
     <title>Chicago.PM</title>
-    <updated>2016-08-29T00:00:00Z</updated>
+    <updated>2016-09-01T00:00:00Z</updated>
     <link href="http://chicago.pm.org/blog/index.atom" rel="self" />
     <link href="http://chicago.pm.org/blog/" rel="alternate" />
     <generator version="0.077">Statocles</generator>
 
     <entry>
+        <id>http://chicago.pm.org/blog/2016/09/01/joel-berger-on-mojolicious/</id>
+        <title>Joel Berger on Mojolicious</title>
+        <link href="http://chicago.pm.org/blog/2016/09/01/joel-berger-on-mojolicious/" rel="alternate" />
+        <content type="html"><![CDATA[
+            <p>For episode 3 of <a href="http://code-maven.com/cmos">Gabor Szabo&#39;s CMOS
+Podcast</a>, <a href="http://blogs.perl.org/users/joel_berger/">Joel
+Berger</a> talks about <a href="http://mojolicious.org">the
+Mojolicious Perl web framework</a>.</p>
+
+<p><a href="http://code-maven.com/cmos-3-joel-berger-mojolicious">Listen to CMOS Episode 3: Joel Berger on
+Mojolicious</a></p>
+
+                <p><a href="http://chicago.pm.org/blog/2016/09/01/joel-berger-on-mojolicious/#section-2">Continue reading...</a></p>
+            <p>Tags:
+                <a href="http://chicago.pm.org/blog/tag/podcast/">podcast</a>
+                <a href="http://chicago.pm.org/blog/tag/web/">web</a>
+            </p>
+        ]]></content>
+        <updated>2016-09-01T00:00:00Z</updated>
+        <category term="podcast" />
+        <category term="web" />
+    </entry>
+    <entry>
         <id>http://chicago.pm.org/blog/2016/08/29/interview-about-perl-dancer-2/</id>
         <title>Interview about Perl Dancer 2</title>
         <link href="http://chicago.pm.org/blog/2016/08/29/interview-about-perl-dancer-2/" rel="alternate" />
         <content type="html"><![CDATA[
-            <p><a href="http://szabgab.com">Gabor Szabo</a> started a podcast and interviewed
+            <p><a href="http://szabgab.com">Gabor Szabo</a> started a podcast called <a href="http://code-maven.com/cmos">CMOS: Code
+Maven Open Source news</a> and interviewed
 <a href="https://crome-plated.com/about">Jason Crome</a> for his first episode.</p>
 
-<p>Listen here: <a href="http://code-maven.com/cmos-1-jason-crome-perl-dancer2">Code Maven Open Source (CMOS) interviews Jason Crome about Perl Dancer 2</a></p>
+<p><a href="http://code-maven.com/cmos-1-jason-crome-perl-dancer2">Listen to Code Maven Open Source (CMOS) interviewing Jason Crome about
+Perl Dancer 2</a></p>
 
                 <p><a href="http://chicago.pm.org/blog/2016/08/29/interview-about-perl-dancer-2/#section-2">Continue reading...</a></p>
             <p>Tags:
@@ -99,33 +124,6 @@ Perl core.</p>
 <a href="http://blogs.perl.org/users/joel_berger/2016/04/reflections-on-test2.html">http://blogs.perl.org/users/joel_berger/2016/04/reflections-on-test2.html</a></p>
 
                 <p><a href="http://chicago.pm.org/blog/2016/04/30/blog-reflections-on-test2/#section-2">Continue reading...</a></p>
-            <p>Tags:
-                <a href="http://chicago.pm.org/blog/tag/blog/">blog</a>
-                <a href="http://chicago.pm.org/blog/tag/testing/">testing</a>
-            </p>
-        ]]></content>
-        <updated>2016-04-30T00:00:00Z</updated>
-        <category term="blog" />
-        <category term="testing" />
-    </entry>
-    <entry>
-        <id>http://chicago.pm.org/blog/2016/04/30/blog-cpantesters-at-the-perl-qa-hackathon/</id>
-        <title>Blog: CPANTesters at the Perl QA Hackathon</title>
-        <link href="http://chicago.pm.org/blog/2016/04/30/blog-cpantesters-at-the-perl-qa-hackathon/" rel="alternate" />
-        <content type="html"><![CDATA[
-            <p><a href="http://preaction.me">Doug Bell</a>, the new leader of <a href="http://cpantesters.org">the CPANTesters
-project</a>, blogged about his accomplishments at
-<a href="http://act.qa-hackathon.org/qa2016/">this year&#39;s Perl QA Hackathon</a>,
-including tracking <a href="http://github.com/cpan-testers/cpantesters-project">the CPANTesters project
-goals</a> and starting
-<a href="http://github.com/cpan-testers/cpantesters-deploy">an automated deploy for
-CPANTesters</a> using
-<a href="http://rexify.org">Rex, a Perl-based devops tool</a>.</p>
-
-<p>Read Doug&#39;s post on his website:
-<a href="http://preaction.me/blog/2016/04/30/perl-qa-hackathon-cpantesters/">http://preaction.me/blog/2016/04/30/perl-qa-hackathon-cpantesters/</a></p>
-
-                <p><a href="http://chicago.pm.org/blog/2016/04/30/blog-cpantesters-at-the-perl-qa-hackathon/#section-2">Continue reading...</a></p>
             <p>Tags:
                 <a href="http://chicago.pm.org/blog/tag/blog/">blog</a>
                 <a href="http://chicago.pm.org/blog/tag/testing/">testing</a>
