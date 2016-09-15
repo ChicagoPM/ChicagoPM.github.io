@@ -2,11 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://chicago.pm.org/blog/tag/web/</id>
     <title>Chicago.PM</title>
-    <updated>2016-09-01T00:00:00Z</updated>
+    <updated>2016-09-14T00:00:00Z</updated>
     <link href="http://chicago.pm.org/blog/tag/web.atom" rel="self" />
     <link href="http://chicago.pm.org/blog/tag/web/" rel="alternate" />
     <generator version="0.077">Statocles</generator>
 
+    <entry>
+        <id>http://chicago.pm.org/blog/2016/09/14/accepting-payments-on-the-web/</id>
+        <title>Accepting Payments on the Web</title>
+        <link href="http://chicago.pm.org/blog/2016/09/14/accepting-payments-on-the-web/" rel="alternate" />
+        <content type="html"><![CDATA[
+            <p>This month, <a href="http://www.noelrappin.com">Noel Rappin</a> will be talking
+about accepting payments on the web:</p>
+
+<blockquote>
+  <p>Your customers have money, and you’d like them to give it to you.
+  Payment gateways, such as <a href="https://stripe.com">Stripe</a>,
+  <a href="https://www.braintreepayments.com">Braintree</a>, and
+  <a href="https://paypal.com">Paypal</a>, make it easy to start charging credit
+  cards and get the money flowing. But charging cards is only the
+  beginning. You need to worry that your app responds gracefully to
+  service failures, since charging a customer for a failed transaction
+  is bad. You need to guard against fraud and security breaches. You
+  need administrative tools that are flexible but secure.  You want to
+  test against external services. And you’ll run up against the law.
+  Learn from some of my mistakes and build a robust financial
+  application.</p>
+</blockquote>
+
+<p><a href="http://www.noelrappin.com">Noel Rappin</a> is the Director of Development
+at [Table XI]. Noel has authored multiple technical books, including
+<a href="http://pragprog.com/book/nrtest2/rails-4-test-prescriptions">&quot;Rails 4 Test
+Prescriptions&quot;</a>,
+<a href="https://noelrappin.dpdcart.com/cart/add?product_id=65638&amp;method_id=67542">&quot;Trust-Driven
+Development&quot;</a>,
+and the forthcoming &quot;Take My Money: Accepting Payments on the Web&quot;.
+<a href="http://twitter.com/noelrap">Follow Noel on Twitter @noelrap</a>, and
+online at <a href="http://www.noelrappin.com">http://www.noelrappin.com</a>.</p>
+
+                <p><a href="http://chicago.pm.org/blog/2016/09/14/accepting-payments-on-the-web/#section-2">Continue reading...</a></p>
+            <p>Tags:
+                <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
+                <a href="http://chicago.pm.org/blog/tag/web/">web</a>
+            </p>
+        ]]></content>
+        <updated>2016-09-14T00:00:00Z</updated>
+        <category term="meeting" />
+        <category term="web" />
+    </entry>
     <entry>
         <id>http://chicago.pm.org/blog/2016/09/01/joel-berger-on-mojolicious/</id>
         <title>Joel Berger on Mojolicious</title>
@@ -97,40 +140,6 @@ blogs.perl.org</a></p>
         ]]></content>
         <updated>2016-03-20T00:00:00Z</updated>
         <category term="blog" />
-        <category term="web" />
-    </entry>
-    <entry>
-        <id>http://chicago.pm.org/blog/2015/12/03/testing-psgi-with-test-mojo-and-stupid-websocket-tricks/</id>
-        <title>Testing PSGI With Test::Mojo and Stupid Websocket Tricks</title>
-        <link href="http://chicago.pm.org/blog/2015/12/03/testing-psgi-with-test-mojo-and-stupid-websocket-tricks/" rel="alternate" />
-        <content type="html"><![CDATA[
-            <p>We&#39;ve got a couple short talks scheduled for this month, and we&#39;ve got
-a new venue, generously provided by <a href="http://www.servercentral.com">ServerCentral</a>.</p>
-
-<p><a href="http://metacpan.org/author/JBERGER">Joel Berger</a> is going to give
-a talk on testing any <a href="http://plackperl.org">PSGI application</a> with
-<a href="http://mojolicio.us/perldoc/Test/Mojo">Test::Mojo, Mojolicious&#39;s excellent web testing
-library.</a></p>
-
-<p>And, <a href="http://metacpan.org/author/PREACTION">Doug Bell</a> is going to give
-a talk on some simple websocket tricks with <a href="http://metacpan.org/pod/mercury">Mercury, a WebSocket
-message broker</a>, <a href="http://mojolicio.us">Mojolicious</a>
-and <a href="http://mojolicio.us/perldoc/Mojo/UserAgent">Mojo::UserAgent</a>.</p>
-
-<p>Due to the holidays, our meeting will be on December 10. <a href="http://www.meetup.com/ChicagoPM/events/226879320/">RSVP on the
-Chicago.PM Meetup</a></p>
-
-<p>(EDIT: Slides from the <a href="http://preaction.github.io/Stupid-Websocket-Tricks-With-Perl/">simple WebSocket tricks talk are now
-available</a>)</p>
-
-                <p><a href="http://chicago.pm.org/blog/2015/12/03/testing-psgi-with-test-mojo-and-stupid-websocket-tricks/#section-2">Continue reading...</a></p>
-            <p>Tags:
-                <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
-                <a href="http://chicago.pm.org/blog/tag/web/">web</a>
-            </p>
-        ]]></content>
-        <updated>2015-12-03T00:00:00Z</updated>
-        <category term="meeting" />
         <category term="web" />
     </entry>
 </feed>
