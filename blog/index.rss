@@ -7,6 +7,39 @@
         <description>Blog feed of Chicago.PM</description>
         <generator>Statocles 0.077</generator>
         <item>
+            <title>MetaCPAN Hackathon in Chicago</title>
+            <link>http://chicago.pm.org/blog/2016/09/17/metacpan-hackathon-in-chicago/</link>
+            <guid>http://chicago.pm.org/blog/2016/09/17/metacpan-hackathon-in-chicago/</guid>
+            <description><![CDATA[
+                <p><a href="http://www.olafalders.com/2016/09/17/announcing-metahack/">Olaf Alders has announced meta::hack, a MetaCPAN hackathon in
+Chicago</a>.
+<a href="http://www.metacpan.org">MetaCPAN</a> is the best place to search for CPAN
+modules, and includes lots of useful information like documentation,
+links to the source repository and bug tracker, and a summary of <a href="http://www.cpantesters.org">CPAN
+Testers</a> results.</p>
+
+<p>Much like the <a href="http://act.qa-hackathon.org/qa2016/">Perl QA Hackathon</a>,
+this event will get the core MetaCPAN team together to achieve a few
+targeted goals. The biggest current goal is to get the platform upgraded
+to ElasticSearch version 2, but other, smaller tasks may come up as
+well.</p>
+
+<p>If you can help, <a href="http://www.olafalders.com/2016/09/17/announcing-metahack/">sponsor the meta::hack
+hackathon</a>.
+Sponsorship will help pay for travel expenses for the team so they can
+concentrate on making MetaCPAN better.</p>
+
+                    <p><a href="http://chicago.pm.org/blog/2016/09/17/metacpan-hackathon-in-chicago/#section-2">Continue reading...</a></p>
+                <p>Tags:
+                    <a href="http://chicago.pm.org/blog/tag/blog/">blog</a>
+                    <a href="http://chicago.pm.org/blog/tag/cpan/">cpan</a>
+                </p>
+            ]]></description>
+            <pubDate>
+                Sat, 17 Sep 2016 00:00:00 +0000
+            </pubDate>
+        </item>
+        <item>
             <title>Accepting Payments on the Web</title>
             <link>http://chicago.pm.org/blog/2016/09/14/accepting-payments-on-the-web/</link>
             <guid>http://chicago.pm.org/blog/2016/09/14/accepting-payments-on-the-web/</guid>
@@ -114,38 +147,6 @@ blogs.perl.org</a></p>
             ]]></description>
             <pubDate>
                 Wed, 24 Aug 2016 00:00:00 +0000
-            </pubDate>
-        </item>
-        <item>
-            <title>Perl Development Environment</title>
-            <link>http://chicago.pm.org/blog/2016/08/18/perl-development-environment/</link>
-            <guid>http://chicago.pm.org/blog/2016/08/18/perl-development-environment/</guid>
-            <description><![CDATA[
-                <p>This month, <a href="https://crome-plated.com">Jason Crome</a> will be giving a talk on Perl development
-environment tooling like <a href="https://perlbrew.pl/">perlbrew</a>,
-<a href="https://github.com/tokuhirom/plenv">plenv</a>, and
-<a href="https://metacpan.org/pod/Carton">Carton</a>. These tools help to manage
-different Perl versions, different module versions, and help to isolate
-your development environments to help make dependency version problems
-manageable.</p>
-
-<p>Bring your questions and your own experiences with maintaining a Perl
-development environment.</p>
-
-<p><a href="https://www.meetup.com/ChicagoPM/events/232972645/">RSVP on the Chicago.PM Meetup</a></p>
-
-<p><em>EDIT</em>: <a href="http://www.slideshare.net/cromedome/perl-development-environment-tooling">Slides for Perl Development Environment Tooling have been
-posted to cromedome&#39;s
-Slideshare</a></p>
-
-                    <p><a href="http://chicago.pm.org/blog/2016/08/18/perl-development-environment/#section-2">Continue reading...</a></p>
-                <p>Tags:
-                    <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
-                    <a href="http://chicago.pm.org/blog/tag/development/">development</a>
-                </p>
-            ]]></description>
-            <pubDate>
-                Thu, 18 Aug 2016 00:00:00 +0000
             </pubDate>
         </item>
     </channel>
