@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://chicago.pm.org/blog/tag/blog/</id>
     <title>Chicago.PM</title>
-    <updated>2016-09-17T00:00:00Z</updated>
+    <updated>2016-12-06T00:00:00Z</updated>
     <link href="http://chicago.pm.org/blog/tag/blog.atom" rel="self" />
     <link href="http://chicago.pm.org/blog/tag/blog/" rel="alternate" />
     <generator version="0.077">Statocles</generator>
 
+    <entry>
+        <id>http://chicago.pm.org/blog/2016/12/06/what-happened-at-the-metacpan-hackathon/</id>
+        <title>What Happened At The MetaCPAN Hackathon</title>
+        <link href="http://chicago.pm.org/blog/2016/12/06/what-happened-at-the-metacpan-hackathon/" rel="alternate" />
+        <content type="html"><![CDATA[
+            <p>The <a href="https://metacpan.org/about/meta_hack">MetaCPAN hackathon</a> here in
+Chicago has come and gone, and those who participated have written about
+what they accomplished. <a href="https://metacpan.org/about/meta_hack">All the after-hackathon reports are linked on
+the meta::hack page</a>. From our own
+members, <a href="http://blogs.perl.org/users/preaction/2016/11/metahack-log.html">Doug Bell wrote about his meta::hack
+accomplishments</a>
+and <a href="http://blogs.perl.org/users/joel_berger/2016/12/metahack-2016.html">Joel Berger also wrote about his meta::hack
+accomplishments</a>.
+Thanks to <a href="https://metacpan.org/about/meta_hack">the sponsors who made meta::hack
+happen</a>.</p>
+
+                <p><a href="http://chicago.pm.org/blog/2016/12/06/what-happened-at-the-metacpan-hackathon/#section-2">Continue reading...</a></p>
+            <p>Tags:
+                <a href="http://chicago.pm.org/blog/tag/cpan/">cpan</a>
+                <a href="http://chicago.pm.org/blog/tag/blog/">blog</a>
+            </p>
+        ]]></content>
+        <updated>2016-12-06T00:00:00Z</updated>
+        <category term="cpan" />
+        <category term="blog" />
+    </entry>
     <entry>
         <id>http://chicago.pm.org/blog/2016/09/17/metacpan-hackathon-in-chicago/</id>
         <title>MetaCPAN Hackathon in Chicago</title>
@@ -115,31 +141,6 @@ CPANTesters</a> using
         <updated>2016-04-30T00:00:00Z</updated>
         <category term="blog" />
         <category term="testing" />
-    </entry>
-    <entry>
-        <id>http://chicago.pm.org/blog/2016/03/20/super-easy-ssl-certs-for-mojolicious-apps/</id>
-        <title>Super Easy SSL Certs for Mojolicious Apps</title>
-        <link href="http://chicago.pm.org/blog/2016/03/20/super-easy-ssl-certs-for-mojolicious-apps/" rel="alternate" />
-        <content type="html"><![CDATA[
-            <p><a href="http://jberger.github.io">Joel Berger</a> wrote a blog post about <a href="http://blogs.perl.org/users/joel_berger/2016/03/super-easy-ssl-certs-for-mojolicious-apps.html">using LetsEncrypt in your
-Mojolicious
-application</a>.
-<a href="https://letsencrypt.org">LetsEncrypt is a free, automated SSL certificate authority</a>, and
-allows you to get SSL encryption on your website without the hassle and
-expense of dealing with the current style of CA.</p>
-
-<p><a href="http://blogs.perl.org/users/joel_berger/2016/03/super-easy-ssl-certs-for-mojolicious-apps.html">Read Super Easy SSL Certs for Mojolicious Apps on
-blogs.perl.org</a></p>
-
-                <p><a href="http://chicago.pm.org/blog/2016/03/20/super-easy-ssl-certs-for-mojolicious-apps/#section-2">Continue reading...</a></p>
-            <p>Tags:
-                <a href="http://chicago.pm.org/blog/tag/blog/">blog</a>
-                <a href="http://chicago.pm.org/blog/tag/web/">web</a>
-            </p>
-        ]]></content>
-        <updated>2016-03-20T00:00:00Z</updated>
-        <category term="blog" />
-        <category term="web" />
     </entry>
 </feed>
 

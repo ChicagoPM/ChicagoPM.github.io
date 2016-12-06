@@ -7,6 +7,32 @@
         <description>Blog feed of Chicago.PM</description>
         <generator>Statocles 0.077</generator>
         <item>
+            <title>What Happened At The MetaCPAN Hackathon</title>
+            <link>http://chicago.pm.org/blog/2016/12/06/what-happened-at-the-metacpan-hackathon/</link>
+            <guid>http://chicago.pm.org/blog/2016/12/06/what-happened-at-the-metacpan-hackathon/</guid>
+            <description><![CDATA[
+                <p>The <a href="https://metacpan.org/about/meta_hack">MetaCPAN hackathon</a> here in
+Chicago has come and gone, and those who participated have written about
+what they accomplished. <a href="https://metacpan.org/about/meta_hack">All the after-hackathon reports are linked on
+the meta::hack page</a>. From our own
+members, <a href="http://blogs.perl.org/users/preaction/2016/11/metahack-log.html">Doug Bell wrote about his meta::hack
+accomplishments</a>
+and <a href="http://blogs.perl.org/users/joel_berger/2016/12/metahack-2016.html">Joel Berger also wrote about his meta::hack
+accomplishments</a>.
+Thanks to <a href="https://metacpan.org/about/meta_hack">the sponsors who made meta::hack
+happen</a>.</p>
+
+                    <p><a href="http://chicago.pm.org/blog/2016/12/06/what-happened-at-the-metacpan-hackathon/#section-2">Continue reading...</a></p>
+                <p>Tags:
+                    <a href="http://chicago.pm.org/blog/tag/cpan/">cpan</a>
+                    <a href="http://chicago.pm.org/blog/tag/blog/">blog</a>
+                </p>
+            ]]></description>
+            <pubDate>
+                Tue, 06 Dec 2016 00:00:00 +0000
+            </pubDate>
+        </item>
+        <item>
             <title>MetaCPAN Hackathon in Chicago</title>
             <link>http://chicago.pm.org/blog/2016/09/17/metacpan-hackathon-in-chicago/</link>
             <guid>http://chicago.pm.org/blog/2016/09/17/metacpan-hackathon-in-chicago/</guid>
