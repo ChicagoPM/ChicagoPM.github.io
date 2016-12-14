@@ -5,7 +5,7 @@
         <link>http://chicago.pm.org/blog/tag/web/</link>
         <atom:link href="http://chicago.pm.org/blog/tag/web.rss" rel="self" type="application/rss+xml" />
         <description>Blog feed of Chicago.PM</description>
-        <generator>Statocles 0.077</generator>
+        <generator>Statocles 0.081</generator>
         <item>
             <title>Accepting Payments on the Web</title>
             <link>http://chicago.pm.org/blog/2016/09/14/accepting-payments-on-the-web/</link>

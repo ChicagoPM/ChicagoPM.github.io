@@ -5,7 +5,7 @@
         <link>http://chicago.pm.org/blog/tag/podcast/</link>
         <atom:link href="http://chicago.pm.org/blog/tag/podcast.rss" rel="self" type="application/rss+xml" />
         <description>Blog feed of Chicago.PM</description>
-        <generator>Statocles 0.077</generator>
+        <generator>Statocles 0.081</generator>
         <item>
             <title>Joel Berger on Mojolicious</title>
             <link>http://chicago.pm.org/blog/2016/09/01/joel-berger-on-mojolicious/</link>

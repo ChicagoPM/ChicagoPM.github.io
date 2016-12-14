@@ -5,7 +5,7 @@
     <updated>2016-12-06T00:00:00Z</updated>
     <link href="http://chicago.pm.org/blog/tag/blog.atom" rel="self" />
     <link href="http://chicago.pm.org/blog/tag/blog/" rel="alternate" />
-    <generator version="0.077">Statocles</generator>
+    <generator version="0.081">Statocles</generator>
 
     <entry>
         <id>http://chicago.pm.org/blog/2016/12/06/what-happened-at-the-metacpan-hackathon/</id>
@@ -89,33 +89,6 @@ blogs.perl.org</a></p>
         <category term="web" />
     </entry>
     <entry>
-        <id>http://chicago.pm.org/blog/2016/04/30/blog-reflections-on-test2/</id>
-        <title>Blog: Reflections on Test2</title>
-        <link href="http://chicago.pm.org/blog/2016/04/30/blog-reflections-on-test2/" rel="alternate" />
-        <content type="html"><![CDATA[
-            <p><a href="http://jberger.github.io">Joel Berger</a> wrote <a href="http://blogs.perl.org/users/joel_berger/2016/04/reflections-on-test2.html">a blog post reflecting on
-Test2</a>
-<a href="https://github.com/exodist">Chad Granum&#39;s (Exodist)</a>
-new core test library. (<a href="http://metacpan.org/pod/Test2">Read more about Test2 on Metacpan</a>).</p>
-
-<p>In his post, Joel explains the rationale behind Test2, the history that
-has led to this situation, and the path forward getting Test2 into the
-Perl core.</p>
-
-<p>Read Joel&#39;s post on blogs.perl.org:
-<a href="http://blogs.perl.org/users/joel_berger/2016/04/reflections-on-test2.html">http://blogs.perl.org/users/joel_berger/2016/04/reflections-on-test2.html</a></p>
-
-                <p><a href="http://chicago.pm.org/blog/2016/04/30/blog-reflections-on-test2/#section-2">Continue reading...</a></p>
-            <p>Tags:
-                <a href="http://chicago.pm.org/blog/tag/blog/">blog</a>
-                <a href="http://chicago.pm.org/blog/tag/testing/">testing</a>
-            </p>
-        ]]></content>
-        <updated>2016-04-30T00:00:00Z</updated>
-        <category term="blog" />
-        <category term="testing" />
-    </entry>
-    <entry>
         <id>http://chicago.pm.org/blog/2016/04/30/blog-cpantesters-at-the-perl-qa-hackathon/</id>
         <title>Blog: CPANTesters at the Perl QA Hackathon</title>
         <link href="http://chicago.pm.org/blog/2016/04/30/blog-cpantesters-at-the-perl-qa-hackathon/" rel="alternate" />
@@ -133,6 +106,33 @@ CPANTesters</a> using
 <a href="http://preaction.me/blog/2016/04/30/perl-qa-hackathon-cpantesters/">http://preaction.me/blog/2016/04/30/perl-qa-hackathon-cpantesters/</a></p>
 
                 <p><a href="http://chicago.pm.org/blog/2016/04/30/blog-cpantesters-at-the-perl-qa-hackathon/#section-2">Continue reading...</a></p>
+            <p>Tags:
+                <a href="http://chicago.pm.org/blog/tag/blog/">blog</a>
+                <a href="http://chicago.pm.org/blog/tag/testing/">testing</a>
+            </p>
+        ]]></content>
+        <updated>2016-04-30T00:00:00Z</updated>
+        <category term="blog" />
+        <category term="testing" />
+    </entry>
+    <entry>
+        <id>http://chicago.pm.org/blog/2016/04/30/blog-reflections-on-test2/</id>
+        <title>Blog: Reflections on Test2</title>
+        <link href="http://chicago.pm.org/blog/2016/04/30/blog-reflections-on-test2/" rel="alternate" />
+        <content type="html"><![CDATA[
+            <p><a href="http://jberger.github.io">Joel Berger</a> wrote <a href="http://blogs.perl.org/users/joel_berger/2016/04/reflections-on-test2.html">a blog post reflecting on
+Test2</a>
+<a href="https://github.com/exodist">Chad Granum&#39;s (Exodist)</a>
+new core test library. (<a href="http://metacpan.org/pod/Test2">Read more about Test2 on Metacpan</a>).</p>
+
+<p>In his post, Joel explains the rationale behind Test2, the history that
+has led to this situation, and the path forward getting Test2 into the
+Perl core.</p>
+
+<p>Read Joel&#39;s post on blogs.perl.org:
+<a href="http://blogs.perl.org/users/joel_berger/2016/04/reflections-on-test2.html">http://blogs.perl.org/users/joel_berger/2016/04/reflections-on-test2.html</a></p>
+
+                <p><a href="http://chicago.pm.org/blog/2016/04/30/blog-reflections-on-test2/#section-2">Continue reading...</a></p>
             <p>Tags:
                 <a href="http://chicago.pm.org/blog/tag/blog/">blog</a>
                 <a href="http://chicago.pm.org/blog/tag/testing/">testing</a>
