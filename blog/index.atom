@@ -2,11 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://chicago.pm.org/blog/</id>
     <title>Chicago.PM</title>
-    <updated>2016-12-06T00:00:00Z</updated>
+    <updated>2017-01-17T00:00:00Z</updated>
     <link href="http://chicago.pm.org/blog/index.atom" rel="self" />
     <link href="http://chicago.pm.org/blog/" rel="alternate" />
     <generator version="0.081">Statocles</generator>
 
+    <entry>
+        <id>http://chicago.pm.org/blog/2017/01/17/variables-scoping-and-namespaces/</id>
+        <title>Variables, Scoping, and Namespaces</title>
+        <link href="http://chicago.pm.org/blog/2017/01/17/variables-scoping-and-namespaces/" rel="alternate" />
+        <content type="html"><![CDATA[
+            <p>This month, <a href="http://blogs.perl.org/users/joel_berger/">Joel Berger</a> (<a href="http://twitter.com/joelaberger"><i class="fa fa-twitter"></i></a><a href="http://github.com/joelaberger"><i class="fa
+fa-github"></i></a>) will give a talk on
+Perl variable scoping rules, including the <code>my</code>, <code>our</code>, and <code>local</code>
+keywords, how they work, and some interesting ways they can be used.</p>
+
+<p><a href="https://www.meetup.com/ChicagoPM/events/236748063">RSVP on the Chicago.PM Meetup
+page</a></p>
+
+                <p><a href="http://chicago.pm.org/blog/2017/01/17/variables-scoping-and-namespaces/#section-2">Continue reading...</a></p>
+            <p>Tags:
+                <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
+                <a href="http://chicago.pm.org/blog/tag/syntax/">syntax</a>
+            </p>
+        ]]></content>
+        <updated>2017-01-17T00:00:00Z</updated>
+        <category term="meeting" />
+        <category term="syntax" />
+    </entry>
     <entry>
         <id>http://chicago.pm.org/blog/2016/12/06/what-happened-at-the-metacpan-hackathon/</id>
         <title>What Happened At The MetaCPAN Hackathon</title>
@@ -129,28 +152,6 @@ Mojolicious</a></p>
             </p>
         ]]></content>
         <updated>2016-09-01T00:00:00Z</updated>
-        <category term="podcast" />
-        <category term="web" />
-    </entry>
-    <entry>
-        <id>http://chicago.pm.org/blog/2016/08/29/interview-about-perl-dancer-2/</id>
-        <title>Interview about Perl Dancer 2</title>
-        <link href="http://chicago.pm.org/blog/2016/08/29/interview-about-perl-dancer-2/" rel="alternate" />
-        <content type="html"><![CDATA[
-            <p><a href="http://szabgab.com">Gabor Szabo</a> started a podcast called <a href="http://code-maven.com/cmos">CMOS: Code
-Maven Open Source news</a> and interviewed
-<a href="https://crome-plated.com/about">Jason Crome</a> for his first episode.</p>
-
-<p><a href="http://code-maven.com/cmos-1-jason-crome-perl-dancer2">Listen to Code Maven Open Source (CMOS) interviewing Jason Crome about
-Perl Dancer 2</a></p>
-
-                <p><a href="http://chicago.pm.org/blog/2016/08/29/interview-about-perl-dancer-2/#section-2">Continue reading...</a></p>
-            <p>Tags:
-                <a href="http://chicago.pm.org/blog/tag/podcast/">podcast</a>
-                <a href="http://chicago.pm.org/blog/tag/web/">web</a>
-            </p>
-        ]]></content>
-        <updated>2016-08-29T00:00:00Z</updated>
         <category term="podcast" />
         <category term="web" />
     </entry>

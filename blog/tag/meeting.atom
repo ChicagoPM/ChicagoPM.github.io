@@ -2,11 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://chicago.pm.org/blog/tag/meeting/</id>
     <title>Chicago.PM</title>
-    <updated>2016-09-14T00:00:00Z</updated>
+    <updated>2017-01-17T00:00:00Z</updated>
     <link href="http://chicago.pm.org/blog/tag/meeting.atom" rel="self" />
     <link href="http://chicago.pm.org/blog/tag/meeting/" rel="alternate" />
     <generator version="0.081">Statocles</generator>
 
+    <entry>
+        <id>http://chicago.pm.org/blog/2017/01/17/variables-scoping-and-namespaces/</id>
+        <title>Variables, Scoping, and Namespaces</title>
+        <link href="http://chicago.pm.org/blog/2017/01/17/variables-scoping-and-namespaces/" rel="alternate" />
+        <content type="html"><![CDATA[
+            <p>This month, <a href="http://blogs.perl.org/users/joel_berger/">Joel Berger</a> (<a href="http://twitter.com/joelaberger"><i class="fa fa-twitter"></i></a><a href="http://github.com/joelaberger"><i class="fa
+fa-github"></i></a>) will give a talk on
+Perl variable scoping rules, including the <code>my</code>, <code>our</code>, and <code>local</code>
+keywords, how they work, and some interesting ways they can be used.</p>
+
+<p><a href="https://www.meetup.com/ChicagoPM/events/236748063">RSVP on the Chicago.PM Meetup
+page</a></p>
+
+                <p><a href="http://chicago.pm.org/blog/2017/01/17/variables-scoping-and-namespaces/#section-2">Continue reading...</a></p>
+            <p>Tags:
+                <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
+                <a href="http://chicago.pm.org/blog/tag/syntax/">syntax</a>
+            </p>
+        ]]></content>
+        <updated>2017-01-17T00:00:00Z</updated>
+        <category term="meeting" />
+        <category term="syntax" />
+    </entry>
     <entry>
         <id>http://chicago.pm.org/blog/2016/09/14/accepting-payments-on-the-web/</id>
         <title>Accepting Payments on the Web</title>
@@ -161,27 +184,6 @@ page</a>:</p>
         <category term="meeting" />
         <category term="testing" />
         <category term="devops" />
-    </entry>
-    <entry>
-        <id>http://chicago.pm.org/blog/2016/02/23/imager-the-perl-image-library/</id>
-        <title>Imager - The Perl Image Library</title>
-        <link href="http://chicago.pm.org/blog/2016/02/23/imager-the-perl-image-library/" rel="alternate" />
-        <content type="html"><![CDATA[
-            <p>This month, <a href="http://wlindley.com">William Lindley</a> will be giving a talk
-on <a href="http://metacpan.org/pod/Imager">Imager, an image manipulation library for
-Perl</a>. Easier to install than
-Image::Magick, Imager has grown into a rich set of tools, including some
-overlooked features that turn it into a robust solution.</p>
-
-<p><a href="http://www.meetup.com/ChicagoPM/events/228490453/">RSVP on the Chicago.PM Meetup</a></p>
-
-                <p><a href="http://chicago.pm.org/blog/2016/02/23/imager-the-perl-image-library/#section-2">Continue reading...</a></p>
-            <p>Tags:
-                <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
-            </p>
-        ]]></content>
-        <updated>2016-02-23T00:00:00Z</updated>
-        <category term="meeting" />
     </entry>
 </feed>
 

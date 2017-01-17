@@ -8,8 +8,8 @@
         <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
         <title>Chicago.PM</title>
         <meta content="Statocles 0.081" name="generator">
-        <link href="/blog/tag/devops.atom" rel="alternate" type="application/atom+xml">
-        <link href="/blog/tag/devops.rss" rel="alternate" type="application/rss+xml">
+        <link href="/blog/index.atom" rel="alternate" type="application/atom+xml">
+        <link href="/blog/index.rss" rel="alternate" type="application/rss+xml">
         <link href="/theme/css/chicagopm.css" rel="stylesheet">
 
     </head>
@@ -60,93 +60,31 @@
 
 <article>
     <header>
-        <h1><a href="/blog/2016/04/22/logging-and-analytics-using-perl-and-fluentd/">Logging and Analytics Using Perl and Fluentd</a></h1>
+        <h1><a href="/blog/2013/05/20/building-command-line-applications-doug-bell-may-23.html">Building Command-Line Applications: Doug Bell - May 23</a></h1>
 
         <p class="tags">Tags:
             <a href="/blog/tag/meeting/" rel="tag">meeting</a>
-            <a href="/blog/tag/devops/" rel="tag">devops</a>
         </p>
 
         <aside>
-            <p><time datetime="2016-04-22">
-                Posted on 2016-04-22
+            <p><time datetime="2013-05-20">
+                Posted on 2013-05-20
             </time>
-            <a data-disqus-identifier="/2016/04/22/logging-and-analytics-using-perl-and-fluentd/index.markdown" href="/blog/2016/04/22/logging-and-analytics-using-perl-and-fluentd/#disqus_thread">0 comments</a>
+            <a data-disqus-identifier="/2013/05/20/building-command-line-applications-doug-bell-may-23.markdown" href="/blog/2013/05/20/building-command-line-applications-doug-bell-may-23.html#disqus_thread">0 comments</a>
             </p>
         </aside>
 
     </header>
 
-    <p>This month, <a href="http://www.cromedome.net">Jason Crome</a> is giving a talk on
-using <a href="http://www.fluentd.org">Fluentd</a> for logging, and Perl for
-analytics:</p>
+    <p>This will be an intermediate-level presentation on how to build command-line applications in Perl. It starts out with some simple command-line scripts, and moves on to building testable, reusable command-line applications using modules and CPAN frameworks. Knowledge of Perl and using the command-line is recommended. Previous knowledge of writing command-line applications is not required.</p>
 
-<blockquote>
-  <p>Logging is one of the most important pieces you’ll have in any
-  large-scale software system, and in a massively multiplayer game it’s
-  even more critical. Using Ovid’s Veure MMO as an example, I’ll discuss
-  what we are logging and why, how we use fluentd to collect information
-  at all levels in the game’s stack, and the tools and processes we use
-  to analyze that data.</p>
-</blockquote>
+<p>Pizza and beverages will be provided (if you have requests for specific flavors of pizza or beverage, let me know). Please <a href="http://www.meetup.com/Windy-City-Perl-mongers-Meetup/events/119961772/">RSVP on the meetup page</a> before 4:00pm on Thursday to make your entrance as smooth as possible.</p>
 
-<p><a href="http://www.meetup.com/ChicagoPM/events/230564694/">RSVP on the Chicago.PM Meetup</a></p>
+<p>This will be the first in a set of free, open-source intermediate-level presentations released by the Chicago.PM organization on Github. The presentation itself will be released with a Creative Commons Attribution-ShareAlike license, and the code inside the presentation will be licensed under the same terms as Perl itself (Artistic License 1 or GPL version 1 at your discretion). Our goal is to build a repository of living presentations that pick up after the beginner&#39;s workshops and explore single topics with some depth. Emphasis will be placed on best practices with pragmatism: Here&#39;s multiple ways to do it, here&#39;s why you might choose one way over another, here&#39;s some things you might see out in the wild and how to improve on them. Our github organization is located at <a href="http://github.com/ChicagoPM">http://github.com/ChicagoPM</a></p>
 
-<p><em>EDIT</em>: <a href="http://www.slideshare.net/cromedome/logging-with-perl-and-fluentd">Slides for Logging and Analytics Using Perl and Fluentd have
-been posted to cromedome&#39;s
-Slideshare</a></p>
+<p>More information is available on <a href="http://www.meetup.com/Windy-City-Perl-mongers-Meetup/events/119961772/">the meetup page</a>.</p>
 
-
-
-</article>
-<article>
-    <header>
-        <h1><a href="/blog/2016/03/18/travis-ci-for-perl-and-introduction-to-rex/">Travis-CI for Perl and Introduction to Rex</a></h1>
-
-        <p class="tags">Tags:
-            <a href="/blog/tag/meeting/" rel="tag">meeting</a>
-            <a href="/blog/tag/testing/" rel="tag">testing</a>
-            <a href="/blog/tag/devops/" rel="tag">devops</a>
-        </p>
-
-        <aside>
-            <p><time datetime="2016-03-18">
-                Posted on 2016-03-18
-            </time>
-            <a data-disqus-identifier="/2016/03/18/travis-ci-for-perl-and-introduction-to-rex/index.markdown" href="/blog/2016/03/18/travis-ci-for-perl-and-introduction-to-rex/#disqus_thread">0 comments</a>
-            </p>
-        </aside>
-
-    </header>
-
-    <p>This month, <a href="http://preaction.me">Doug Bell</a> will be giving two short
-talks.</p>
-
-<p>One talk is about using <a href="https://travis-ci.org">Travis-CI, a free continuous integration
-testing service</a>, for Perl projects, and
-maximizing Travis&#39;s effectiveness. This talk introduces <a href="https://github.com/haarg">Graham
-Knop</a>&#39;s <a href="https://github.com/travis-perl/helpers">Perl Travis
-Helpers</a>, gets you started using
-Travis-CI, and shows how to configure Travis to cover edge cases like
-very old Perls and missing optional modules/features (using
-<a href="http://metacpan.org/pod/Devel::Hide">Devel::Hide</a>).</p>
-
-<p>The other talk is an introduction to <a href="http://rexify.org">Rex, a Perl-based server
-configuration management system</a>. This talk was given
-informally at an office hours last year, but now it&#39;s a real talk with
-real slides! This talk introduces Rex, goes through simple configuration
-and tasks, and touches on some of the more powerful features of Rex such
-as the CMDB (Configuration Management Database).</p>
-
-<p><a href="http://www.meetup.com/ChicagoPM/events/229699475/">RSVP on the Meetup</a></p>
-
-<p>EDIT: Slides are now available for both talks on <a href="/talks">the Chicago.PM talks
-page</a>:</p>
-
-<ul>
-<li><a href="http://preaction.github.io/Introduction-to-Rex/">Introduction to Rex</a></li>
-<li><a href="http://preaction.github.io/Getting-The-Most-From-Travis-CI-For-Perl/">Getting the Most from Travis-CI for Perl</a></li>
-</ul>
+<p>Update: <a href="http://chicago.pm.org/Command-Line-Apps">Slides are available on the Talks page</a></p>
 
 
 
@@ -159,7 +97,7 @@ page</a>:</p>
         </a>
     </li>
     <li class="next">
-        <a class="button disabled" href="" rel="prev">
+        <a class="button button-primary" href="/blog/page/7" rel="prev">
             Newer →
         </a>
     </li>
@@ -204,12 +142,12 @@ page</a>:</p>
                             <h1>Feeds</h1>
         <ul class="list-inline">
             <li>
-                <a href="/blog/tag/devops.atom" rel="alternate" type="application/atom+xml">
+                <a href="/blog/index.atom" rel="alternate" type="application/atom+xml">
                     Atom
                 </a>
             </li>
             <li>
-                <a href="/blog/tag/devops.rss" rel="alternate" type="application/rss+xml">
+                <a href="/blog/index.rss" rel="alternate" type="application/rss+xml">
                     RSS
                 </a>
             </li>
