@@ -15,10 +15,8 @@ This information should be used when linking names in blog posts.
     * Blog: <http://blogs.perl.org/users/joel_berger/>
     * Twitter: joelaberger
     * CPAN: JBERGER
-    * Github: joelaberger
-    * [Joel Berger](http://blogs.perl.org/users/joel_berger/) ([<i
-class="fa fa-twitter"></i>](http://twitter.com/joelaberger)[<i class="fa
-fa-github"></i>](http://github.com/joelaberger))
+    * Github: jberger
+    * <%= include '../speakers/jberger.markdown' =%>
 
 * Jason Crome
     * Homepage: <https://crome-plated.com/about>

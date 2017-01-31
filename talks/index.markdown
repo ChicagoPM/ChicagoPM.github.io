@@ -6,6 +6,7 @@ title: "Talks - Chicago.PM"
 
 Here are the slides to some of the talks that have been given at Chicago.PM.
 
+* 2017-01-26: [Variables, Scoping, and Namespaces](https://jberger.github.io/PresentationNamespaces/) -- <%= include '../speakers/jberger.markdown' =%>
 * 2016-11-10: [ES6 for the Occasional JavaScript developer](https://preaction.github.io/ES6-For-JS-Irregulars/)
 * 2016-08-25: [Perl Development
   Environment Tooling](http://www.slideshare.net/cromedome/perl-development-environment-tooling)
