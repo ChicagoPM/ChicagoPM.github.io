@@ -5,7 +5,7 @@
     <updated>2017-01-17T00:00:00Z</updated>
     <link href="http://chicago.pm.org/blog/tag/syntax.atom" rel="self" />
     <link href="http://chicago.pm.org/blog/tag/syntax/" rel="alternate" />
-    <generator version="0.081">Statocles</generator>
+    <generator version="0.083">Statocles</generator>
 
     <entry>
         <id>http://chicago.pm.org/blog/2017/01/17/variables-scoping-and-namespaces/</id>

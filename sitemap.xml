@@ -4,13 +4,13 @@
         <loc>http://chicago.pm.org/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2017-01-17</lastmod>
+        <lastmod>2017-02-14</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/about/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2017-01-31</lastmod>
+        <lastmod>2017-02-14</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/2013/05/20/building-command-line-applications-doug-bell-may-23.html</loc>
@@ -229,46 +229,52 @@
         <lastmod>2017-01-17</lastmod>
     </url>
     <url>
+        <loc>http://chicago.pm.org/blog/2017/02/14/perl-6-grammars-and-logging-in-perl-5/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2017-02-14</lastmod>
+    </url>
+    <url>
         <loc>http://chicago.pm.org/blog/page/2/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2017-01-17</lastmod>
+        <lastmod>2017-02-14</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/page/3/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2017-01-17</lastmod>
+        <lastmod>2017-02-14</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/page/4/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2017-01-17</lastmod>
+        <lastmod>2017-02-14</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/page/5/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2017-01-17</lastmod>
+        <lastmod>2017-02-14</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/page/6/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2017-01-17</lastmod>
+        <lastmod>2017-02-14</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/page/7/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2017-01-17</lastmod>
+        <lastmod>2017-02-14</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/page/8/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2017-01-17</lastmod>
+        <lastmod>2017-02-14</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/tag/blog/</loc>
@@ -301,46 +307,58 @@
         <lastmod>2016-04-22</lastmod>
     </url>
     <url>
+        <loc>http://chicago.pm.org/blog/tag/logging/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.3</priority>
+        <lastmod>2017-02-14</lastmod>
+    </url>
+    <url>
         <loc>http://chicago.pm.org/blog/tag/meeting/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2017-01-17</lastmod>
+        <lastmod>2017-02-14</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/tag/meeting/page/2/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2017-01-17</lastmod>
+        <lastmod>2017-02-14</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/tag/meeting/page/3/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2017-01-17</lastmod>
+        <lastmod>2017-02-14</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/tag/meeting/page/4/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2017-01-17</lastmod>
+        <lastmod>2017-02-14</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/tag/meeting/page/5/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2017-01-17</lastmod>
+        <lastmod>2017-02-14</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/tag/meeting/page/6/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2017-01-17</lastmod>
+        <lastmod>2017-02-14</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/tag/perl-6/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
         <lastmod>2015-05-07</lastmod>
+    </url>
+    <url>
+        <loc>http://chicago.pm.org/blog/tag/perl6/</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.3</priority>
+        <lastmod>2017-02-14</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/tag/podcast/</loc>
@@ -376,67 +394,79 @@
         <loc>http://chicago.pm.org/howto/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2017-01-31</lastmod>
+        <lastmod>2017-02-14</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/jobs/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2017-01-31</lastmod>
+        <lastmod>2017-02-14</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/notes/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2017-01-31</lastmod>
+        <lastmod>2017-02-14</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/notes/2014-03-27/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2017-01-31</lastmod>
+        <lastmod>2017-02-14</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/notes/2014-04-09/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2017-01-31</lastmod>
+        <lastmod>2017-02-14</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/notes/2014-05-22/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2017-01-31</lastmod>
+        <lastmod>2017-02-14</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/notes/2014-07-09/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2017-01-31</lastmod>
+        <lastmod>2017-02-14</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/notes/2015-07-09/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2017-01-31</lastmod>
+        <lastmod>2017-02-14</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/speakers.html</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2017-01-31</lastmod>
+        <lastmod>2017-02-14</lastmod>
+    </url>
+    <url>
+        <loc>http://chicago.pm.org/speakers/bdfoy.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2017-02-14</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/speakers/jberger.html</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2017-01-31</lastmod>
+        <lastmod>2017-02-14</lastmod>
+    </url>
+    <url>
+        <loc>http://chicago.pm.org/speakers/preaction.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2017-02-14</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/talks/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2017-01-31</lastmod>
+        <lastmod>2017-02-14</lastmod>
     </url>
 </urlset>
 

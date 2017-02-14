@@ -5,7 +5,7 @@
         <link>http://chicago.pm.org/blog/tag/syntax/</link>
         <atom:link href="http://chicago.pm.org/blog/tag/syntax.rss" rel="self" type="application/rss+xml" />
         <description>Blog feed of Chicago.PM</description>
-        <generator>Statocles 0.081</generator>
+        <generator>Statocles 0.083</generator>
         <item>
             <title>Variables, Scoping, and Namespaces</title>
             <link>http://chicago.pm.org/blog/2017/01/17/variables-scoping-and-namespaces/</link>

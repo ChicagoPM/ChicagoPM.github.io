@@ -5,7 +5,7 @@
     <updated>2016-04-30T00:00:00Z</updated>
     <link href="http://chicago.pm.org/blog/tag/testing.atom" rel="self" />
     <link href="http://chicago.pm.org/blog/tag/testing/" rel="alternate" />
-    <generator version="0.081">Statocles</generator>
+    <generator version="0.083">Statocles</generator>
 
     <entry>
         <id>http://chicago.pm.org/blog/2016/04/30/blog-cpantesters-at-the-perl-qa-hackathon/</id>
