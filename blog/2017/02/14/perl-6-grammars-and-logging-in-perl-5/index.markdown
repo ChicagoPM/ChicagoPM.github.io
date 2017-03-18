@@ -2,7 +2,7 @@
 status: published
 tags:
   - meeting
-  - perl6
+  - perl 6
   - logging
 title: Perl 6 Grammars and Logging in Perl 5
 ---
