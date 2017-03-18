@@ -8,9 +8,9 @@
     <generator version="0.083">Statocles</generator>
 
     <entry>
-        <id>http://chicago.pm.org/blog/2017/03/17/testing-modern-web-apps-having-databases/</id>
-        <title>Testing Modern Web Apps Having Databases</title>
-        <link href="http://chicago.pm.org/blog/2017/03/17/testing-modern-web-apps-having-databases/" rel="alternate" />
+        <id>http://chicago.pm.org/blog/2017/03/17/test-environments-for-modern-web-apps/</id>
+        <title>Test Environments for Modern Web Apps</title>
+        <link href="http://chicago.pm.org/blog/2017/03/17/test-environments-for-modern-web-apps/" rel="alternate" />
         <content type="html"><![CDATA[
             <p>This month, <a href="http://wlindley.com">William Lindley</a> (<a href="http://github.com/lindleyw"><i class="fa fa-github"></i></a> <a href="http://blog.wlindley.com">blog</a>)
  will
@@ -44,7 +44,7 @@ show a simple app to mock JSON REST APIs for testing using Mojolicious.</p>
 <p><a href="https://www.meetup.com/ChicagoPM/events/238505149/">RSVP for the meeting on the Chicago.PM
 Meetup</a></p>
 
-                <p><a href="http://chicago.pm.org/blog/2017/03/17/testing-modern-web-apps-having-databases/#section-2">Continue reading...</a></p>
+                <p><a href="http://chicago.pm.org/blog/2017/03/17/test-environments-for-modern-web-apps/#section-2">Continue reading...</a></p>
             <p>Tags:
                 <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
                 <a href="http://chicago.pm.org/blog/tag/web/">web</a>
