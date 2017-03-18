@@ -7,6 +7,54 @@
         <description>Blog feed of Chicago.PM</description>
         <generator>Statocles 0.083</generator>
         <item>
+            <title>Testing Modern Web Apps Having Databases</title>
+            <link>http://chicago.pm.org/blog/2017/03/17/testing-modern-web-apps-having-databases/</link>
+            <guid>http://chicago.pm.org/blog/2017/03/17/testing-modern-web-apps-having-databases/</guid>
+            <description><![CDATA[
+                <p>This month, <a href="http://wlindley.com">William Lindley</a> (<a href="http://github.com/lindleyw"><i class="fa fa-github"></i></a> <a href="http://blog.wlindley.com">blog</a>)
+ will
+<a href="https://www.meetup.com/ChicagoPM/events/238505149/">talk about writing a test harness for modern Perl programs</a>
+using <a href="http://metacpan.org/pod/Test::More">Test::More</a>,
+<a href="http://mojolicious.org/perldoc/Test/Mojo">Test::Mojo</a> for the API, and
+<a href="https://metacpan.org/pod/DBIx::TempDB">DBIx::TempDB</a> for the
+database.</p>
+
+<p>Building, testing, and deploying actual systems is more complex than
+merely writing a program. Real testing often needs to be done against
+databases of known large or problematic datasets. A test environment
+cannot affect production data. Staging even minor changes, so we can
+preview and find errors before moving to production servers, can prevent
+expensive errors. The &quot;best practices&quot; in this field are relatively new
+and still changing, and we look at the first steps from &quot;I built this
+mockup last night&quot; by building the test suite for a simple
+database-driven file-upload service with
+<a href="http://mojolicious.org">Mojolicious</a>.</p>
+
+<p>William Lindley has been hacking computers (in the good sense) since
+1977, a database advocate since dBase II and PostgreSQL-predecessor
+Ingres in the 1980s, a Perl monger since 1994, and a free-software
+promoter since first getting Linux to run XWindows in 1995.</p>
+
+<p>If time permits, <a href="http://preaction.me">Doug Bell (preaction)</a> (<a href="http://twitter.com/preaction"><i class="fa fa-twitter"></i></a><a href="https://github.com/preaction"><i class="fa
+fa-github"></i></a>)
+ will
+show a simple app to mock JSON REST APIs for testing using Mojolicious.</p>
+
+<p><a href="https://www.meetup.com/ChicagoPM/events/238505149/">RSVP for the meeting on the Chicago.PM
+Meetup</a></p>
+
+                    <p><a href="http://chicago.pm.org/blog/2017/03/17/testing-modern-web-apps-having-databases/#section-2">Continue reading...</a></p>
+                <p>Tags:
+                    <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
+                    <a href="http://chicago.pm.org/blog/tag/web/">web</a>
+                    <a href="http://chicago.pm.org/blog/tag/testing/">testing</a>
+                </p>
+            ]]></description>
+            <pubDate>
+                Fri, 17 Mar 2017 00:00:00 +0000
+            </pubDate>
+        </item>
+        <item>
             <title>Perl 6 Grammars and Logging in Perl 5</title>
             <link>http://chicago.pm.org/blog/2017/02/14/perl-6-grammars-and-logging-in-perl-5/</link>
             <guid>http://chicago.pm.org/blog/2017/02/14/perl-6-grammars-and-logging-in-perl-5/</guid>
@@ -48,7 +96,7 @@ ideas</a>.</p>
                     <p><a href="http://chicago.pm.org/blog/2017/02/14/perl-6-grammars-and-logging-in-perl-5/#section-2">Continue reading...</a></p>
                 <p>Tags:
                     <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
-                    <a href="http://chicago.pm.org/blog/tag/perl6/">perl6</a>
+                    <a href="http://chicago.pm.org/blog/tag/perl-6/">perl 6</a>
                     <a href="http://chicago.pm.org/blog/tag/logging/">logging</a>
                 </p>
             ]]></description>
@@ -141,49 +189,6 @@ concentrate on making MetaCPAN better.</p>
             ]]></description>
             <pubDate>
                 Sat, 17 Sep 2016 00:00:00 +0000
-            </pubDate>
-        </item>
-        <item>
-            <title>Accepting Payments on the Web</title>
-            <link>http://chicago.pm.org/blog/2016/09/14/accepting-payments-on-the-web/</link>
-            <guid>http://chicago.pm.org/blog/2016/09/14/accepting-payments-on-the-web/</guid>
-            <description><![CDATA[
-                <p>This month, <a href="http://www.noelrappin.com">Noel Rappin</a> will be talking
-about accepting payments on the web:</p>
-
-<blockquote>
-  <p>Your customers have money, and you’d like them to give it to you.
-  Payment gateways, such as <a href="https://stripe.com">Stripe</a>,
-  <a href="https://www.braintreepayments.com">Braintree</a>, and
-  <a href="https://paypal.com">Paypal</a>, make it easy to start charging credit
-  cards and get the money flowing. But charging cards is only the
-  beginning. You need to worry that your app responds gracefully to
-  service failures, since charging a customer for a failed transaction
-  is bad. You need to guard against fraud and security breaches. You
-  need administrative tools that are flexible but secure.  You want to
-  test against external services. And you’ll run up against the law.
-  Learn from some of my mistakes and build a robust financial
-  application.</p>
-</blockquote>
-
-<p><a href="http://www.noelrappin.com">Noel Rappin</a> is the Director of Development
-at [Table XI]. Noel has authored multiple technical books, including
-<a href="http://pragprog.com/book/nrtest2/rails-4-test-prescriptions">&quot;Rails 4 Test
-Prescriptions&quot;</a>,
-<a href="https://noelrappin.dpdcart.com/cart/add?product_id=65638&amp;method_id=67542">&quot;Trust-Driven
-Development&quot;</a>,
-and the forthcoming &quot;Take My Money: Accepting Payments on the Web&quot;.
-<a href="http://twitter.com/noelrap">Follow Noel on Twitter @noelrap</a>, and
-online at <a href="http://www.noelrappin.com">http://www.noelrappin.com</a>.</p>
-
-                    <p><a href="http://chicago.pm.org/blog/2016/09/14/accepting-payments-on-the-web/#section-2">Continue reading...</a></p>
-                <p>Tags:
-                    <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
-                    <a href="http://chicago.pm.org/blog/tag/web/">web</a>
-                </p>
-            ]]></description>
-            <pubDate>
-                Wed, 14 Sep 2016 00:00:00 +0000
             </pubDate>
         </item>
     </channel>

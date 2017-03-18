@@ -7,6 +7,54 @@
         <description>Blog feed of Chicago.PM</description>
         <generator>Statocles 0.083</generator>
         <item>
+            <title>Testing Modern Web Apps Having Databases</title>
+            <link>http://chicago.pm.org/blog/2017/03/17/testing-modern-web-apps-having-databases/</link>
+            <guid>http://chicago.pm.org/blog/2017/03/17/testing-modern-web-apps-having-databases/</guid>
+            <description><![CDATA[
+                <p>This month, <a href="http://wlindley.com">William Lindley</a> (<a href="http://github.com/lindleyw"><i class="fa fa-github"></i></a> <a href="http://blog.wlindley.com">blog</a>)
+ will
+<a href="https://www.meetup.com/ChicagoPM/events/238505149/">talk about writing a test harness for modern Perl programs</a>
+using <a href="http://metacpan.org/pod/Test::More">Test::More</a>,
+<a href="http://mojolicious.org/perldoc/Test/Mojo">Test::Mojo</a> for the API, and
+<a href="https://metacpan.org/pod/DBIx::TempDB">DBIx::TempDB</a> for the
+database.</p>
+
+<p>Building, testing, and deploying actual systems is more complex than
+merely writing a program. Real testing often needs to be done against
+databases of known large or problematic datasets. A test environment
+cannot affect production data. Staging even minor changes, so we can
+preview and find errors before moving to production servers, can prevent
+expensive errors. The &quot;best practices&quot; in this field are relatively new
+and still changing, and we look at the first steps from &quot;I built this
+mockup last night&quot; by building the test suite for a simple
+database-driven file-upload service with
+<a href="http://mojolicious.org">Mojolicious</a>.</p>
+
+<p>William Lindley has been hacking computers (in the good sense) since
+1977, a database advocate since dBase II and PostgreSQL-predecessor
+Ingres in the 1980s, a Perl monger since 1994, and a free-software
+promoter since first getting Linux to run XWindows in 1995.</p>
+
+<p>If time permits, <a href="http://preaction.me">Doug Bell (preaction)</a> (<a href="http://twitter.com/preaction"><i class="fa fa-twitter"></i></a><a href="https://github.com/preaction"><i class="fa
+fa-github"></i></a>)
+ will
+show a simple app to mock JSON REST APIs for testing using Mojolicious.</p>
+
+<p><a href="https://www.meetup.com/ChicagoPM/events/238505149/">RSVP for the meeting on the Chicago.PM
+Meetup</a></p>
+
+                    <p><a href="http://chicago.pm.org/blog/2017/03/17/testing-modern-web-apps-having-databases/#section-2">Continue reading...</a></p>
+                <p>Tags:
+                    <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
+                    <a href="http://chicago.pm.org/blog/tag/web/">web</a>
+                    <a href="http://chicago.pm.org/blog/tag/testing/">testing</a>
+                </p>
+            ]]></description>
+            <pubDate>
+                Fri, 17 Mar 2017 00:00:00 +0000
+            </pubDate>
+        </item>
+        <item>
             <title>Accepting Payments on the Web</title>
             <link>http://chicago.pm.org/blog/2016/09/14/accepting-payments-on-the-web/</link>
             <guid>http://chicago.pm.org/blog/2016/09/14/accepting-payments-on-the-web/</guid>
@@ -114,31 +162,6 @@ blogs.perl.org</a></p>
             ]]></description>
             <pubDate>
                 Wed, 24 Aug 2016 00:00:00 +0000
-            </pubDate>
-        </item>
-        <item>
-            <title>Super Easy SSL Certs for Mojolicious Apps</title>
-            <link>http://chicago.pm.org/blog/2016/03/20/super-easy-ssl-certs-for-mojolicious-apps/</link>
-            <guid>http://chicago.pm.org/blog/2016/03/20/super-easy-ssl-certs-for-mojolicious-apps/</guid>
-            <description><![CDATA[
-                <p><a href="http://jberger.github.io">Joel Berger</a> wrote a blog post about <a href="http://blogs.perl.org/users/joel_berger/2016/03/super-easy-ssl-certs-for-mojolicious-apps.html">using LetsEncrypt in your
-Mojolicious
-application</a>.
-<a href="https://letsencrypt.org">LetsEncrypt is a free, automated SSL certificate authority</a>, and
-allows you to get SSL encryption on your website without the hassle and
-expense of dealing with the current style of CA.</p>
-
-<p><a href="http://blogs.perl.org/users/joel_berger/2016/03/super-easy-ssl-certs-for-mojolicious-apps.html">Read Super Easy SSL Certs for Mojolicious Apps on
-blogs.perl.org</a></p>
-
-                    <p><a href="http://chicago.pm.org/blog/2016/03/20/super-easy-ssl-certs-for-mojolicious-apps/#section-2">Continue reading...</a></p>
-                <p>Tags:
-                    <a href="http://chicago.pm.org/blog/tag/blog/">blog</a>
-                    <a href="http://chicago.pm.org/blog/tag/web/">web</a>
-                </p>
-            ]]></description>
-            <pubDate>
-                Sun, 20 Mar 2016 00:00:00 +0000
             </pubDate>
         </item>
     </channel>

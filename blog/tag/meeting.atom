@@ -2,11 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://chicago.pm.org/blog/tag/meeting/</id>
     <title>Chicago.PM</title>
-    <updated>2017-02-14T00:00:00Z</updated>
+    <updated>2017-03-17T00:00:00Z</updated>
     <link href="http://chicago.pm.org/blog/tag/meeting.atom" rel="self" />
     <link href="http://chicago.pm.org/blog/tag/meeting/" rel="alternate" />
     <generator version="0.083">Statocles</generator>
 
+    <entry>
+        <id>http://chicago.pm.org/blog/2017/03/17/testing-modern-web-apps-having-databases/</id>
+        <title>Testing Modern Web Apps Having Databases</title>
+        <link href="http://chicago.pm.org/blog/2017/03/17/testing-modern-web-apps-having-databases/" rel="alternate" />
+        <content type="html"><![CDATA[
+            <p>This month, <a href="http://wlindley.com">William Lindley</a> (<a href="http://github.com/lindleyw"><i class="fa fa-github"></i></a> <a href="http://blog.wlindley.com">blog</a>)
+ will
+<a href="https://www.meetup.com/ChicagoPM/events/238505149/">talk about writing a test harness for modern Perl programs</a>
+using <a href="http://metacpan.org/pod/Test::More">Test::More</a>,
+<a href="http://mojolicious.org/perldoc/Test/Mojo">Test::Mojo</a> for the API, and
+<a href="https://metacpan.org/pod/DBIx::TempDB">DBIx::TempDB</a> for the
+database.</p>
+
+<p>Building, testing, and deploying actual systems is more complex than
+merely writing a program. Real testing often needs to be done against
+databases of known large or problematic datasets. A test environment
+cannot affect production data. Staging even minor changes, so we can
+preview and find errors before moving to production servers, can prevent
+expensive errors. The &quot;best practices&quot; in this field are relatively new
+and still changing, and we look at the first steps from &quot;I built this
+mockup last night&quot; by building the test suite for a simple
+database-driven file-upload service with
+<a href="http://mojolicious.org">Mojolicious</a>.</p>
+
+<p>William Lindley has been hacking computers (in the good sense) since
+1977, a database advocate since dBase II and PostgreSQL-predecessor
+Ingres in the 1980s, a Perl monger since 1994, and a free-software
+promoter since first getting Linux to run XWindows in 1995.</p>
+
+<p>If time permits, <a href="http://preaction.me">Doug Bell (preaction)</a> (<a href="http://twitter.com/preaction"><i class="fa fa-twitter"></i></a><a href="https://github.com/preaction"><i class="fa
+fa-github"></i></a>)
+ will
+show a simple app to mock JSON REST APIs for testing using Mojolicious.</p>
+
+<p><a href="https://www.meetup.com/ChicagoPM/events/238505149/">RSVP for the meeting on the Chicago.PM
+Meetup</a></p>
+
+                <p><a href="http://chicago.pm.org/blog/2017/03/17/testing-modern-web-apps-having-databases/#section-2">Continue reading...</a></p>
+            <p>Tags:
+                <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
+                <a href="http://chicago.pm.org/blog/tag/web/">web</a>
+                <a href="http://chicago.pm.org/blog/tag/testing/">testing</a>
+            </p>
+        ]]></content>
+        <updated>2017-03-17T00:00:00Z</updated>
+        <category term="meeting" />
+        <category term="web" />
+        <category term="testing" />
+    </entry>
     <entry>
         <id>http://chicago.pm.org/blog/2017/02/14/perl-6-grammars-and-logging-in-perl-5/</id>
         <title>Perl 6 Grammars and Logging in Perl 5</title>
@@ -49,13 +98,13 @@ ideas</a>.</p>
                 <p><a href="http://chicago.pm.org/blog/2017/02/14/perl-6-grammars-and-logging-in-perl-5/#section-2">Continue reading...</a></p>
             <p>Tags:
                 <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
-                <a href="http://chicago.pm.org/blog/tag/perl6/">perl6</a>
+                <a href="http://chicago.pm.org/blog/tag/perl-6/">perl 6</a>
                 <a href="http://chicago.pm.org/blog/tag/logging/">logging</a>
             </p>
         ]]></content>
         <updated>2017-02-14T00:00:00Z</updated>
         <category term="meeting" />
-        <category term="perl6" />
+        <category term="perl 6" />
         <category term="logging" />
     </entry>
     <entry>
@@ -160,40 +209,6 @@ Slideshare</a></p>
         <updated>2016-08-18T00:00:00Z</updated>
         <category term="meeting" />
         <category term="development" />
-    </entry>
-    <entry>
-        <id>http://chicago.pm.org/blog/2016/04/22/logging-and-analytics-using-perl-and-fluentd/</id>
-        <title>Logging and Analytics Using Perl and Fluentd</title>
-        <link href="http://chicago.pm.org/blog/2016/04/22/logging-and-analytics-using-perl-and-fluentd/" rel="alternate" />
-        <content type="html"><![CDATA[
-            <p>This month, <a href="http://www.cromedome.net">Jason Crome</a> is giving a talk on
-using <a href="http://www.fluentd.org">Fluentd</a> for logging, and Perl for
-analytics:</p>
-
-<blockquote>
-  <p>Logging is one of the most important pieces you’ll have in any
-  large-scale software system, and in a massively multiplayer game it’s
-  even more critical. Using Ovid’s Veure MMO as an example, I’ll discuss
-  what we are logging and why, how we use fluentd to collect information
-  at all levels in the game’s stack, and the tools and processes we use
-  to analyze that data.</p>
-</blockquote>
-
-<p><a href="http://www.meetup.com/ChicagoPM/events/230564694/">RSVP on the Chicago.PM Meetup</a></p>
-
-<p><em>EDIT</em>: <a href="http://www.slideshare.net/cromedome/logging-with-perl-and-fluentd">Slides for Logging and Analytics Using Perl and Fluentd have
-been posted to cromedome&#39;s
-Slideshare</a></p>
-
-                <p><a href="http://chicago.pm.org/blog/2016/04/22/logging-and-analytics-using-perl-and-fluentd/#section-2">Continue reading...</a></p>
-            <p>Tags:
-                <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
-                <a href="http://chicago.pm.org/blog/tag/devops/">devops</a>
-            </p>
-        ]]></content>
-        <updated>2016-04-22T00:00:00Z</updated>
-        <category term="meeting" />
-        <category term="devops" />
     </entry>
 </feed>
 

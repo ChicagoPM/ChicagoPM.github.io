@@ -6,7 +6,7 @@
         <link href="/theme/css/skeleton.css" rel="stylesheet">
         <link href="/theme/css/statocles-default.css" rel="stylesheet">
         <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
-        <title>perldelta - What's New in Perl Since 5.8 - April 24, 2014 - Chicago.PM</title>
+        <title>Testing Modern Web Apps Having Databases - Chicago.PM</title>
         <meta content="Statocles 0.083" name="generator">
         <link href="/theme/css/chicagopm.css" rel="stylesheet">
 
@@ -55,14 +55,16 @@
                 <div class="nine columns">
                     <main>
                         <header>
-    <h1>perldelta - What&#39;s New in Perl Since 5.8 - April 24, 2014</h1>
+    <h1>Testing Modern Web Apps Having Databases</h1>
     <p class="tags">Tags:
         <a href="/blog/tag/meeting/" rel="tag">meeting</a>
+        <a href="/blog/tag/web/" rel="tag">web</a>
+        <a href="/blog/tag/testing/" rel="tag">testing</a>
     </p>
 
     <aside>
-        <p><time datetime="2014-04-19">
-            Posted on 2014-04-19
+        <p><time datetime="2017-03-17">
+            Posted on 2017-03-17
         </time>
         </p>
     </aside>
@@ -70,58 +72,37 @@
 
 </header>
 <section id="section-1">
-    <p>This month, <a href="http://blogs.perl.org/users/preaction">Doug Bell</a> will be giving a presentation on
-the most important features and modules added to the Perl core since the 5.8 series.</p>
+    <p>This month, <a href="http://wlindley.com">William Lindley</a> (<a href="http://github.com/lindleyw"><i class="fa fa-github"></i></a> <a href="http://blog.wlindley.com">blog</a>)
+ will
+<a href="https://www.meetup.com/ChicagoPM/events/238505149/">talk about writing a test harness for modern Perl programs</a>
+using <a href="http://metacpan.org/pod/Test::More">Test::More</a>,
+<a href="http://mojolicious.org/perldoc/Test/Mojo">Test::Mojo</a> for the API, and
+<a href="https://metacpan.org/pod/DBIx::TempDB">DBIx::TempDB</a> for the
+database.</p>
 
-<p>RSVP on the <a href="http://www.meetup.com/ChicagoPM/events/176551582/">Chicago.PM Meetup page</a> to attend.</p>
+<p>Building, testing, and deploying actual systems is more complex than
+merely writing a program. Real testing often needs to be done against
+databases of known large or problematic datasets. A test environment
+cannot affect production data. Staging even minor changes, so we can
+preview and find errors before moving to production servers, can prevent
+expensive errors. The &quot;best practices&quot; in this field are relatively new
+and still changing, and we look at the first steps from &quot;I built this
+mockup last night&quot; by building the test suite for a simple
+database-driven file-upload service with
+<a href="http://mojolicious.org">Mojolicious</a>.</p>
 
-<p>If you upgrade to 5.10 you get:</p>
+<p>William Lindley has been hacking computers (in the good sense) since
+1977, a database advocate since dBase II and PostgreSQL-predecessor
+Ingres in the 1980s, a Perl monger since 1994, and a free-software
+promoter since first getting Linux to run XWindows in 1995.</p>
 
-<ul>
-<li>say</li>
-<li>state</li>
-<li>defined-or (//)</li>
-<li>Switch (given/when)</li>
-<li>Module::CoreList - List the modules your Perl has in core</li>
-</ul>
+<p>If time permits, <a href="http://preaction.me">Doug Bell (preaction)</a> (<a href="http://twitter.com/preaction"><i class="fa fa-twitter"></i></a><a href="https://github.com/preaction"><i class="fa
+fa-github"></i></a>)
+ will
+show a simple app to mock JSON REST APIs for testing using Mojolicious.</p>
 
-<p>If you upgrade to 5.12 you get:</p>
-
-<ul>
-<li>The yada-yada operator (...)</li>
-<li>each(), keys(), and values() on arrays</li>
-<li>autodie</li>
-</ul>
-
-<p>If you upgrade to 5.14 you get:</p>
-
-<ul>
-<li>Non-destructive substitution (s///r)</li>
-<li>More reliable exception throwing</li>
-<li>HTTP::Tiny</li>
-<li>JSON::PP</li>
-</ul>
-
-<p>If you upgrade to 5.16 you get:</p>
-
-<ul>
-<li>Reference to the current running sub (__SUB__)</li>
-</ul>
-
-<p>If you upgrade to 5.18 you get:</p>
-
-<ul>
-<li>Lexical subroutines (my sub, our sub, state sub)</li>
-</ul>
-
-<p>Awaiting us in 5.20:</p>
-
-<ul>
-<li>Hash-based slices (%hash{...} and %array[...])</li>
-<li>EXP: Postfix dereference operators ($ref-&gt;%*)</li>
-<li>EXP: Subroutine signatures (sub mysub( $foo, $bar, @baz ) { ... })</li>
-<li>IO::Socket::IP</li>
-</ul>
+<p><a href="https://www.meetup.com/ChicagoPM/events/238505149/">RSVP for the meeting on the Chicago.PM
+Meetup</a></p>
 
 </section>
 
@@ -129,8 +110,8 @@ the most important features and modules added to the Perl core since the 5.8 ser
 <div id="disqus_thread"></div>
 <script type="text/javascript">
     var disqus_shortname = 'chicagopm';
-    var disqus_identifier = '/2014/04/19/meeting-perldelta-what-slash-s-new-in-perl-since-5-dot-8.markdown';
-    var disqus_url = 'http://chicago.pm.org/blog/2014/04/19/meeting-perldelta-what-slash-s-new-in-perl-since-5-dot-8.html';
+    var disqus_identifier = '/2017/03/17/testing-modern-web-apps-having-databases/index.markdown';
+    var disqus_url = 'http://chicago.pm.org/blog/2017/03/17/testing-modern-web-apps-having-databases/';
     (function() {
         var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
         dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
