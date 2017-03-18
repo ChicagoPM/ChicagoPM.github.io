@@ -4,7 +4,7 @@ tags:
   - meeting
   - web
   - testing
-title: Testing Modern Web Apps Having Databases
+title: Test Environments for Modern Web Apps
 ---
 
 This month, <%= include '../../../../../speakers/wlindley.markdown' %> will
