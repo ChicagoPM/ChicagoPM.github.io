@@ -7,6 +7,52 @@
         <description>Blog feed of Chicago.PM</description>
         <generator>Statocles 0.083</generator>
         <item>
+            <title>MySQL Database Performance For Developers</title>
+            <link>http://chicago.pm.org/blog/2017/05/05/mysql-database-performance-for-developers/</link>
+            <guid>http://chicago.pm.org/blog/2017/05/05/mysql-database-performance-for-developers/</guid>
+            <description><![CDATA[
+                <p>This month&#39;s presentation will be on MySQL Database Performance:</p>
+
+<blockquote>
+  <p>Let&#39;s face it, when it comes to databases, developers and DBAs don&#39;t
+  often see eye-to-eye. This talk will help bridge the gap using a common
+  goal, &quot;Database Performance&quot;.</p>
+  
+  <p>If you&#39;re a developer, you&#39;ve probably used a query that was performing
+  poorly.  Many times the solution is seeking help from a DBA. The DBA
+  performs some magic behind a curtain, and all the sudden the query is
+  running fast. Wouldn&#39;t it be nice to take a peek behind the curtain to
+  see the magic being performed? During this talk, we&#39;ll discuss several
+  aspects of the database that can affect performance. This includes
+  schema design, indexes, and queries. We&#39;ll also look at some real life
+  examples of slow performance and performance solutions.</p>
+</blockquote>
+
+<p>Jeremy Glick is a MySQL Database Engineer at
+<a href="https://www.ziprecruiter.com">ZipRecruiter</a>. Before that, he worked as
+a consultant for various technology companies with systems ranging from
+dozens to hundreds of database servers. Jeremy is also the organizer of
+the <a href="https://www.meetup.com/mysql-5/">Chicago MySQL Meetup</a>. He holds
+multiple MySQL certifications and is a RedHat RHCE.</p>
+
+<p><a href="https://www.meetup.com/ChicagoPM/events/239773480/">RSVP on the Chicago.PM Meetup</a></p>
+
+<p>Due to Joel and Doug being at the <a href="http://act.qa-hackathon.org/qa2017/">Perl Toolchain
+Summit</a>, we have to
+cancel the Office Hours this month. We&#39;ll have Office Hours again next
+month.</p>
+
+                    <p><a href="http://chicago.pm.org/blog/2017/05/05/mysql-database-performance-for-developers/#section-2">Continue reading...</a></p>
+                <p>Tags:
+                    <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
+                    <a href="http://chicago.pm.org/blog/tag/database/">database</a>
+                </p>
+            ]]></description>
+            <pubDate>
+                Fri, 05 May 2017 00:00:00 +0000
+            </pubDate>
+        </item>
+        <item>
             <title>Test Environments for Modern Web Apps</title>
             <link>http://chicago.pm.org/blog/2017/03/17/test-environments-for-modern-web-apps/</link>
             <guid>http://chicago.pm.org/blog/2017/03/17/test-environments-for-modern-web-apps/</guid>
@@ -156,39 +202,6 @@ happen</a>.</p>
             ]]></description>
             <pubDate>
                 Tue, 06 Dec 2016 00:00:00 +0000
-            </pubDate>
-        </item>
-        <item>
-            <title>MetaCPAN Hackathon in Chicago</title>
-            <link>http://chicago.pm.org/blog/2016/09/17/metacpan-hackathon-in-chicago/</link>
-            <guid>http://chicago.pm.org/blog/2016/09/17/metacpan-hackathon-in-chicago/</guid>
-            <description><![CDATA[
-                <p><a href="http://www.olafalders.com/2016/09/17/announcing-metahack/">Olaf Alders has announced meta::hack, a MetaCPAN hackathon in
-Chicago</a>.
-<a href="http://www.metacpan.org">MetaCPAN</a> is the best place to search for CPAN
-modules, and includes lots of useful information like documentation,
-links to the source repository and bug tracker, and a summary of <a href="http://www.cpantesters.org">CPAN
-Testers</a> results.</p>
-
-<p>Much like the <a href="http://act.qa-hackathon.org/qa2016/">Perl QA Hackathon</a>,
-this event will get the core MetaCPAN team together to achieve a few
-targeted goals. The biggest current goal is to get the platform upgraded
-to ElasticSearch version 2, but other, smaller tasks may come up as
-well.</p>
-
-<p>If you can help, <a href="http://www.olafalders.com/2016/09/17/announcing-metahack/">sponsor the meta::hack
-hackathon</a>.
-Sponsorship will help pay for travel expenses for the team so they can
-concentrate on making MetaCPAN better.</p>
-
-                    <p><a href="http://chicago.pm.org/blog/2016/09/17/metacpan-hackathon-in-chicago/#section-2">Continue reading...</a></p>
-                <p>Tags:
-                    <a href="http://chicago.pm.org/blog/tag/blog/">blog</a>
-                    <a href="http://chicago.pm.org/blog/tag/cpan/">cpan</a>
-                </p>
-            ]]></description>
-            <pubDate>
-                Sat, 17 Sep 2016 00:00:00 +0000
             </pubDate>
         </item>
     </channel>
