@@ -7,6 +7,31 @@
         <description>Blog feed of Chicago.PM</description>
         <generator>Statocles 0.083</generator>
         <item>
+            <title>The Perl Conference Post-Meeting</title>
+            <link>http://chicago.pm.org/blog/2017/06/12/the-perl-conference-post-meeting/</link>
+            <guid>http://chicago.pm.org/blog/2017/06/12/the-perl-conference-post-meeting/</guid>
+            <description><![CDATA[
+                <p>This month is <a href="http://www.perlconference.us/tpc-2017-dc/">The Perl Conference</a>
+(formerly YAPC). Because of this, we have to move our meeting to June 29th. At
+the meeting we&#39;ll discuss the talks and announcements from the conference over
+food and drinks! <a href="https://www.meetup.com/ChicagoPM/events/240742773/">RSVP for the meeting on our Meetup
+page</a>.</p>
+
+<p>If you haven&#39;t already, be sure to join the Chicago Perl Mongers on Slack using
+<a href="http://chicagotechslack.com">http://chicagotechslack.com</a>. We&#39;re in the #perl channel, and I&#39;ll be talking
+about the things I see at the conference.</p>
+
+                    <p><a href="http://chicago.pm.org/blog/2017/06/12/the-perl-conference-post-meeting/#section-2">Continue reading...</a></p>
+                <p>Tags:
+                    <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
+                    <a href="http://chicago.pm.org/blog/tag/conference/">conference</a>
+                </p>
+            ]]></description>
+            <pubDate>
+                Mon, 12 Jun 2017 00:00:00 +0000
+            </pubDate>
+        </item>
+        <item>
             <title>MySQL Database Performance For Developers</title>
             <link>http://chicago.pm.org/blog/2017/05/05/mysql-database-performance-for-developers/</link>
             <guid>http://chicago.pm.org/blog/2017/05/05/mysql-database-performance-for-developers/</guid>
@@ -176,32 +201,6 @@ the talks page</a>)</p>
             ]]></description>
             <pubDate>
                 Tue, 17 Jan 2017 00:00:00 +0000
-            </pubDate>
-        </item>
-        <item>
-            <title>What Happened At The MetaCPAN Hackathon</title>
-            <link>http://chicago.pm.org/blog/2016/12/06/what-happened-at-the-metacpan-hackathon/</link>
-            <guid>http://chicago.pm.org/blog/2016/12/06/what-happened-at-the-metacpan-hackathon/</guid>
-            <description><![CDATA[
-                <p>The <a href="https://metacpan.org/about/meta_hack">MetaCPAN hackathon</a> here in
-Chicago has come and gone, and those who participated have written about
-what they accomplished. <a href="https://metacpan.org/about/meta_hack">All the after-hackathon reports are linked on
-the meta::hack page</a>. From our own
-members, <a href="http://blogs.perl.org/users/preaction/2016/11/metahack-log.html">Doug Bell wrote about his meta::hack
-accomplishments</a>
-and <a href="http://blogs.perl.org/users/joel_berger/2016/12/metahack-2016.html">Joel Berger also wrote about his meta::hack
-accomplishments</a>.
-Thanks to <a href="https://metacpan.org/about/meta_hack">the sponsors who made meta::hack
-happen</a>.</p>
-
-                    <p><a href="http://chicago.pm.org/blog/2016/12/06/what-happened-at-the-metacpan-hackathon/#section-2">Continue reading...</a></p>
-                <p>Tags:
-                    <a href="http://chicago.pm.org/blog/tag/cpan/">cpan</a>
-                    <a href="http://chicago.pm.org/blog/tag/blog/">blog</a>
-                </p>
-            ]]></description>
-            <pubDate>
-                Tue, 06 Dec 2016 00:00:00 +0000
             </pubDate>
         </item>
     </channel>

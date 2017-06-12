@@ -7,6 +7,31 @@
         <description>Blog feed of Chicago.PM</description>
         <generator>Statocles 0.083</generator>
         <item>
+            <title>The Perl Conference Post-Meeting</title>
+            <link>http://chicago.pm.org/blog/2017/06/12/the-perl-conference-post-meeting/</link>
+            <guid>http://chicago.pm.org/blog/2017/06/12/the-perl-conference-post-meeting/</guid>
+            <description><![CDATA[
+                <p>This month is <a href="http://www.perlconference.us/tpc-2017-dc/">The Perl Conference</a>
+(formerly YAPC). Because of this, we have to move our meeting to June 29th. At
+the meeting we&#39;ll discuss the talks and announcements from the conference over
+food and drinks! <a href="https://www.meetup.com/ChicagoPM/events/240742773/">RSVP for the meeting on our Meetup
+page</a>.</p>
+
+<p>If you haven&#39;t already, be sure to join the Chicago Perl Mongers on Slack using
+<a href="http://chicagotechslack.com">http://chicagotechslack.com</a>. We&#39;re in the #perl channel, and I&#39;ll be talking
+about the things I see at the conference.</p>
+
+                    <p><a href="http://chicago.pm.org/blog/2017/06/12/the-perl-conference-post-meeting/#section-2">Continue reading...</a></p>
+                <p>Tags:
+                    <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
+                    <a href="http://chicago.pm.org/blog/tag/conference/">conference</a>
+                </p>
+            ]]></description>
+            <pubDate>
+                Mon, 12 Jun 2017 00:00:00 +0000
+            </pubDate>
+        </item>
+        <item>
             <title>MySQL Database Performance For Developers</title>
             <link>http://chicago.pm.org/blog/2017/05/05/mysql-database-performance-for-developers/</link>
             <guid>http://chicago.pm.org/blog/2017/05/05/mysql-database-performance-for-developers/</guid>
@@ -176,49 +201,6 @@ the talks page</a>)</p>
             ]]></description>
             <pubDate>
                 Tue, 17 Jan 2017 00:00:00 +0000
-            </pubDate>
-        </item>
-        <item>
-            <title>Accepting Payments on the Web</title>
-            <link>http://chicago.pm.org/blog/2016/09/14/accepting-payments-on-the-web/</link>
-            <guid>http://chicago.pm.org/blog/2016/09/14/accepting-payments-on-the-web/</guid>
-            <description><![CDATA[
-                <p>This month, <a href="http://www.noelrappin.com">Noel Rappin</a> will be talking
-about accepting payments on the web:</p>
-
-<blockquote>
-  <p>Your customers have money, and you’d like them to give it to you.
-  Payment gateways, such as <a href="https://stripe.com">Stripe</a>,
-  <a href="https://www.braintreepayments.com">Braintree</a>, and
-  <a href="https://paypal.com">Paypal</a>, make it easy to start charging credit
-  cards and get the money flowing. But charging cards is only the
-  beginning. You need to worry that your app responds gracefully to
-  service failures, since charging a customer for a failed transaction
-  is bad. You need to guard against fraud and security breaches. You
-  need administrative tools that are flexible but secure.  You want to
-  test against external services. And you’ll run up against the law.
-  Learn from some of my mistakes and build a robust financial
-  application.</p>
-</blockquote>
-
-<p><a href="http://www.noelrappin.com">Noel Rappin</a> is the Director of Development
-at [Table XI]. Noel has authored multiple technical books, including
-<a href="http://pragprog.com/book/nrtest2/rails-4-test-prescriptions">&quot;Rails 4 Test
-Prescriptions&quot;</a>,
-<a href="https://noelrappin.dpdcart.com/cart/add?product_id=65638&amp;method_id=67542">&quot;Trust-Driven
-Development&quot;</a>,
-and the forthcoming &quot;Take My Money: Accepting Payments on the Web&quot;.
-<a href="http://twitter.com/noelrap">Follow Noel on Twitter @noelrap</a>, and
-online at <a href="http://www.noelrappin.com">http://www.noelrappin.com</a>.</p>
-
-                    <p><a href="http://chicago.pm.org/blog/2016/09/14/accepting-payments-on-the-web/#section-2">Continue reading...</a></p>
-                <p>Tags:
-                    <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
-                    <a href="http://chicago.pm.org/blog/tag/web/">web</a>
-                </p>
-            ]]></description>
-            <pubDate>
-                Wed, 14 Sep 2016 00:00:00 +0000
             </pubDate>
         </item>
     </channel>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Chicago.PM</title>
+        <link>http://chicago.pm.org/blog/tag/conference/</link>
+        <atom:link href="http://chicago.pm.org/blog/tag/conference.rss" rel="self" type="application/rss+xml" />
+        <description>Blog feed of Chicago.PM</description>
+        <generator>Statocles 0.083</generator>
+        <item>
+            <title>The Perl Conference Post-Meeting</title>
+            <link>http://chicago.pm.org/blog/2017/06/12/the-perl-conference-post-meeting/</link>
+            <guid>http://chicago.pm.org/blog/2017/06/12/the-perl-conference-post-meeting/</guid>
+            <description><![CDATA[
+                <p>This month is <a href="http://www.perlconference.us/tpc-2017-dc/">The Perl Conference</a>
+(formerly YAPC). Because of this, we have to move our meeting to June 29th. At
+the meeting we&#39;ll discuss the talks and announcements from the conference over
+food and drinks! <a href="https://www.meetup.com/ChicagoPM/events/240742773/">RSVP for the meeting on our Meetup
+page</a>.</p>
+
+<p>If you haven&#39;t already, be sure to join the Chicago Perl Mongers on Slack using
+<a href="http://chicagotechslack.com">http://chicagotechslack.com</a>. We&#39;re in the #perl channel, and I&#39;ll be talking
+about the things I see at the conference.</p>
+
+                    <p><a href="http://chicago.pm.org/blog/2017/06/12/the-perl-conference-post-meeting/#section-2">Continue reading...</a></p>
+                <p>Tags:
+                    <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
+                    <a href="http://chicago.pm.org/blog/tag/conference/">conference</a>
+                </p>
+            ]]></description>
+            <pubDate>
+                Mon, 12 Jun 2017 00:00:00 +0000
+            </pubDate>
+        </item>
+    </channel>
+</rss>
+

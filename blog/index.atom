@@ -2,11 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://chicago.pm.org/blog/</id>
     <title>Chicago.PM</title>
-    <updated>2017-05-05T00:00:00Z</updated>
+    <updated>2017-06-12T00:00:00Z</updated>
     <link href="http://chicago.pm.org/blog/index.atom" rel="self" />
     <link href="http://chicago.pm.org/blog/" rel="alternate" />
     <generator version="0.083">Statocles</generator>
 
+    <entry>
+        <id>http://chicago.pm.org/blog/2017/06/12/the-perl-conference-post-meeting/</id>
+        <title>The Perl Conference Post-Meeting</title>
+        <link href="http://chicago.pm.org/blog/2017/06/12/the-perl-conference-post-meeting/" rel="alternate" />
+        <content type="html"><![CDATA[
+            <p>This month is <a href="http://www.perlconference.us/tpc-2017-dc/">The Perl Conference</a>
+(formerly YAPC). Because of this, we have to move our meeting to June 29th. At
+the meeting we&#39;ll discuss the talks and announcements from the conference over
+food and drinks! <a href="https://www.meetup.com/ChicagoPM/events/240742773/">RSVP for the meeting on our Meetup
+page</a>.</p>
+
+<p>If you haven&#39;t already, be sure to join the Chicago Perl Mongers on Slack using
+<a href="http://chicagotechslack.com">http://chicagotechslack.com</a>. We&#39;re in the #perl channel, and I&#39;ll be talking
+about the things I see at the conference.</p>
+
+                <p><a href="http://chicago.pm.org/blog/2017/06/12/the-perl-conference-post-meeting/#section-2">Continue reading...</a></p>
+            <p>Tags:
+                <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
+                <a href="http://chicago.pm.org/blog/tag/conference/">conference</a>
+            </p>
+        ]]></content>
+        <updated>2017-06-12T00:00:00Z</updated>
+        <category term="meeting" />
+        <category term="conference" />
+    </entry>
     <entry>
         <id>http://chicago.pm.org/blog/2017/05/05/mysql-database-performance-for-developers/</id>
         <title>MySQL Database Performance For Developers</title>
@@ -180,32 +205,6 @@ the talks page</a>)</p>
         <updated>2017-01-17T00:00:00Z</updated>
         <category term="meeting" />
         <category term="syntax" />
-    </entry>
-    <entry>
-        <id>http://chicago.pm.org/blog/2016/12/06/what-happened-at-the-metacpan-hackathon/</id>
-        <title>What Happened At The MetaCPAN Hackathon</title>
-        <link href="http://chicago.pm.org/blog/2016/12/06/what-happened-at-the-metacpan-hackathon/" rel="alternate" />
-        <content type="html"><![CDATA[
-            <p>The <a href="https://metacpan.org/about/meta_hack">MetaCPAN hackathon</a> here in
-Chicago has come and gone, and those who participated have written about
-what they accomplished. <a href="https://metacpan.org/about/meta_hack">All the after-hackathon reports are linked on
-the meta::hack page</a>. From our own
-members, <a href="http://blogs.perl.org/users/preaction/2016/11/metahack-log.html">Doug Bell wrote about his meta::hack
-accomplishments</a>
-and <a href="http://blogs.perl.org/users/joel_berger/2016/12/metahack-2016.html">Joel Berger also wrote about his meta::hack
-accomplishments</a>.
-Thanks to <a href="https://metacpan.org/about/meta_hack">the sponsors who made meta::hack
-happen</a>.</p>
-
-                <p><a href="http://chicago.pm.org/blog/2016/12/06/what-happened-at-the-metacpan-hackathon/#section-2">Continue reading...</a></p>
-            <p>Tags:
-                <a href="http://chicago.pm.org/blog/tag/cpan/">cpan</a>
-                <a href="http://chicago.pm.org/blog/tag/blog/">blog</a>
-            </p>
-        ]]></content>
-        <updated>2016-12-06T00:00:00Z</updated>
-        <category term="cpan" />
-        <category term="blog" />
     </entry>
 </feed>
 
