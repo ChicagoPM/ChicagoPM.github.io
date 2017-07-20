@@ -7,6 +7,36 @@
         <description>Blog feed of Chicago.PM</description>
         <generator>Statocles 0.083</generator>
         <item>
+            <title>All About CSS Flexbox</title>
+            <link>http://chicago.pm.org/blog/2017/07/20/all-about-css-flexbox/</link>
+            <guid>http://chicago.pm.org/blog/2017/07/20/all-about-css-flexbox/</guid>
+            <description><![CDATA[
+                <p>This month, <a href="http://preaction.me/">Doug Bell</a> will be talking about
+a CSS feature newly-supported by browsers: <a href="https://www.w3.org/TR/2012/CR-css3-flexbox-20120918/">The flexible box
+(flexbox)</a>.
+Flexboxes makes laying out rows or columns fast and easy. Simple things
+become much easier, and even complex layouts become simple and
+responsive for a variety of display devices like phones and tablets. If
+you haven&#39;t learned anything about CSS in the last few years, or if you
+know the pain of using CSS floats, come learn about flexbox!</p>
+
+<p><a href="http://preaction.me/">Doug Bell</a> has been developing websites since the
+time of table layouts and spacer GIFs (pronounced &quot;jifs&quot;). He&#39;s
+developed websites professionally for 10 years, and is the organizer of
+<a href="http://hashcss.com/">the #css support community</a> on <a href="http://freenode.net/">the Freenode IRC
+network</a>.</p>
+
+                    <p><a href="http://chicago.pm.org/blog/2017/07/20/all-about-css-flexbox/#section-2">Continue reading...</a></p>
+                <p>Tags:
+                    <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
+                    <a href="http://chicago.pm.org/blog/tag/web/">web</a>
+                </p>
+            ]]></description>
+            <pubDate>
+                Thu, 20 Jul 2017 00:00:00 +0000
+            </pubDate>
+        </item>
+        <item>
             <title>The Perl Conference Post-Meeting</title>
             <link>http://chicago.pm.org/blog/2017/06/12/the-perl-conference-post-meeting/</link>
             <guid>http://chicago.pm.org/blog/2017/06/12/the-perl-conference-post-meeting/</guid>
@@ -173,34 +203,6 @@ ideas</a>.</p>
             ]]></description>
             <pubDate>
                 Tue, 14 Feb 2017 00:00:00 +0000
-            </pubDate>
-        </item>
-        <item>
-            <title>Variables, Scoping, and Namespaces</title>
-            <link>http://chicago.pm.org/blog/2017/01/17/variables-scoping-and-namespaces/</link>
-            <guid>http://chicago.pm.org/blog/2017/01/17/variables-scoping-and-namespaces/</guid>
-            <description><![CDATA[
-                <p>This month, <a href="http://blogs.perl.org/users/joel_berger/">Joel Berger</a> (<a href="http://twitter.com/joelaberger"><i class="fa fa-twitter"></i></a><a href="http://github.com/jberger"><i class="fa
-fa-github"></i></a>)
- will
-give a talk on Perl variable scoping rules, including the <code>my</code>, <code>our</code>,
-and <code>local</code> keywords, how they work, and some interesting ways they can
-be used.</p>
-
-<p><a href="https://www.meetup.com/ChicagoPM/events/236748063">RSVP on the Chicago.PM Meetup
-page</a></p>
-
-<p>(EDIT: <a href="http://chicago.pm.org/talks">Slides for Variables, Scoping, and Namespaces are available on
-the talks page</a>)</p>
-
-                    <p><a href="http://chicago.pm.org/blog/2017/01/17/variables-scoping-and-namespaces/#section-2">Continue reading...</a></p>
-                <p>Tags:
-                    <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
-                    <a href="http://chicago.pm.org/blog/tag/syntax/">syntax</a>
-                </p>
-            ]]></description>
-            <pubDate>
-                Tue, 17 Jan 2017 00:00:00 +0000
             </pubDate>
         </item>
     </channel>
