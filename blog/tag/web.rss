@@ -5,7 +5,7 @@
         <link>http://chicago.pm.org/blog/tag/web/</link>
         <atom:link href="http://chicago.pm.org/blog/tag/web.rss" rel="self" type="application/rss+xml" />
         <description>Blog feed of Chicago.PM</description>
-        <generator>Statocles 0.083</generator>
+        <generator>Statocles 0.085</generator>
         <item>
             <title>All About CSS Flexbox</title>
             <link>http://chicago.pm.org/blog/2017/07/20/all-about-css-flexbox/</link>

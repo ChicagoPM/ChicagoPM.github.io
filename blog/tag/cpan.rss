@@ -5,7 +5,7 @@
         <link>http://chicago.pm.org/blog/tag/cpan/</link>
         <atom:link href="http://chicago.pm.org/blog/tag/cpan.rss" rel="self" type="application/rss+xml" />
         <description>Blog feed of Chicago.PM</description>
-        <generator>Statocles 0.083</generator>
+        <generator>Statocles 0.085</generator>
         <item>
             <title>What Happened At The MetaCPAN Hackathon</title>
             <link>http://chicago.pm.org/blog/2016/12/06/what-happened-at-the-metacpan-hackathon/</link>

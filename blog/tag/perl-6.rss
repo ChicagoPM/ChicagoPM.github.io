@@ -5,7 +5,7 @@
         <link>http://chicago.pm.org/blog/tag/perl-6/</link>
         <atom:link href="http://chicago.pm.org/blog/tag/perl-6.rss" rel="self" type="application/rss+xml" />
         <description>Blog feed of Chicago.PM</description>
-        <generator>Statocles 0.083</generator>
+        <generator>Statocles 0.085</generator>
         <item>
             <title>Perl 6 Grammars and Logging in Perl 5</title>
             <link>http://chicago.pm.org/blog/2017/02/14/perl-6-grammars-and-logging-in-perl-5/</link>
