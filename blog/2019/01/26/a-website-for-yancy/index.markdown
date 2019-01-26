@@ -5,7 +5,7 @@ tags:
   - web
 title: A Website For Yancy
 ---
-This month, <%= include '../../../../../speakers/preaction.markdown' %>
+This month, <%= include '../../../../../speakers/preaction.markdown' =%>
 gave a talk about [the Mojolicious web framework](http://mojolicious.org), [the Yancy CMS](http://preaction.me/yancy),
 [the PODViewer documentation
 renderer](http://metacpan.org/pod/Mojolicious::Plugin::PODViewer), and
