@@ -2,11 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://chicago.pm.org/blog/</id>
     <title>Chicago.PM</title>
-    <updated>2017-09-22T00:00:00Z</updated>
+    <updated>2019-01-26T00:00:00Z</updated>
     <link href="http://chicago.pm.org/blog/index.atom" rel="self" />
     <link href="http://chicago.pm.org/blog/" rel="alternate" />
-    <generator version="0.085">Statocles</generator>
+    <generator version="0.093">Statocles</generator>
 
+    <entry>
+        <id>http://chicago.pm.org/blog/2019/01/26/a-website-for-yancy/</id>
+        <title>A Website For Yancy</title>
+        <link href="http://chicago.pm.org/blog/2019/01/26/a-website-for-yancy/" rel="alternate" />
+        <content type="html"><![CDATA[
+            <p>This month, <a href="http://preaction.me">Doug Bell (preaction)</a> (<a href="http://twitter.com/preaction"><i class="fa fa-twitter"></i></a><a href="https://github.com/preaction"><i class="fa
+fa-github"></i></a>)</p>
+
+<p>gave a talk about <a href="http://mojolicious.org">the Mojolicious web framework</a>, <a href="http://preaction.me/yancy">the Yancy CMS</a>,
+<a href="http://metacpan.org/pod/Mojolicious::Plugin::PODViewer">the PODViewer documentation
+renderer</a>, and
+the <a href="http://metacpan.org/pod/Mojolicious::Command::export">Mojolicious export
+command</a>.</p>
+
+<p><a href="http://preaction.me/mojo/talks/a-website-for-yancy-chicago-pm-2019/">Slides for the talk are available at Doug&#39;s
+website</a></p>
+
+                <p><a href="http://chicago.pm.org/blog/2019/01/26/a-website-for-yancy/#section-2">Continue reading...</a></p>
+            <p>Tags:
+                <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
+                <a href="http://chicago.pm.org/blog/tag/web/">web</a>
+            </p>
+        ]]></content>
+        <updated>2019-01-26T00:00:00Z</updated>
+        <category term="meeting" />
+        <category term="web" />
+    </entry>
     <entry>
         <id>http://chicago.pm.org/blog/2017/09/22/parsely-rpg-client/</id>
         <title>Parsely RPG Client</title>
@@ -131,55 +158,6 @@ month.</p>
         <updated>2017-05-05T00:00:00Z</updated>
         <category term="meeting" />
         <category term="database" />
-    </entry>
-    <entry>
-        <id>http://chicago.pm.org/blog/2017/03/17/test-environments-for-modern-web-apps/</id>
-        <title>Test Environments for Modern Web Apps</title>
-        <link href="http://chicago.pm.org/blog/2017/03/17/test-environments-for-modern-web-apps/" rel="alternate" />
-        <content type="html"><![CDATA[
-            <p>This month, <a href="http://wlindley.com">William Lindley</a> (<a href="http://github.com/lindleyw"><i class="fa fa-github"></i></a> <a href="http://blog.wlindley.com">blog</a>)
- will
-<a href="https://www.meetup.com/ChicagoPM/events/238505149/">talk about writing a test harness for modern Perl programs</a>
-using <a href="http://metacpan.org/pod/Test::More">Test::More</a>,
-<a href="http://mojolicious.org/perldoc/Test/Mojo">Test::Mojo</a> for the API, and
-<a href="https://metacpan.org/pod/DBIx::TempDB">DBIx::TempDB</a> for the
-database.</p>
-
-<p>Building, testing, and deploying actual systems is more complex than
-merely writing a program. Real testing often needs to be done against
-databases of known large or problematic datasets. A test environment
-cannot affect production data. Staging even minor changes, so we can
-preview and find errors before moving to production servers, can prevent
-expensive errors. The &quot;best practices&quot; in this field are relatively new
-and still changing, and we look at the first steps from &quot;I built this
-mockup last night&quot; by building the test suite for a simple
-database-driven file-upload service with
-<a href="http://mojolicious.org">Mojolicious</a>.</p>
-
-<p>William Lindley has been hacking computers (in the good sense) since
-1977, a database advocate since dBase II and PostgreSQL-predecessor
-Ingres in the 1980s, a Perl monger since 1994, and a free-software
-promoter since first getting Linux to run XWindows in 1995.</p>
-
-<p>If time permits, <a href="http://preaction.me">Doug Bell (preaction)</a> (<a href="http://twitter.com/preaction"><i class="fa fa-twitter"></i></a><a href="https://github.com/preaction"><i class="fa
-fa-github"></i></a>)
- will
-show a simple app to mock JSON REST APIs for testing using Mojolicious.</p>
-
-<p><a href="https://www.meetup.com/ChicagoPM/events/238505149/">RSVP for the meeting on the Chicago.PM
-Meetup</a></p>
-
-                <p><a href="http://chicago.pm.org/blog/2017/03/17/test-environments-for-modern-web-apps/#section-2">Continue reading...</a></p>
-            <p>Tags:
-                <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
-                <a href="http://chicago.pm.org/blog/tag/web/">web</a>
-                <a href="http://chicago.pm.org/blog/tag/testing/">testing</a>
-            </p>
-        ]]></content>
-        <updated>2017-03-17T00:00:00Z</updated>
-        <category term="meeting" />
-        <category term="web" />
-        <category term="testing" />
     </entry>
 </feed>
 

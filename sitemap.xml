@@ -4,13 +4,13 @@
         <loc>http://chicago.pm.org/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2017-09-22</lastmod>
+        <lastmod>2019-01-26</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/about/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2017-09-22</lastmod>
+        <lastmod>2019-01-26</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/2013/05/20/building-command-line-applications-doug-bell-may-23.html</loc>
@@ -265,52 +265,58 @@
         <lastmod>2017-09-22</lastmod>
     </url>
     <url>
+        <loc>http://chicago.pm.org/blog/2019/01/26/a-website-for-yancy/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2019-01-26</lastmod>
+    </url>
+    <url>
         <loc>http://chicago.pm.org/blog/page/2/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2017-09-22</lastmod>
+        <lastmod>2019-01-26</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/page/3/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2017-09-22</lastmod>
+        <lastmod>2019-01-26</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/page/4/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2017-09-22</lastmod>
+        <lastmod>2019-01-26</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/page/5/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2017-09-22</lastmod>
+        <lastmod>2019-01-26</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/page/6/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2017-09-22</lastmod>
+        <lastmod>2019-01-26</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/page/7/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2017-09-22</lastmod>
+        <lastmod>2019-01-26</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/page/8/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2017-09-22</lastmod>
+        <lastmod>2019-01-26</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/page/9/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2017-09-22</lastmod>
+        <lastmod>2019-01-26</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/tag/blog/</loc>
@@ -370,43 +376,43 @@
         <loc>http://chicago.pm.org/blog/tag/meeting/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2017-09-22</lastmod>
+        <lastmod>2019-01-26</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/tag/meeting/page/2/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2017-09-22</lastmod>
+        <lastmod>2019-01-26</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/tag/meeting/page/3/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2017-09-22</lastmod>
+        <lastmod>2019-01-26</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/tag/meeting/page/4/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2017-09-22</lastmod>
+        <lastmod>2019-01-26</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/tag/meeting/page/5/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2017-09-22</lastmod>
+        <lastmod>2019-01-26</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/tag/meeting/page/6/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2017-09-22</lastmod>
+        <lastmod>2019-01-26</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/tag/meeting/page/7/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2017-09-22</lastmod>
+        <lastmod>2019-01-26</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/tag/perl-6/</loc>
@@ -436,103 +442,103 @@
         <loc>http://chicago.pm.org/blog/tag/web/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2017-07-20</lastmod>
+        <lastmod>2019-01-26</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/blog/tag/web/page/2/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2017-07-20</lastmod>
+        <lastmod>2019-01-26</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/howto/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2017-09-22</lastmod>
+        <lastmod>2019-01-26</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/jobs/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2017-09-22</lastmod>
+        <lastmod>2019-01-26</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/notes/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2017-09-22</lastmod>
+        <lastmod>2019-01-26</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/notes/2014-03-27/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2017-09-22</lastmod>
+        <lastmod>2019-01-26</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/notes/2014-04-09/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2017-09-22</lastmod>
+        <lastmod>2019-01-26</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/notes/2014-05-22/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2017-09-22</lastmod>
+        <lastmod>2019-01-26</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/notes/2014-07-09/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2017-09-22</lastmod>
+        <lastmod>2019-01-26</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/notes/2015-07-09/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2017-09-22</lastmod>
+        <lastmod>2019-01-26</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/speakers.html</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2017-09-22</lastmod>
+        <lastmod>2019-01-26</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/speakers/bdfoy.html</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2017-09-22</lastmod>
+        <lastmod>2019-01-26</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/speakers/cromedome.html</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2017-09-22</lastmod>
+        <lastmod>2019-01-26</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/speakers/jberger.html</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2017-09-22</lastmod>
+        <lastmod>2019-01-26</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/speakers/preaction.html</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2017-09-22</lastmod>
+        <lastmod>2019-01-26</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/speakers/wlindley.html</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2017-09-22</lastmod>
+        <lastmod>2019-01-26</lastmod>
     </url>
     <url>
         <loc>http://chicago.pm.org/talks/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
-        <lastmod>2017-09-22</lastmod>
+        <lastmod>2019-01-26</lastmod>
     </url>
 </urlset>
 

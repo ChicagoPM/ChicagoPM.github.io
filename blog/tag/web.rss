@@ -5,7 +5,34 @@
         <link>http://chicago.pm.org/blog/tag/web/</link>
         <atom:link href="http://chicago.pm.org/blog/tag/web.rss" rel="self" type="application/rss+xml" />
         <description>Blog feed of Chicago.PM</description>
-        <generator>Statocles 0.085</generator>
+        <generator>Statocles 0.093</generator>
+        <item>
+            <title>A Website For Yancy</title>
+            <link>http://chicago.pm.org/blog/2019/01/26/a-website-for-yancy/</link>
+            <guid>http://chicago.pm.org/blog/2019/01/26/a-website-for-yancy/</guid>
+            <description><![CDATA[
+                <p>This month, <a href="http://preaction.me">Doug Bell (preaction)</a> (<a href="http://twitter.com/preaction"><i class="fa fa-twitter"></i></a><a href="https://github.com/preaction"><i class="fa
+fa-github"></i></a>)</p>
+
+<p>gave a talk about <a href="http://mojolicious.org">the Mojolicious web framework</a>, <a href="http://preaction.me/yancy">the Yancy CMS</a>,
+<a href="http://metacpan.org/pod/Mojolicious::Plugin::PODViewer">the PODViewer documentation
+renderer</a>, and
+the <a href="http://metacpan.org/pod/Mojolicious::Command::export">Mojolicious export
+command</a>.</p>
+
+<p><a href="http://preaction.me/mojo/talks/a-website-for-yancy-chicago-pm-2019/">Slides for the talk are available at Doug&#39;s
+website</a></p>
+
+                    <p><a href="http://chicago.pm.org/blog/2019/01/26/a-website-for-yancy/#section-2">Continue reading...</a></p>
+                <p>Tags:
+                    <a href="http://chicago.pm.org/blog/tag/meeting/">meeting</a>
+                    <a href="http://chicago.pm.org/blog/tag/web/">web</a>
+                </p>
+            ]]></description>
+            <pubDate>
+                Sat, 26 Jan 2019 00:00:00 +0000
+            </pubDate>
+        </item>
         <item>
             <title>All About CSS Flexbox</title>
             <link>http://chicago.pm.org/blog/2017/07/20/all-about-css-flexbox/</link>
@@ -148,28 +175,6 @@ Mojolicious</a></p>
             ]]></description>
             <pubDate>
                 Thu, 01 Sep 2016 00:00:00 +0000
-            </pubDate>
-        </item>
-        <item>
-            <title>Interview about Perl Dancer 2</title>
-            <link>http://chicago.pm.org/blog/2016/08/29/interview-about-perl-dancer-2/</link>
-            <guid>http://chicago.pm.org/blog/2016/08/29/interview-about-perl-dancer-2/</guid>
-            <description><![CDATA[
-                <p><a href="http://szabgab.com">Gabor Szabo</a> started a podcast called <a href="http://code-maven.com/cmos">CMOS: Code
-Maven Open Source news</a> and interviewed
-<a href="https://crome-plated.com/about">Jason Crome</a> for his first episode.</p>
-
-<p><a href="http://code-maven.com/cmos-1-jason-crome-perl-dancer2">Listen to Code Maven Open Source (CMOS) interviewing Jason Crome about
-Perl Dancer 2</a></p>
-
-                    <p><a href="http://chicago.pm.org/blog/2016/08/29/interview-about-perl-dancer-2/#section-2">Continue reading...</a></p>
-                <p>Tags:
-                    <a href="http://chicago.pm.org/blog/tag/podcast/">podcast</a>
-                    <a href="http://chicago.pm.org/blog/tag/web/">web</a>
-                </p>
-            ]]></description>
-            <pubDate>
-                Mon, 29 Aug 2016 00:00:00 +0000
             </pubDate>
         </item>
     </channel>

@@ -5,7 +5,7 @@
         <link>http://chicago.pm.org/blog/tag/games/</link>
         <atom:link href="http://chicago.pm.org/blog/tag/games.rss" rel="self" type="application/rss+xml" />
         <description>Blog feed of Chicago.PM</description>
-        <generator>Statocles 0.085</generator>
+        <generator>Statocles 0.093</generator>
         <item>
             <title>Parsely RPG Client</title>
             <link>http://chicago.pm.org/blog/2017/09/22/parsely-rpg-client/</link>

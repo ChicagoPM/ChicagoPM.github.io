@@ -5,7 +5,7 @@
         <link>http://chicago.pm.org/blog/tag/devops/</link>
         <atom:link href="http://chicago.pm.org/blog/tag/devops.rss" rel="self" type="application/rss+xml" />
         <description>Blog feed of Chicago.PM</description>
-        <generator>Statocles 0.085</generator>
+        <generator>Statocles 0.093</generator>
         <item>
             <title>Logging and Analytics Using Perl and Fluentd</title>
             <link>http://chicago.pm.org/blog/2016/04/22/logging-and-analytics-using-perl-and-fluentd/</link>

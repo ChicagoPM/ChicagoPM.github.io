@@ -5,7 +5,7 @@
         <link>http://chicago.pm.org/blog/tag/development/</link>
         <atom:link href="http://chicago.pm.org/blog/tag/development.rss" rel="self" type="application/rss+xml" />
         <description>Blog feed of Chicago.PM</description>
-        <generator>Statocles 0.085</generator>
+        <generator>Statocles 0.093</generator>
         <item>
             <title>Perl Development Environment</title>
             <link>http://chicago.pm.org/blog/2016/08/18/perl-development-environment/</link>
