@@ -12,10 +12,9 @@
         <title>A Website For Yancy</title>
         <link href="http://chicago.pm.org/blog/2019/01/26/a-website-for-yancy/" rel="alternate" />
         <content type="html"><![CDATA[
-            <p>This month, <a href="http://preaction.me">Doug Bell (preaction)</a> (<a href="http://twitter.com/preaction"><i class="fa fa-twitter"></i></a><a href="https://github.com/preaction"><i class="fa
-fa-github"></i></a>)</p>
-
-<p>gave a talk about <a href="http://mojolicious.org">the Mojolicious web framework</a>, <a href="http://preaction.me/yancy">the Yancy CMS</a>,
+            <p>This month,<a href="http://preaction.me">Doug Bell (preaction)</a> (<a href="http://twitter.com/preaction"><i class="fa fa-twitter"></i></a><a href="https://github.com/preaction"><i class="fa
+fa-github"></i></a>)
+gave a talk about <a href="http://mojolicious.org">the Mojolicious web framework</a>, <a href="http://preaction.me/yancy">the Yancy CMS</a>,
 <a href="http://metacpan.org/pod/Mojolicious::Plugin::PODViewer">the PODViewer documentation
 renderer</a>, and
 the <a href="http://metacpan.org/pod/Mojolicious::Command::export">Mojolicious export
