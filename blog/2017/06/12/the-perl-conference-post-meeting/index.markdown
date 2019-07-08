@@ -1,4 +1,5 @@
 ---
+date: 2017-06-12
 tags: meeting, conference
 title: The Perl Conference Post-Meeting
 ---

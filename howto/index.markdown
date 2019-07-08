@@ -1,9 +1,7 @@
 ---
-title: "How to Edit This Site"
+title: How to Edit This Site
 author: Joel Berger
 ---
-
-# How To Edit This Site
 
 This site is hosted on GitHub at
 [https://github.com/ChicagoPM/ChicagoPM.github.io](https://github.com/ChicagoPM/ChicagoPM.github.io).

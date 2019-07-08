@@ -1,4 +1,5 @@
 ---
+date: 2016-01-24
 tags:
   - meeting
 title: Collecting Metrics with Graphite

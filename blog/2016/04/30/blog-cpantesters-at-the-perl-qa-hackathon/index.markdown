@@ -1,4 +1,5 @@
 ---
+date: 2016-04-30
 tags: blog, testing
 title: 'Blog: CPANTesters at the Perl QA Hackathon'
 ---

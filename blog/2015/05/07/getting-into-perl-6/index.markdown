@@ -1,4 +1,5 @@
 ---
+date: 2015-05-07
 tags:
   - meeting
   - perl 6

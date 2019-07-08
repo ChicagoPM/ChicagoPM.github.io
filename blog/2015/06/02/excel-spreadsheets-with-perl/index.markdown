@@ -1,4 +1,5 @@
 ---
+date: 2015-06-02
 tags:
   - meeting
 title: 'Excel Spreadsheets with Perl'

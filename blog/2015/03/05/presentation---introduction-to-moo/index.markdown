@@ -1,4 +1,5 @@
 ---
+date: 2015-03-05
 tags: meeting
 title: 'Presentation - Introduction to Moo'
 ---

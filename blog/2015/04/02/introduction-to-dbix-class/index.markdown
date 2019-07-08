@@ -1,4 +1,5 @@
 ---
+date: 2015-04-02
 tags: meeting
 title: Introduction to DBIx::Class
 ---

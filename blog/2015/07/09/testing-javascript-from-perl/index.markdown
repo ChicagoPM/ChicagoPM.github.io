@@ -1,4 +1,5 @@
 ---
+date: 2015-07-09
 tags:
   - meeting
 title: Testing Javascript From Perl

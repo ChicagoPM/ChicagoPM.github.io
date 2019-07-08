@@ -1,9 +1,7 @@
 ---
-title: "Jobs - Chicago.PM"
+title: Jobs
 description: Perl job listings in the Chicagoland area
 ---
-
-# Jobs
 
 If you have a Perl job in the Chicagoland area, e-mail <a
 href="mailto:madcityzen+chipm@gmail.com">Doug Bell</a> or <a

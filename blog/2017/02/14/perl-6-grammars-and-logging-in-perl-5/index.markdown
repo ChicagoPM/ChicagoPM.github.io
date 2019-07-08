@@ -1,4 +1,5 @@
 ---
+date: 2017-02-14
 status: published
 tags:
   - meeting
@@ -7,8 +8,8 @@ tags:
 title: Perl 6 Grammars and Logging in Perl 5
 ---
 
-This month, we have a special meeting: <%= include
-'../../../../../speakers/bdfoy.markdown' %> will be giving [a
+This month, we have a special meeting:
+[brian d foy](https://www.effectiveperlprogramming.com) ([<i class="fa fa-twitter"></i>](http://twitter.com/briandfoy_perl)[<i class="fa fa-github"></i>](https://github.com/briandfoy)) will be giving [a
 talk about Perl 6 Grammars on Thursday, February
 16](https://www.meetup.com/ChicagoPM/events/237694944/). [Grammars in
 Perl 6](https://docs.perl6.org/language/grammars) are the evolved form
@@ -17,7 +18,7 @@ flexibility, while still being easier to use. [RSVP for this special
 talk about Perl 6 Grammars on the Chicago.PM
 Meetup](https://www.meetup.com/ChicagoPM/events/237694944/).
 
-For our regular meeting, <%= include '../../../../../speakers/preaction.markdown' %> will
+For our regular meeting, [Doug Bell (preaction)](http://preaction.me) ([<i class="fa fa-twitter"></i>](http://twitter.com/preaction)[<i class="fa fa-github"></i>](https://github.com/preaction)) will
 be giving [a talk about Logging for Programs Tiny and
 Large](https://www.meetup.com/ChicagoPM/events/237417941/). It will
 cover various ways to add logging and reporting to your Perl programs,

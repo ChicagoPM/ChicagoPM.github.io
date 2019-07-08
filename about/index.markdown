@@ -1,8 +1,6 @@
 ---
-title: "About Chicago.pm"
+title: About Chicago.pm
 ---
-
-# About
 
 Chicago.pm (sometimes known as WindyCity.pm) is the Chicago chapter of the international [Perl Mongers groups](http://www.pm.org/).
 

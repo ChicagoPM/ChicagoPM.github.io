@@ -1,4 +1,5 @@
 ---
+date: 2016-09-17
 tags: blog, cpan
 title: MetaCPAN Hackathon in Chicago
 ---

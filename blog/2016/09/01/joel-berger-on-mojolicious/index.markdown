@@ -1,4 +1,5 @@
 ---
+date: 2016-09-01
 status: published
 tags:
   - podcast

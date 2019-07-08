@@ -1,11 +1,12 @@
 ---
+date: 2017-09-22
 status: published
 tags:
   - meeting
   - games
 title: Parsely RPG Client
 ---
-This month, <%= include '../../../../../speakers/cromedome.markdown' =%>
+This month, [Jason A Crome (cromedome)](https://crome-plated.com/) ([<i class="fa fa-twitter"></i>](https://twitter.com/cromedome)[<i class="fa fa-github"></i>](https://github.com/cromedome))
 will be showing the work he's done on a Perl web client for the [Parsely
 RPG system](http://www.memento-mori.com/parsely/). Parsely games are much like the text adventures of yore.
 Jason will go over how Perl helped him build the client, and the modules

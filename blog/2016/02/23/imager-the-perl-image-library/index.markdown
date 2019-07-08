@@ -1,4 +1,5 @@
 ---
+date: 2016-02-23
 status: published
 tags:
   - meeting

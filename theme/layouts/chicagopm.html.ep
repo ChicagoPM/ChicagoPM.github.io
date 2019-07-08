@@ -1,0 +1,54 @@
+% extends 'layouts/default';
+
+% content_for head => begin
+    <link rel="stylesheet" href="/theme/css/chicagopm.css" />
+% end
+
+% content_for header => begin
+    % if ( url_for() eq '/' ) {
+        <div class="main-title">
+            <div class="logo">
+                <img src="/theme/images/chicagopm-large.png" alt="logo" />
+            </div>
+            <h1>Chicago Perl Mongers</h1>
+
+            <nav class="navbar" style="text-align: center">
+                <div class="container">
+                    % if ( my @nav_links = @{ app->config->{data}{nav} || [] } ) {
+                    <ul>
+                        % for my $nav ( @nav_links ) {
+                        <li>
+                            <a href="<%= $nav->{href} %>"><%= $nav->{text} %></a>
+                        </li>
+                        % }
+                    </ul>
+                    % }
+                </div>
+            </nav>
+
+        </div>
+
+    % }
+    % else {
+        <nav class="navbar inner">
+            <div class="container">
+                <a href="/" alt="<%= app->config->{title} %>"><img src="/theme/images/chicagopm-small.png" /></a>
+                % if ( my @nav_links = @{ app->config->{data}{nav} || [] } ) {
+                <ul>
+                    % for my $nav ( @nav_links ) {
+                    <li>
+                        <a href="<%= $nav->{href} %>"><%= $nav->{text} %></a>
+                    </li>
+                    % }
+                </ul>
+                % }
+            </div>
+        </nav>
+    % }
+% end
+
+% content_for sidebar => begin
+<section style="text-align:center;">
+  <iframe width="225" height="570" src="http://meetu.ps/380cqX" frameborder="0"></iframe>
+</section>
+% end

@@ -1,4 +1,5 @@
 ---
+date: 2017-01-17
 status: published
 tags:
   - meeting
@@ -6,7 +7,7 @@ tags:
 title: 'Variables, Scoping, and Namespaces'
 ---
 
-This month, <%= include '../../../../../speakers/jberger.markdown' %> will
+This month, [Joel Berger](http://blogs.perl.org/users/joel_berger/) ([<i class="fa fa-twitter"></i>](http://twitter.com/joelaberger)[<i class="fa fa-github"></i>](http://github.com/jberger)) will
 give a talk on Perl variable scoping rules, including the `my`, `our`,
 and `local` keywords, how they work, and some interesting ways they can
 be used.

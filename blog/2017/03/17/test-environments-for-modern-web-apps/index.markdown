@@ -1,4 +1,5 @@
 ---
+date: 2017-03-17
 status: published
 tags:
   - meeting
@@ -7,7 +8,7 @@ tags:
 title: Test Environments for Modern Web Apps
 ---
 
-This month, <%= include '../../../../../speakers/wlindley.markdown' %> will
+This month, [William Lindley](http://wlindley.com) ([<i class="fa fa-github"></i>](http://github.com/lindleyw) [blog](http://blog.wlindley.com)) will
 [talk about writing a test harness for modern Perl programs](https://www.meetup.com/ChicagoPM/events/238505149/)
 using [Test::More](http://metacpan.org/pod/Test::More),
 [Test::Mojo](http://mojolicious.org/perldoc/Test/Mojo) for the API, and
@@ -30,7 +31,7 @@ William Lindley has been hacking computers (in the good sense) since
 Ingres in the 1980s, a Perl monger since 1994, and a free-software
 promoter since first getting Linux to run XWindows in 1995.
 
-If time permits, <%= include '../../../../../speakers/preaction.markdown' %> will
+If time permits, [Doug Bell (preaction)](http://preaction.me) ([<i class="fa fa-twitter"></i>](http://twitter.com/preaction)[<i class="fa fa-github"></i>](https://github.com/preaction)) will
 show a simple app to mock JSON REST APIs for testing using Mojolicious.
 
 [RSVP for the meeting on the Chicago.PM
