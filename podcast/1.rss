@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Chicago.PM</title>
+        <link>http://127.0.0.1:57366/podcast/1.html</link>
+        <atom:link href="http://127.0.0.1:57366/podcast" rel="self" type="application/rss+xml" />
+        <description>Blog feed of Chicago.PM</description>
+        <generator>Statocles 2.000</generator>
+        <item>
+            <title>Joel Berger on Mojolicious</title>
+            <link>http://127.0.0.1:57366/blog/2016/09/01/joel-berger-on-mojolicious/</link>
+            <guid>http://127.0.0.1:57366/blog/2016/09/01/joel-berger-on-mojolicious/</guid>
+            <description><![CDATA[
+                <p>For episode 3 of <a href="http://code-maven.com/cmos">Gabor Szabo's CMOS
+Podcast</a>, <a href="http://blogs.perl.org/users/joel_berger/">Joel
+Berger</a> talks about <a href="http://mojolicious.org">the
+Mojolicious Perl web framework</a>.</p>
+
+<p><a href="http://code-maven.com/cmos-3-joel-berger-mojolicious">Listen to CMOS Episode 3: Joel Berger on
+Mojolicious</a></p>
+
+            ]]></description>
+            <pubDate>
+                Thu, 01 Sep 2016 00:00:00 +0000
+            </pubDate>
+        </item>
+        <item>
+            <title>Interview about Perl Dancer 2</title>
+            <link>http://127.0.0.1:57366/blog/2016/08/29/interview-about-perl-dancer-2/</link>
+            <guid>http://127.0.0.1:57366/blog/2016/08/29/interview-about-perl-dancer-2/</guid>
+            <description><![CDATA[
+                <p><a href="http://szabgab.com">Gabor Szabo</a> started a podcast called <a href="http://code-maven.com/cmos">CMOS: Code
+Maven Open Source news</a> and interviewed
+<a href="https://crome-plated.com/about">Jason Crome</a> for his first episode.</p>
+
+<p><a href="http://code-maven.com/cmos-1-jason-crome-perl-dancer2">Listen to Code Maven Open Source (CMOS) interviewing Jason Crome about
+Perl Dancer 2</a></p>
+
+            ]]></description>
+            <pubDate>
+                Mon, 29 Aug 2016 00:00:00 +0000
+            </pubDate>
+        </item>
+    </channel>
+</rss>

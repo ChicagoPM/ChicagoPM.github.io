@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Chicago.PM</title>
+        <link>http://127.0.0.1:57366/games/1.html</link>
+        <atom:link href="http://127.0.0.1:57366/games" rel="self" type="application/rss+xml" />
+        <description>Blog feed of Chicago.PM</description>
+        <generator>Statocles 2.000</generator>
+        <item>
+            <title>Parsely RPG Client</title>
+            <link>http://127.0.0.1:57366/blog/2017/09/22/parsely-rpg-client/</link>
+            <guid>http://127.0.0.1:57366/blog/2017/09/22/parsely-rpg-client/</guid>
+            <description><![CDATA[
+                <p>This month, <a href="https://crome-plated.com/">Jason A Crome (cromedome)</a> (<a href="https://twitter.com/cromedome"><i class="fa fa-twitter"></i></a><a href="https://github.com/cromedome"><i class="fa fa-github"></i></a>)
+will be showing the work he's done on a Perl web client for the <a href="http://www.memento-mori.com/parsely/">Parsely
+RPG system</a>. Parsely games are much like the text adventures of yore.
+Jason will go over how Perl helped him build the client, and the modules
+and design decisions that went into the project.</p>
+
+<p><a href="https://www.meetup.com/ChicagoPM/events/243591009/">RSVP on the Chicago.PM Meetup</a>. Doors open at 6:30pm. Talk starts at 7:00pm.</p>
+
+            ]]></description>
+            <pubDate>
+                Fri, 22 Sep 2017 00:00:00 +0000
+            </pubDate>
+        </item>
+    </channel>
+</rss>

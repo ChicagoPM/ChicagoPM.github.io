@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Chicago.PM</title>
+        <link>http://127.0.0.1:57366/devops/1.html</link>
+        <atom:link href="http://127.0.0.1:57366/devops" rel="self" type="application/rss+xml" />
+        <description>Blog feed of Chicago.PM</description>
+        <generator>Statocles 2.000</generator>
+        <item>
+            <title>Logging and Analytics Using Perl and Fluentd</title>
+            <link>http://127.0.0.1:57366/blog/2016/04/22/logging-and-analytics-using-perl-and-fluentd/</link>
+            <guid>http://127.0.0.1:57366/blog/2016/04/22/logging-and-analytics-using-perl-and-fluentd/</guid>
+            <description><![CDATA[
+                <p>This month, <a href="http://www.cromedome.net">Jason Crome</a> is giving a talk on
+using <a href="http://www.fluentd.org">Fluentd</a> for logging, and Perl for
+analytics:</p>
+
+<blockquote>
+  <p>Logging is one of the most important pieces youâll have in any
+  large-scale software system, and in a massively multiplayer game itâs
+  even more critical. Using Ovidâs Veure MMO as an example, Iâll discuss
+  what we are logging and why, how we use fluentd to collect information
+  at all levels in the gameâs stack, and the tools and processes we use
+  to analyze that data.</p>
+</blockquote>
+
+<p><a href="http://www.meetup.com/ChicagoPM/events/230564694/">RSVP on the Chicago.PM Meetup</a></p>
+
+<p><em>EDIT</em>: <a href="http://www.slideshare.net/cromedome/logging-with-perl-and-fluentd">Slides for Logging and Analytics Using Perl and Fluentd have
+been posted to cromedome's
+Slideshare</a></p>
+
+            ]]></description>
+            <pubDate>
+                Fri, 22 Apr 2016 00:00:00 +0000
+            </pubDate>
+        </item>
+        <item>
+            <title>Travis-CI for Perl and Introduction to Rex</title>
+            <link>http://127.0.0.1:57366/blog/2016/03/18/travis-ci-for-perl-and-introduction-to-rex/</link>
+            <guid>http://127.0.0.1:57366/blog/2016/03/18/travis-ci-for-perl-and-introduction-to-rex/</guid>
+            <description><![CDATA[
+                <p>This month, <a href="http://preaction.me">Doug Bell</a> will be giving two short
+talks.</p>
+
+<p>One talk is about using <a href="https://travis-ci.org">Travis-CI, a free continuous integration
+testing service</a>, for Perl projects, and
+maximizing Travis's effectiveness. This talk introduces <a href="https://github.com/haarg">Graham
+Knop</a>'s <a href="https://github.com/travis-perl/helpers">Perl Travis
+Helpers</a>, gets you started using
+Travis-CI, and shows how to configure Travis to cover edge cases like
+very old Perls and missing optional modules/features (using
+<a href="http://metacpan.org/pod/Devel::Hide">Devel::Hide</a>).</p>
+
+<p>The other talk is an introduction to <a href="http://rexify.org">Rex, a Perl-based server
+configuration management system</a>. This talk was given
+informally at an office hours last year, but now it's a real talk with
+real slides! This talk introduces Rex, goes through simple configuration
+and tasks, and touches on some of the more powerful features of Rex such
+as the CMDB (Configuration Management Database).</p>
+
+<p><a href="http://www.meetup.com/ChicagoPM/events/229699475/">RSVP on the Meetup</a></p>
+
+<p>EDIT: Slides are now available for both talks on <a href="/talks">the Chicago.PM talks
+page</a>:</p>
+
+<ul>
+<li><a href="http://preaction.github.io/Introduction-to-Rex/">Introduction to Rex</a></li>
+<li><a href="http://preaction.github.io/Getting-The-Most-From-Travis-CI-For-Perl/">Getting the Most from Travis-CI for Perl</a></li>
+</ul>
+
+            ]]></description>
+            <pubDate>
+                Fri, 18 Mar 2016 00:00:00 +0000
+            </pubDate>
+        </item>
+    </channel>
+</rss>

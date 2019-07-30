@@ -1,0 +1,233 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Chicago.PM</title>
+        <link>http://127.0.0.1:57366/web/1.html</link>
+        <atom:link href="http://127.0.0.1:57366/web" rel="self" type="application/rss+xml" />
+        <description>Blog feed of Chicago.PM</description>
+        <generator>Statocles 2.000</generator>
+        <item>
+            <title>A Website For Yancy</title>
+            <link>http://127.0.0.1:57366/blog/2019/01/26/a-website-for-yancy/</link>
+            <guid>http://127.0.0.1:57366/blog/2019/01/26/a-website-for-yancy/</guid>
+            <description><![CDATA[
+                <p>This month, <a href="http://preaction.me">Doug Bell (preaction)</a> (<a href="http://twitter.com/preaction"><i class="fa fa-twitter"></i></a><a href="https://github.com/preaction"><i class="fa fa-github"></i></a>)
+gave a talk about <a href="http://mojolicious.org">the Mojolicious web framework</a>, <a href="http://preaction.me/yancy">the Yancy CMS</a>,
+<a href="http://metacpan.org/pod/Mojolicious::Plugin::PODViewer">the PODViewer documentation
+renderer</a>, and
+the <a href="http://metacpan.org/pod/Mojolicious::Command::export">Mojolicious export
+command</a>.</p>
+
+<p><a href="http://preaction.me/mojo/talks/a-website-for-yancy-chicago-pm-2019/">Slides for the talk are available at Doug's
+website</a></p>
+
+            ]]></description>
+            <pubDate>
+                Sat, 26 Jan 2019 00:00:00 +0000
+            </pubDate>
+        </item>
+        <item>
+            <title>All About CSS Flexbox</title>
+            <link>http://127.0.0.1:57366/blog/2017/07/20/all-about-css-flexbox/</link>
+            <guid>http://127.0.0.1:57366/blog/2017/07/20/all-about-css-flexbox/</guid>
+            <description><![CDATA[
+                <p>This month, <a href="http://preaction.me/">Doug Bell</a> will be talking about
+a CSS feature newly-supported by browsers: <a href="https://www.w3.org/TR/2012/CR-css3-flexbox-20120918/">The flexible box
+(flexbox)</a>.
+Flexboxes makes laying out rows or columns fast and easy. Simple things
+become much easier, and even complex layouts become simple and
+responsive for a variety of display devices like phones and tablets. If
+you haven't learned anything about CSS in the last few years, or if you
+know the pain of using CSS floats, come learn about flexbox!</p>
+
+<p><a href="http://preaction.me/">Doug Bell</a> has been developing websites since the
+time of table layouts and spacer GIFs (pronounced "jifs"). He's
+developed websites professionally for 10 years, and is the organizer of
+<a href="http://hashcss.com/">the #css support community</a> on <a href="http://freenode.net/">the Freenode IRC
+network</a>.</p>
+
+            ]]></description>
+            <pubDate>
+                Thu, 20 Jul 2017 00:00:00 +0000
+            </pubDate>
+        </item>
+        <item>
+            <title>Test Environments for Modern Web Apps</title>
+            <link>http://127.0.0.1:57366/blog/2017/03/17/test-environments-for-modern-web-apps/</link>
+            <guid>http://127.0.0.1:57366/blog/2017/03/17/test-environments-for-modern-web-apps/</guid>
+            <description><![CDATA[
+                <p>This month, <a href="http://wlindley.com">William Lindley</a> (<a href="http://github.com/lindleyw"><i class="fa fa-github"></i></a> <a href="http://blog.wlindley.com">blog</a>) will
+<a href="https://www.meetup.com/ChicagoPM/events/238505149/">talk about writing a test harness for modern Perl programs</a>
+using <a href="http://metacpan.org/pod/Test::More">Test::More</a>,
+<a href="http://mojolicious.org/perldoc/Test/Mojo">Test::Mojo</a> for the API, and
+<a href="https://metacpan.org/pod/DBIx::TempDB">DBIx::TempDB</a> for the
+database.</p>
+
+<p>Building, testing, and deploying actual systems is more complex than
+merely writing a program. Real testing often needs to be done against
+databases of known large or problematic datasets. A test environment
+cannot affect production data. Staging even minor changes, so we can
+preview and find errors before moving to production servers, can prevent
+expensive errors. The "best practices" in this field are relatively new
+and still changing, and we look at the first steps from "I built this
+mockup last night" by building the test suite for a simple
+database-driven file-upload service with
+<a href="http://mojolicious.org">Mojolicious</a>.</p>
+
+<p>William Lindley has been hacking computers (in the good sense) since
+1977, a database advocate since dBase II and PostgreSQL-predecessor
+Ingres in the 1980s, a Perl monger since 1994, and a free-software
+promoter since first getting Linux to run XWindows in 1995.</p>
+
+<p>If time permits, <a href="http://preaction.me">Doug Bell (preaction)</a> (<a href="http://twitter.com/preaction"><i class="fa fa-twitter"></i></a><a href="https://github.com/preaction"><i class="fa fa-github"></i></a>) will
+show a simple app to mock JSON REST APIs for testing using Mojolicious.</p>
+
+<p><a href="https://www.meetup.com/ChicagoPM/events/238505149/">RSVP for the meeting on the Chicago.PM
+Meetup</a></p>
+
+            ]]></description>
+            <pubDate>
+                Fri, 17 Mar 2017 00:00:00 +0000
+            </pubDate>
+        </item>
+        <item>
+            <title>Accepting Payments on the Web</title>
+            <link>http://127.0.0.1:57366/blog/2016/09/14/accepting-payments-on-the-web/</link>
+            <guid>http://127.0.0.1:57366/blog/2016/09/14/accepting-payments-on-the-web/</guid>
+            <description><![CDATA[
+                <p>This month, <a href="http://www.noelrappin.com">Noel Rappin</a> will be talking
+about accepting payments on the web:</p>
+
+<blockquote>
+  <p>Your customers have money, and youâd like them to give it to you.
+  Payment gateways, such as <a href="https://stripe.com">Stripe</a>,
+  <a href="https://www.braintreepayments.com">Braintree</a>, and
+  <a href="https://paypal.com">Paypal</a>, make it easy to start charging credit
+  cards and get the money flowing. But charging cards is only the
+  beginning. You need to worry that your app responds gracefully to
+  service failures, since charging a customer for a failed transaction
+  is bad. You need to guard against fraud and security breaches. You
+  need administrative tools that are flexible but secure.  You want to
+  test against external services. And youâll run up against the law.
+  Learn from some of my mistakes and build a robust financial
+  application.</p>
+</blockquote>
+
+<p><a href="http://www.noelrappin.com">Noel Rappin</a> is the Director of Development
+at [Table XI]. Noel has authored multiple technical books, including
+<a href="http://pragprog.com/book/nrtest2/rails-4-test-prescriptions">"Rails 4 Test
+Prescriptions"</a>,
+<a href="https://noelrappin.dpdcart.com/cart/add?product_id=65638&amp;method_id=67542">"Trust-Driven
+Development"</a>,
+and the forthcoming "Take My Money: Accepting Payments on the Web".
+<a href="http://twitter.com/noelrap">Follow Noel on Twitter @noelrap</a>, and
+online at <a href="http://www.noelrappin.com">http://www.noelrappin.com</a>.</p>
+
+            ]]></description>
+            <pubDate>
+                Wed, 14 Sep 2016 00:00:00 +0000
+            </pubDate>
+        </item>
+        <item>
+            <title>Joel Berger on Mojolicious</title>
+            <link>http://127.0.0.1:57366/blog/2016/09/01/joel-berger-on-mojolicious/</link>
+            <guid>http://127.0.0.1:57366/blog/2016/09/01/joel-berger-on-mojolicious/</guid>
+            <description><![CDATA[
+                <p>For episode 3 of <a href="http://code-maven.com/cmos">Gabor Szabo's CMOS
+Podcast</a>, <a href="http://blogs.perl.org/users/joel_berger/">Joel
+Berger</a> talks about <a href="http://mojolicious.org">the
+Mojolicious Perl web framework</a>.</p>
+
+<p><a href="http://code-maven.com/cmos-3-joel-berger-mojolicious">Listen to CMOS Episode 3: Joel Berger on
+Mojolicious</a></p>
+
+            ]]></description>
+            <pubDate>
+                Thu, 01 Sep 2016 00:00:00 +0000
+            </pubDate>
+        </item>
+        <item>
+            <title>Interview about Perl Dancer 2</title>
+            <link>http://127.0.0.1:57366/blog/2016/08/29/interview-about-perl-dancer-2/</link>
+            <guid>http://127.0.0.1:57366/blog/2016/08/29/interview-about-perl-dancer-2/</guid>
+            <description><![CDATA[
+                <p><a href="http://szabgab.com">Gabor Szabo</a> started a podcast called <a href="http://code-maven.com/cmos">CMOS: Code
+Maven Open Source news</a> and interviewed
+<a href="https://crome-plated.com/about">Jason Crome</a> for his first episode.</p>
+
+<p><a href="http://code-maven.com/cmos-1-jason-crome-perl-dancer2">Listen to Code Maven Open Source (CMOS) interviewing Jason Crome about
+Perl Dancer 2</a></p>
+
+            ]]></description>
+            <pubDate>
+                Mon, 29 Aug 2016 00:00:00 +0000
+            </pubDate>
+        </item>
+        <item>
+            <title>New Dancer2 Release with Security and Bug Fixes</title>
+            <link>http://127.0.0.1:57366/blog/2016/08/24/new-dancer2-release-with-security-and-bug-fixes/</link>
+            <guid>http://127.0.0.1:57366/blog/2016/08/24/new-dancer2-release-with-security-and-bug-fixes/</guid>
+            <description><![CDATA[
+                <p><a href="https://crome-plated.com/about">Jason Crome</a> has announced a new
+release of <a href="http://perldancer.org">the Dancer2 Perl web framework</a>. This
+release includes some improved security best practices and bugfixes.</p>
+
+<p><a href="http://blogs.perl.org/users/jason_a_crome/2016/08/dancer2-0203000-improves-session-security-fixes-decoding-bugs.html">Read more about the Dancer2 release on Jason's blog at
+blogs.perl.org</a></p>
+
+            ]]></description>
+            <pubDate>
+                Wed, 24 Aug 2016 00:00:00 +0000
+            </pubDate>
+        </item>
+        <item>
+            <title>Super Easy SSL Certs for Mojolicious Apps</title>
+            <link>http://127.0.0.1:57366/blog/2016/03/20/super-easy-ssl-certs-for-mojolicious-apps/</link>
+            <guid>http://127.0.0.1:57366/blog/2016/03/20/super-easy-ssl-certs-for-mojolicious-apps/</guid>
+            <description><![CDATA[
+                <p><a href="http://jberger.github.io">Joel Berger</a> wrote a blog post about <a href="http://blogs.perl.org/users/joel_berger/2016/03/super-easy-ssl-certs-for-mojolicious-apps.html">using LetsEncrypt in your
+Mojolicious
+application</a>.
+<a href="https://letsencrypt.org">LetsEncrypt is a free, automated SSL certificate authority</a>, and
+allows you to get SSL encryption on your website without the hassle and
+expense of dealing with the current style of CA.</p>
+
+<p><a href="http://blogs.perl.org/users/joel_berger/2016/03/super-easy-ssl-certs-for-mojolicious-apps.html">Read Super Easy SSL Certs for Mojolicious Apps on
+blogs.perl.org</a></p>
+
+            ]]></description>
+            <pubDate>
+                Sun, 20 Mar 2016 00:00:00 +0000
+            </pubDate>
+        </item>
+        <item>
+            <title>Testing PSGI With Test::Mojo and Stupid Websocket Tricks</title>
+            <link>http://127.0.0.1:57366/blog/2015/12/03/testing-psgi-with-test-mojo-and-stupid-websocket-tricks/</link>
+            <guid>http://127.0.0.1:57366/blog/2015/12/03/testing-psgi-with-test-mojo-and-stupid-websocket-tricks/</guid>
+            <description><![CDATA[
+                <p>We've got a couple short talks scheduled for this month, and we've got
+a new venue, generously provided by <a href="http://www.servercentral.com">ServerCentral</a>.</p>
+
+<p><a href="http://metacpan.org/author/JBERGER">Joel Berger</a> is going to give
+a talk on testing any <a href="http://plackperl.org">PSGI application</a> with
+<a href="http://mojolicio.us/perldoc/Test/Mojo">Test::Mojo, Mojolicious's excellent web testing
+library.</a></p>
+
+<p>And, <a href="http://metacpan.org/author/PREACTION">Doug Bell</a> is going to give
+a talk on some simple websocket tricks with <a href="http://metacpan.org/pod/mercury">Mercury, a WebSocket
+message broker</a>, <a href="http://mojolicio.us">Mojolicious</a>
+and <a href="http://mojolicio.us/perldoc/Mojo/UserAgent">Mojo::UserAgent</a>.</p>
+
+<p>Due to the holidays, our meeting will be on December 10. <a href="http://www.meetup.com/ChicagoPM/events/226879320/">RSVP on the
+Chicago.PM Meetup</a></p>
+
+<p>(EDIT: Slides from the <a href="http://preaction.github.io/Stupid-Websocket-Tricks-With-Perl/">simple WebSocket tricks talk are now
+available</a>)</p>
+
+            ]]></description>
+            <pubDate>
+                Thu, 03 Dec 2015 00:00:00 +0000
+            </pubDate>
+        </item>
+    </channel>
+</rss>

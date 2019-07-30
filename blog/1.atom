@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://127.0.0.1:57366/blog</id>
+    <title>Chicago.PM</title>
+    <updated>2019-07-29T23:44:07Z</updated>
+    <link rel="self" href="http://127.0.0.1:57366/blog/1.html"/>
+    <link rel="alternate" href="http://127.0.0.1:57366/blog"/>
+    <generator version="2.000">Statocles</generator>
+
+    <entry>
+        <id>http://127.0.0.1:57366/blog/2016/12/06/what-happened-at-the-metacpan-hackathon/blog/2016/12/06/what-happened-at-the-metacpan-hackathon/</id>
+        <title>What Happened At The MetaCPAN Hackathon</title>
+        <link rel="alternate" href="http://127.0.0.1:57366/blog/2016/12/06/what-happened-at-the-metacpan-hackathon/" />
+        <content type="html"><![CDATA[
+            <p>The <a href="https://metacpan.org/about/meta_hack">MetaCPAN hackathon</a> here in
+Chicago has come and gone, and those who participated have written about
+what they accomplished. <a href="https://metacpan.org/about/meta_hack">All the after-hackathon reports are linked on
+the meta::hack page</a>. From our own
+members, <a href="http://blogs.perl.org/users/preaction/2016/11/metahack-log.html">Doug Bell wrote about his meta::hack
+accomplishments</a>
+and <a href="http://blogs.perl.org/users/joel_berger/2016/12/metahack-2016.html">Joel Berger also wrote about his meta::hack
+accomplishments</a>.
+Thanks to <a href="https://metacpan.org/about/meta_hack">the sponsors who made meta::hack
+happen</a>.</p>
+
+        ]]></content>
+        <updated>2016-12-06T00:00:00Z</updated>
+    </entry>
+    <entry>
+        <id>http://127.0.0.1:57366/blog/2016/09/17/metacpan-hackathon-in-chicago/blog/2016/09/17/metacpan-hackathon-in-chicago/</id>
+        <title>MetaCPAN Hackathon in Chicago</title>
+        <link rel="alternate" href="http://127.0.0.1:57366/blog/2016/09/17/metacpan-hackathon-in-chicago/" />
+        <content type="html"><![CDATA[
+            <p><a href="http://www.olafalders.com/2016/09/17/announcing-metahack/">Olaf Alders has announced meta::hack, a MetaCPAN hackathon in
+Chicago</a>.
+<a href="http://www.metacpan.org">MetaCPAN</a> is the best place to search for CPAN
+modules, and includes lots of useful information like documentation,
+links to the source repository and bug tracker, and a summary of <a href="http://www.cpantesters.org">CPAN
+Testers</a> results.</p>
+
+<p>Much like the <a href="http://act.qa-hackathon.org/qa2016/">Perl QA Hackathon</a>,
+this event will get the core MetaCPAN team together to achieve a few
+targeted goals. The biggest current goal is to get the platform upgraded
+to ElasticSearch version 2, but other, smaller tasks may come up as
+well.</p>
+
+<p>If you can help, <a href="http://www.olafalders.com/2016/09/17/announcing-metahack/">sponsor the meta::hack
+hackathon</a>.
+Sponsorship will help pay for travel expenses for the team so they can
+concentrate on making MetaCPAN better.</p>
+
+        ]]></content>
+        <updated>2016-09-17T00:00:00Z</updated>
+    </entry>
+    <entry>
+        <id>http://127.0.0.1:57366/blog/2016/08/24/new-dancer2-release-with-security-and-bug-fixes/blog/2016/08/24/new-dancer2-release-with-security-and-bug-fixes/</id>
+        <title>New Dancer2 Release with Security and Bug Fixes</title>
+        <link rel="alternate" href="http://127.0.0.1:57366/blog/2016/08/24/new-dancer2-release-with-security-and-bug-fixes/" />
+        <content type="html"><![CDATA[
+            <p><a href="https://crome-plated.com/about">Jason Crome</a> has announced a new
+release of <a href="http://perldancer.org">the Dancer2 Perl web framework</a>. This
+release includes some improved security best practices and bugfixes.</p>
+
+<p><a href="http://blogs.perl.org/users/jason_a_crome/2016/08/dancer2-0203000-improves-session-security-fixes-decoding-bugs.html">Read more about the Dancer2 release on Jason's blog at
+blogs.perl.org</a></p>
+
+        ]]></content>
+        <updated>2016-08-24T00:00:00Z</updated>
+    </entry>
+    <entry>
+        <id>http://127.0.0.1:57366/blog/2016/04/30/blog-cpantesters-at-the-perl-qa-hackathon/blog/2016/04/30/blog-cpantesters-at-the-perl-qa-hackathon/</id>
+        <title>Blog: CPANTesters at the Perl QA Hackathon</title>
+        <link rel="alternate" href="http://127.0.0.1:57366/blog/2016/04/30/blog-cpantesters-at-the-perl-qa-hackathon/" />
+        <content type="html"><![CDATA[
+            <p><a href="http://preaction.me">Doug Bell</a>, the new leader of <a href="http://cpantesters.org">the CPANTesters
+project</a>, blogged about his accomplishments at
+<a href="http://act.qa-hackathon.org/qa2016/">this year's Perl QA Hackathon</a>,
+including tracking <a href="http://github.com/cpan-testers/cpantesters-project">the CPANTesters project
+goals</a> and starting
+<a href="http://github.com/cpan-testers/cpantesters-deploy">an automated deploy for
+CPANTesters</a> using
+<a href="http://rexify.org">Rex, a Perl-based devops tool</a>.</p>
+
+<p>Read Doug's post on his website:
+<a href="http://preaction.me/blog/2016/04/30/perl-qa-hackathon-cpantesters/">http://preaction.me/blog/2016/04/30/perl-qa-hackathon-cpantesters/</a></p>
+
+        ]]></content>
+        <updated>2016-04-30T00:00:00Z</updated>
+    </entry>
+    <entry>
+        <id>http://127.0.0.1:57366/blog/2016/04/30/blog-reflections-on-test2/blog/2016/04/30/blog-reflections-on-test2/</id>
+        <title>Blog: Reflections on Test2</title>
+        <link rel="alternate" href="http://127.0.0.1:57366/blog/2016/04/30/blog-reflections-on-test2/" />
+        <content type="html"><![CDATA[
+            <p><a href="http://jberger.github.io">Joel Berger</a> wrote <a href="http://blogs.perl.org/users/joel_berger/2016/04/reflections-on-test2.html">a blog post reflecting on
+Test2</a>
+<a href="https://github.com/exodist">Chad Granum's (Exodist)</a>
+new core test library. (<a href="http://metacpan.org/pod/Test2">Read more about Test2 on Metacpan</a>).</p>
+
+<p>In his post, Joel explains the rationale behind Test2, the history that
+has led to this situation, and the path forward getting Test2 into the
+Perl core.</p>
+
+<p>Read Joel's post on blogs.perl.org:
+<a href="http://blogs.perl.org/users/joel_berger/2016/04/reflections-on-test2.html">http://blogs.perl.org/users/joel_berger/2016/04/reflections-on-test2.html</a></p>
+
+        ]]></content>
+        <updated>2016-04-30T00:00:00Z</updated>
+    </entry>
+    <entry>
+        <id>http://127.0.0.1:57366/blog/2016/03/20/super-easy-ssl-certs-for-mojolicious-apps/blog/2016/03/20/super-easy-ssl-certs-for-mojolicious-apps/</id>
+        <title>Super Easy SSL Certs for Mojolicious Apps</title>
+        <link rel="alternate" href="http://127.0.0.1:57366/blog/2016/03/20/super-easy-ssl-certs-for-mojolicious-apps/" />
+        <content type="html"><![CDATA[
+            <p><a href="http://jberger.github.io">Joel Berger</a> wrote a blog post about <a href="http://blogs.perl.org/users/joel_berger/2016/03/super-easy-ssl-certs-for-mojolicious-apps.html">using LetsEncrypt in your
+Mojolicious
+application</a>.
+<a href="https://letsencrypt.org">LetsEncrypt is a free, automated SSL certificate authority</a>, and
+allows you to get SSL encryption on your website without the hassle and
+expense of dealing with the current style of CA.</p>
+
+<p><a href="http://blogs.perl.org/users/joel_berger/2016/03/super-easy-ssl-certs-for-mojolicious-apps.html">Read Super Easy SSL Certs for Mojolicious Apps on
+blogs.perl.org</a></p>
+
+        ]]></content>
+        <updated>2016-03-20T00:00:00Z</updated>
+    </entry>
+</feed>

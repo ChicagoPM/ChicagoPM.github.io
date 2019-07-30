@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://127.0.0.1:57366/development</id>
+    <title>Chicago.PM</title>
+    <updated>2019-07-29T23:44:09Z</updated>
+    <link rel="self" href="http://127.0.0.1:57366/development/1.html"/>
+    <link rel="alternate" href="http://127.0.0.1:57366/development"/>
+    <generator version="2.000">Statocles</generator>
+
+    <entry>
+        <id>http://127.0.0.1:57366/blog/2016/08/18/perl-development-environment/blog/2016/08/18/perl-development-environment/</id>
+        <title>Perl Development Environment</title>
+        <link rel="alternate" href="http://127.0.0.1:57366/blog/2016/08/18/perl-development-environment/" />
+        <content type="html"><![CDATA[
+            <p>This month, <a href="https://crome-plated.com">Jason Crome</a> will be giving a talk on Perl development
+environment tooling like <a href="https://perlbrew.pl/">perlbrew</a>,
+<a href="https://github.com/tokuhirom/plenv">plenv</a>, and
+<a href="https://metacpan.org/pod/Carton">Carton</a>. These tools help to manage
+different Perl versions, different module versions, and help to isolate
+your development environments to help make dependency version problems
+manageable.</p>
+
+<p>Bring your questions and your own experiences with maintaining a Perl
+development environment.</p>
+
+<p><a href="https://www.meetup.com/ChicagoPM/events/232972645/">RSVP on the Chicago.PM Meetup</a></p>
+
+<p><em>EDIT</em>: <a href="http://www.slideshare.net/cromedome/perl-development-environment-tooling">Slides for Perl Development Environment Tooling have been
+posted to cromedome's
+Slideshare</a></p>
+
+        ]]></content>
+        <updated>2016-08-18T00:00:00Z</updated>
+    </entry>
+</feed>

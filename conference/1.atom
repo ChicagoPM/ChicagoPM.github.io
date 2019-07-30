@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://127.0.0.1:57366/conference</id>
+    <title>Chicago.PM</title>
+    <updated>2019-07-29T23:44:08Z</updated>
+    <link rel="self" href="http://127.0.0.1:57366/conference/1.html"/>
+    <link rel="alternate" href="http://127.0.0.1:57366/conference"/>
+    <generator version="2.000">Statocles</generator>
+
+    <entry>
+        <id>http://127.0.0.1:57366/blog/2017/06/12/the-perl-conference-post-meeting/blog/2017/06/12/the-perl-conference-post-meeting/</id>
+        <title>The Perl Conference Post-Meeting</title>
+        <link rel="alternate" href="http://127.0.0.1:57366/blog/2017/06/12/the-perl-conference-post-meeting/" />
+        <content type="html"><![CDATA[
+            <p>This month is <a href="http://www.perlconference.us/tpc-2017-dc/">The Perl Conference</a>
+(formerly YAPC). Because of this, we have to move our meeting to June 29th. At
+the meeting we'll discuss the talks and announcements from the conference over
+food and drinks! <a href="https://www.meetup.com/ChicagoPM/events/240742773/">RSVP for the meeting on our Meetup
+page</a>.</p>
+
+<p>If you haven't already, be sure to join the Chicago Perl Mongers on Slack using
+<a href="http://chicagotechslack.com">http://chicagotechslack.com</a>. We're in the #perl channel, and I'll be talking
+about the things I see at the conference.</p>
+
+        ]]></content>
+        <updated>2017-06-12T00:00:00Z</updated>
+    </entry>
+</feed>

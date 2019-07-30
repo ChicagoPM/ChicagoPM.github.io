@@ -1,0 +1,280 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://127.0.0.1:57366/meeting</id>
+    <title>Chicago.PM</title>
+    <updated>2019-07-29T23:44:12Z</updated>
+    <link rel="self" href="http://127.0.0.1:57366/meeting/1.html"/>
+    <link rel="alternate" href="http://127.0.0.1:57366/meeting"/>
+    <generator version="2.000">Statocles</generator>
+
+    <entry>
+        <id>http://127.0.0.1:57366/blog/2019/01/26/a-website-for-yancy/blog/2019/01/26/a-website-for-yancy/</id>
+        <title>A Website For Yancy</title>
+        <link rel="alternate" href="http://127.0.0.1:57366/blog/2019/01/26/a-website-for-yancy/" />
+        <content type="html"><![CDATA[
+            <p>This month, <a href="http://preaction.me">Doug Bell (preaction)</a> (<a href="http://twitter.com/preaction"><i class="fa fa-twitter"></i></a><a href="https://github.com/preaction"><i class="fa fa-github"></i></a>)
+gave a talk about <a href="http://mojolicious.org">the Mojolicious web framework</a>, <a href="http://preaction.me/yancy">the Yancy CMS</a>,
+<a href="http://metacpan.org/pod/Mojolicious::Plugin::PODViewer">the PODViewer documentation
+renderer</a>, and
+the <a href="http://metacpan.org/pod/Mojolicious::Command::export">Mojolicious export
+command</a>.</p>
+
+<p><a href="http://preaction.me/mojo/talks/a-website-for-yancy-chicago-pm-2019/">Slides for the talk are available at Doug's
+website</a></p>
+
+        ]]></content>
+        <updated>2019-01-26T00:00:00Z</updated>
+    </entry>
+    <entry>
+        <id>http://127.0.0.1:57366/blog/2017/09/22/parsely-rpg-client/blog/2017/09/22/parsely-rpg-client/</id>
+        <title>Parsely RPG Client</title>
+        <link rel="alternate" href="http://127.0.0.1:57366/blog/2017/09/22/parsely-rpg-client/" />
+        <content type="html"><![CDATA[
+            <p>This month, <a href="https://crome-plated.com/">Jason A Crome (cromedome)</a> (<a href="https://twitter.com/cromedome"><i class="fa fa-twitter"></i></a><a href="https://github.com/cromedome"><i class="fa fa-github"></i></a>)
+will be showing the work he's done on a Perl web client for the <a href="http://www.memento-mori.com/parsely/">Parsely
+RPG system</a>. Parsely games are much like the text adventures of yore.
+Jason will go over how Perl helped him build the client, and the modules
+and design decisions that went into the project.</p>
+
+<p><a href="https://www.meetup.com/ChicagoPM/events/243591009/">RSVP on the Chicago.PM Meetup</a>. Doors open at 6:30pm. Talk starts at 7:00pm.</p>
+
+        ]]></content>
+        <updated>2017-09-22T00:00:00Z</updated>
+    </entry>
+    <entry>
+        <id>http://127.0.0.1:57366/blog/2017/07/20/all-about-css-flexbox/blog/2017/07/20/all-about-css-flexbox/</id>
+        <title>All About CSS Flexbox</title>
+        <link rel="alternate" href="http://127.0.0.1:57366/blog/2017/07/20/all-about-css-flexbox/" />
+        <content type="html"><![CDATA[
+            <p>This month, <a href="http://preaction.me/">Doug Bell</a> will be talking about
+a CSS feature newly-supported by browsers: <a href="https://www.w3.org/TR/2012/CR-css3-flexbox-20120918/">The flexible box
+(flexbox)</a>.
+Flexboxes makes laying out rows or columns fast and easy. Simple things
+become much easier, and even complex layouts become simple and
+responsive for a variety of display devices like phones and tablets. If
+you haven't learned anything about CSS in the last few years, or if you
+know the pain of using CSS floats, come learn about flexbox!</p>
+
+<p><a href="http://preaction.me/">Doug Bell</a> has been developing websites since the
+time of table layouts and spacer GIFs (pronounced "jifs"). He's
+developed websites professionally for 10 years, and is the organizer of
+<a href="http://hashcss.com/">the #css support community</a> on <a href="http://freenode.net/">the Freenode IRC
+network</a>.</p>
+
+        ]]></content>
+        <updated>2017-07-20T00:00:00Z</updated>
+    </entry>
+    <entry>
+        <id>http://127.0.0.1:57366/blog/2017/06/12/the-perl-conference-post-meeting/blog/2017/06/12/the-perl-conference-post-meeting/</id>
+        <title>The Perl Conference Post-Meeting</title>
+        <link rel="alternate" href="http://127.0.0.1:57366/blog/2017/06/12/the-perl-conference-post-meeting/" />
+        <content type="html"><![CDATA[
+            <p>This month is <a href="http://www.perlconference.us/tpc-2017-dc/">The Perl Conference</a>
+(formerly YAPC). Because of this, we have to move our meeting to June 29th. At
+the meeting we'll discuss the talks and announcements from the conference over
+food and drinks! <a href="https://www.meetup.com/ChicagoPM/events/240742773/">RSVP for the meeting on our Meetup
+page</a>.</p>
+
+<p>If you haven't already, be sure to join the Chicago Perl Mongers on Slack using
+<a href="http://chicagotechslack.com">http://chicagotechslack.com</a>. We're in the #perl channel, and I'll be talking
+about the things I see at the conference.</p>
+
+        ]]></content>
+        <updated>2017-06-12T00:00:00Z</updated>
+    </entry>
+    <entry>
+        <id>http://127.0.0.1:57366/blog/2017/05/05/mysql-database-performance-for-developers/blog/2017/05/05/mysql-database-performance-for-developers/</id>
+        <title>MySQL Database Performance For Developers</title>
+        <link rel="alternate" href="http://127.0.0.1:57366/blog/2017/05/05/mysql-database-performance-for-developers/" />
+        <content type="html"><![CDATA[
+            <p>This month's presentation will be on MySQL Database Performance:</p>
+
+<blockquote>
+  <p>Let's face it, when it comes to databases, developers and DBAs don't
+  often see eye-to-eye. This talk will help bridge the gap using a common
+  goal, "Database Performance".</p>
+  
+  <p>If you're a developer, you've probably used a query that was performing
+  poorly.  Many times the solution is seeking help from a DBA. The DBA
+  performs some magic behind a curtain, and all the sudden the query is
+  running fast. Wouldn't it be nice to take a peek behind the curtain to
+  see the magic being performed? During this talk, we'll discuss several
+  aspects of the database that can affect performance. This includes
+  schema design, indexes, and queries. We'll also look at some real life
+  examples of slow performance and performance solutions.</p>
+</blockquote>
+
+<p>Jeremy Glick is a MySQL Database Engineer at
+<a href="https://www.ziprecruiter.com">ZipRecruiter</a>. Before that, he worked as
+a consultant for various technology companies with systems ranging from
+dozens to hundreds of database servers. Jeremy is also the organizer of
+the <a href="https://www.meetup.com/mysql-5/">Chicago MySQL Meetup</a>. He holds
+multiple MySQL certifications and is a RedHat RHCE.</p>
+
+<p><a href="https://www.meetup.com/ChicagoPM/events/239773480/">RSVP on the Chicago.PM Meetup</a></p>
+
+<p>Due to Joel and Doug being at the <a href="http://act.qa-hackathon.org/qa2017/">Perl Toolchain
+Summit</a>, we have to
+cancel the Office Hours this month. We'll have Office Hours again next
+month.</p>
+
+        ]]></content>
+        <updated>2017-05-05T00:00:00Z</updated>
+    </entry>
+    <entry>
+        <id>http://127.0.0.1:57366/blog/2017/03/17/test-environments-for-modern-web-apps/blog/2017/03/17/test-environments-for-modern-web-apps/</id>
+        <title>Test Environments for Modern Web Apps</title>
+        <link rel="alternate" href="http://127.0.0.1:57366/blog/2017/03/17/test-environments-for-modern-web-apps/" />
+        <content type="html"><![CDATA[
+            <p>This month, <a href="http://wlindley.com">William Lindley</a> (<a href="http://github.com/lindleyw"><i class="fa fa-github"></i></a> <a href="http://blog.wlindley.com">blog</a>) will
+<a href="https://www.meetup.com/ChicagoPM/events/238505149/">talk about writing a test harness for modern Perl programs</a>
+using <a href="http://metacpan.org/pod/Test::More">Test::More</a>,
+<a href="http://mojolicious.org/perldoc/Test/Mojo">Test::Mojo</a> for the API, and
+<a href="https://metacpan.org/pod/DBIx::TempDB">DBIx::TempDB</a> for the
+database.</p>
+
+<p>Building, testing, and deploying actual systems is more complex than
+merely writing a program. Real testing often needs to be done against
+databases of known large or problematic datasets. A test environment
+cannot affect production data. Staging even minor changes, so we can
+preview and find errors before moving to production servers, can prevent
+expensive errors. The "best practices" in this field are relatively new
+and still changing, and we look at the first steps from "I built this
+mockup last night" by building the test suite for a simple
+database-driven file-upload service with
+<a href="http://mojolicious.org">Mojolicious</a>.</p>
+
+<p>William Lindley has been hacking computers (in the good sense) since
+1977, a database advocate since dBase II and PostgreSQL-predecessor
+Ingres in the 1980s, a Perl monger since 1994, and a free-software
+promoter since first getting Linux to run XWindows in 1995.</p>
+
+<p>If time permits, <a href="http://preaction.me">Doug Bell (preaction)</a> (<a href="http://twitter.com/preaction"><i class="fa fa-twitter"></i></a><a href="https://github.com/preaction"><i class="fa fa-github"></i></a>) will
+show a simple app to mock JSON REST APIs for testing using Mojolicious.</p>
+
+<p><a href="https://www.meetup.com/ChicagoPM/events/238505149/">RSVP for the meeting on the Chicago.PM
+Meetup</a></p>
+
+        ]]></content>
+        <updated>2017-03-17T00:00:00Z</updated>
+    </entry>
+    <entry>
+        <id>http://127.0.0.1:57366/blog/2017/02/14/perl-6-grammars-and-logging-in-perl-5/blog/2017/02/14/perl-6-grammars-and-logging-in-perl-5/</id>
+        <title>Perl 6 Grammars and Logging in Perl 5</title>
+        <link rel="alternate" href="http://127.0.0.1:57366/blog/2017/02/14/perl-6-grammars-and-logging-in-perl-5/" />
+        <content type="html"><![CDATA[
+            <p>This month, we have a special meeting:
+<a href="https://www.effectiveperlprogramming.com">brian d foy</a> (<a href="http://twitter.com/briandfoy_perl"><i class="fa fa-twitter"></i></a><a href="https://github.com/briandfoy"><i class="fa fa-github"></i></a>) will be giving <a href="https://www.meetup.com/ChicagoPM/events/237694944/">a
+talk about Perl 6 Grammars on Thursday, February
+16</a>. <a href="https://docs.perl6.org/language/grammars">Grammars in
+Perl 6</a> are the evolved form
+of Perl 5 regular expressions that allow even more power and
+flexibility, while still being easier to use. <a href="https://www.meetup.com/ChicagoPM/events/237694944/">RSVP for this special
+talk about Perl 6 Grammars on the Chicago.PM
+Meetup</a>.</p>
+
+<p>For our regular meeting, <a href="http://preaction.me">Doug Bell (preaction)</a> (<a href="http://twitter.com/preaction"><i class="fa fa-twitter"></i></a><a href="https://github.com/preaction"><i class="fa fa-github"></i></a>) will
+be giving <a href="https://www.meetup.com/ChicagoPM/events/237417941/">a talk about Logging for Programs Tiny and
+Large</a>. It will
+cover various ways to add logging and reporting to your Perl programs,
+including built-ins like
+<a href="http://perldoc.perl.org/functions/warn.html"><code>warn</code></a>, core modules like
+<a href="https://metacpan.org/pod/Sys::Syslog"><code>Sys::Syslog</code></a>, and CPAN modules
+like <a href="https://metacpan.org/pod/Log::Any"><code>Log::Any</code></a> and
+<a href="http://mschilli.github.io/log4perl/"><code>Log::Log4perl</code></a>. <a href="https://www.meetup.com/ChicagoPM/events/237417941/">RSVP for the
+talk about Logging in Perl 5 on the Chicago.PM
+Meetup</a>.</p>
+
+<p>We also need speakers for March and further on the rest of the year. If
+you're interested in talking for 20 minutes or 40 minutes about any
+topic at least tangentially related to developing software with Perl,
+<a href="mailto:doug@preaction.me">e-mail me</a> or <a href="https://docs.google.com/spreadsheets/d/13NUmlmW2bTlMHf8-waPKIlF69Cfv6msHnkfu9bAdsFA/edit">sign-up on our
+spreadsheet</a>.
+If you'd like to contribute, but don't know what to talk about, <a href="https://docs.google.com/document/d/1FLJS2xUA4K1eMDL7kCUbY__zWuN62nRgorGxf4AOsK4/edit#heading=h.qxraadgh4vb4">check
+out our list of talk
+ideas</a>.</p>
+
+        ]]></content>
+        <updated>2017-02-14T00:00:00Z</updated>
+    </entry>
+    <entry>
+        <id>http://127.0.0.1:57366/blog/2017/01/17/variables-scoping-and-namespaces/blog/2017/01/17/variables-scoping-and-namespaces/</id>
+        <title>Variables, Scoping, and Namespaces</title>
+        <link rel="alternate" href="http://127.0.0.1:57366/blog/2017/01/17/variables-scoping-and-namespaces/" />
+        <content type="html"><![CDATA[
+            <p>This month, <a href="http://blogs.perl.org/users/joel_berger/">Joel Berger</a> (<a href="http://twitter.com/joelaberger"><i class="fa fa-twitter"></i></a><a href="http://github.com/jberger"><i class="fa fa-github"></i></a>) will
+give a talk on Perl variable scoping rules, including the <code>my</code>, <code>our</code>,
+and <code>local</code> keywords, how they work, and some interesting ways they can
+be used.</p>
+
+<p><a href="https://www.meetup.com/ChicagoPM/events/236748063">RSVP on the Chicago.PM Meetup
+page</a></p>
+
+<p>(EDIT: <a href="/talks">Slides for Variables, Scoping, and Namespaces are available on
+the talks page</a>)</p>
+
+        ]]></content>
+        <updated>2017-01-17T00:00:00Z</updated>
+    </entry>
+    <entry>
+        <id>http://127.0.0.1:57366/blog/2016/09/14/accepting-payments-on-the-web/blog/2016/09/14/accepting-payments-on-the-web/</id>
+        <title>Accepting Payments on the Web</title>
+        <link rel="alternate" href="http://127.0.0.1:57366/blog/2016/09/14/accepting-payments-on-the-web/" />
+        <content type="html"><![CDATA[
+            <p>This month, <a href="http://www.noelrappin.com">Noel Rappin</a> will be talking
+about accepting payments on the web:</p>
+
+<blockquote>
+  <p>Your customers have money, and youâd like them to give it to you.
+  Payment gateways, such as <a href="https://stripe.com">Stripe</a>,
+  <a href="https://www.braintreepayments.com">Braintree</a>, and
+  <a href="https://paypal.com">Paypal</a>, make it easy to start charging credit
+  cards and get the money flowing. But charging cards is only the
+  beginning. You need to worry that your app responds gracefully to
+  service failures, since charging a customer for a failed transaction
+  is bad. You need to guard against fraud and security breaches. You
+  need administrative tools that are flexible but secure.  You want to
+  test against external services. And youâll run up against the law.
+  Learn from some of my mistakes and build a robust financial
+  application.</p>
+</blockquote>
+
+<p><a href="http://www.noelrappin.com">Noel Rappin</a> is the Director of Development
+at [Table XI]. Noel has authored multiple technical books, including
+<a href="http://pragprog.com/book/nrtest2/rails-4-test-prescriptions">"Rails 4 Test
+Prescriptions"</a>,
+<a href="https://noelrappin.dpdcart.com/cart/add?product_id=65638&amp;method_id=67542">"Trust-Driven
+Development"</a>,
+and the forthcoming "Take My Money: Accepting Payments on the Web".
+<a href="http://twitter.com/noelrap">Follow Noel on Twitter @noelrap</a>, and
+online at <a href="http://www.noelrappin.com">http://www.noelrappin.com</a>.</p>
+
+        ]]></content>
+        <updated>2016-09-14T00:00:00Z</updated>
+    </entry>
+    <entry>
+        <id>http://127.0.0.1:57366/blog/2016/08/18/perl-development-environment/blog/2016/08/18/perl-development-environment/</id>
+        <title>Perl Development Environment</title>
+        <link rel="alternate" href="http://127.0.0.1:57366/blog/2016/08/18/perl-development-environment/" />
+        <content type="html"><![CDATA[
+            <p>This month, <a href="https://crome-plated.com">Jason Crome</a> will be giving a talk on Perl development
+environment tooling like <a href="https://perlbrew.pl/">perlbrew</a>,
+<a href="https://github.com/tokuhirom/plenv">plenv</a>, and
+<a href="https://metacpan.org/pod/Carton">Carton</a>. These tools help to manage
+different Perl versions, different module versions, and help to isolate
+your development environments to help make dependency version problems
+manageable.</p>
+
+<p>Bring your questions and your own experiences with maintaining a Perl
+development environment.</p>
+
+<p><a href="https://www.meetup.com/ChicagoPM/events/232972645/">RSVP on the Chicago.PM Meetup</a></p>
+
+<p><em>EDIT</em>: <a href="http://www.slideshare.net/cromedome/perl-development-environment-tooling">Slides for Perl Development Environment Tooling have been
+posted to cromedome's
+Slideshare</a></p>
+
+        ]]></content>
+        <updated>2016-08-18T00:00:00Z</updated>
+    </entry>
+</feed>

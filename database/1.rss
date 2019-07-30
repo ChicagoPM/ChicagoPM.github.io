@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Chicago.PM</title>
+        <link>http://127.0.0.1:57366/database/1.html</link>
+        <atom:link href="http://127.0.0.1:57366/database" rel="self" type="application/rss+xml" />
+        <description>Blog feed of Chicago.PM</description>
+        <generator>Statocles 2.000</generator>
+        <item>
+            <title>MySQL Database Performance For Developers</title>
+            <link>http://127.0.0.1:57366/blog/2017/05/05/mysql-database-performance-for-developers/</link>
+            <guid>http://127.0.0.1:57366/blog/2017/05/05/mysql-database-performance-for-developers/</guid>
+            <description><![CDATA[
+                <p>This month's presentation will be on MySQL Database Performance:</p>
+
+<blockquote>
+  <p>Let's face it, when it comes to databases, developers and DBAs don't
+  often see eye-to-eye. This talk will help bridge the gap using a common
+  goal, "Database Performance".</p>
+  
+  <p>If you're a developer, you've probably used a query that was performing
+  poorly.  Many times the solution is seeking help from a DBA. The DBA
+  performs some magic behind a curtain, and all the sudden the query is
+  running fast. Wouldn't it be nice to take a peek behind the curtain to
+  see the magic being performed? During this talk, we'll discuss several
+  aspects of the database that can affect performance. This includes
+  schema design, indexes, and queries. We'll also look at some real life
+  examples of slow performance and performance solutions.</p>
+</blockquote>
+
+<p>Jeremy Glick is a MySQL Database Engineer at
+<a href="https://www.ziprecruiter.com">ZipRecruiter</a>. Before that, he worked as
+a consultant for various technology companies with systems ranging from
+dozens to hundreds of database servers. Jeremy is also the organizer of
+the <a href="https://www.meetup.com/mysql-5/">Chicago MySQL Meetup</a>. He holds
+multiple MySQL certifications and is a RedHat RHCE.</p>
+
+<p><a href="https://www.meetup.com/ChicagoPM/events/239773480/">RSVP on the Chicago.PM Meetup</a></p>
+
+<p>Due to Joel and Doug being at the <a href="http://act.qa-hackathon.org/qa2017/">Perl Toolchain
+Summit</a>, we have to
+cancel the Office Hours this month. We'll have Office Hours again next
+month.</p>
+
+            ]]></description>
+            <pubDate>
+                Fri, 05 May 2017 00:00:00 +0000
+            </pubDate>
+        </item>
+    </channel>
+</rss>

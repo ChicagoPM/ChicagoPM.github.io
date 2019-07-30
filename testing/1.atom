@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://127.0.0.1:57366/testing</id>
+    <title>Chicago.PM</title>
+    <updated>2019-07-29T23:44:15Z</updated>
+    <link rel="self" href="http://127.0.0.1:57366/testing/1.html"/>
+    <link rel="alternate" href="http://127.0.0.1:57366/testing"/>
+    <generator version="2.000">Statocles</generator>
+
+    <entry>
+        <id>http://127.0.0.1:57366/blog/2017/03/17/test-environments-for-modern-web-apps/blog/2017/03/17/test-environments-for-modern-web-apps/</id>
+        <title>Test Environments for Modern Web Apps</title>
+        <link rel="alternate" href="http://127.0.0.1:57366/blog/2017/03/17/test-environments-for-modern-web-apps/" />
+        <content type="html"><![CDATA[
+            <p>This month, <a href="http://wlindley.com">William Lindley</a> (<a href="http://github.com/lindleyw"><i class="fa fa-github"></i></a> <a href="http://blog.wlindley.com">blog</a>) will
+<a href="https://www.meetup.com/ChicagoPM/events/238505149/">talk about writing a test harness for modern Perl programs</a>
+using <a href="http://metacpan.org/pod/Test::More">Test::More</a>,
+<a href="http://mojolicious.org/perldoc/Test/Mojo">Test::Mojo</a> for the API, and
+<a href="https://metacpan.org/pod/DBIx::TempDB">DBIx::TempDB</a> for the
+database.</p>
+
+<p>Building, testing, and deploying actual systems is more complex than
+merely writing a program. Real testing often needs to be done against
+databases of known large or problematic datasets. A test environment
+cannot affect production data. Staging even minor changes, so we can
+preview and find errors before moving to production servers, can prevent
+expensive errors. The "best practices" in this field are relatively new
+and still changing, and we look at the first steps from "I built this
+mockup last night" by building the test suite for a simple
+database-driven file-upload service with
+<a href="http://mojolicious.org">Mojolicious</a>.</p>
+
+<p>William Lindley has been hacking computers (in the good sense) since
+1977, a database advocate since dBase II and PostgreSQL-predecessor
+Ingres in the 1980s, a Perl monger since 1994, and a free-software
+promoter since first getting Linux to run XWindows in 1995.</p>
+
+<p>If time permits, <a href="http://preaction.me">Doug Bell (preaction)</a> (<a href="http://twitter.com/preaction"><i class="fa fa-twitter"></i></a><a href="https://github.com/preaction"><i class="fa fa-github"></i></a>) will
+show a simple app to mock JSON REST APIs for testing using Mojolicious.</p>
+
+<p><a href="https://www.meetup.com/ChicagoPM/events/238505149/">RSVP for the meeting on the Chicago.PM
+Meetup</a></p>
+
+        ]]></content>
+        <updated>2017-03-17T00:00:00Z</updated>
+    </entry>
+    <entry>
+        <id>http://127.0.0.1:57366/blog/2016/04/30/blog-cpantesters-at-the-perl-qa-hackathon/blog/2016/04/30/blog-cpantesters-at-the-perl-qa-hackathon/</id>
+        <title>Blog: CPANTesters at the Perl QA Hackathon</title>
+        <link rel="alternate" href="http://127.0.0.1:57366/blog/2016/04/30/blog-cpantesters-at-the-perl-qa-hackathon/" />
+        <content type="html"><![CDATA[
+            <p><a href="http://preaction.me">Doug Bell</a>, the new leader of <a href="http://cpantesters.org">the CPANTesters
+project</a>, blogged about his accomplishments at
+<a href="http://act.qa-hackathon.org/qa2016/">this year's Perl QA Hackathon</a>,
+including tracking <a href="http://github.com/cpan-testers/cpantesters-project">the CPANTesters project
+goals</a> and starting
+<a href="http://github.com/cpan-testers/cpantesters-deploy">an automated deploy for
+CPANTesters</a> using
+<a href="http://rexify.org">Rex, a Perl-based devops tool</a>.</p>
+
+<p>Read Doug's post on his website:
+<a href="http://preaction.me/blog/2016/04/30/perl-qa-hackathon-cpantesters/">http://preaction.me/blog/2016/04/30/perl-qa-hackathon-cpantesters/</a></p>
+
+        ]]></content>
+        <updated>2016-04-30T00:00:00Z</updated>
+    </entry>
+    <entry>
+        <id>http://127.0.0.1:57366/blog/2016/04/30/blog-reflections-on-test2/blog/2016/04/30/blog-reflections-on-test2/</id>
+        <title>Blog: Reflections on Test2</title>
+        <link rel="alternate" href="http://127.0.0.1:57366/blog/2016/04/30/blog-reflections-on-test2/" />
+        <content type="html"><![CDATA[
+            <p><a href="http://jberger.github.io">Joel Berger</a> wrote <a href="http://blogs.perl.org/users/joel_berger/2016/04/reflections-on-test2.html">a blog post reflecting on
+Test2</a>
+<a href="https://github.com/exodist">Chad Granum's (Exodist)</a>
+new core test library. (<a href="http://metacpan.org/pod/Test2">Read more about Test2 on Metacpan</a>).</p>
+
+<p>In his post, Joel explains the rationale behind Test2, the history that
+has led to this situation, and the path forward getting Test2 into the
+Perl core.</p>
+
+<p>Read Joel's post on blogs.perl.org:
+<a href="http://blogs.perl.org/users/joel_berger/2016/04/reflections-on-test2.html">http://blogs.perl.org/users/joel_berger/2016/04/reflections-on-test2.html</a></p>
+
+        ]]></content>
+        <updated>2016-04-30T00:00:00Z</updated>
+    </entry>
+    <entry>
+        <id>http://127.0.0.1:57366/blog/2016/03/18/travis-ci-for-perl-and-introduction-to-rex/blog/2016/03/18/travis-ci-for-perl-and-introduction-to-rex/</id>
+        <title>Travis-CI for Perl and Introduction to Rex</title>
+        <link rel="alternate" href="http://127.0.0.1:57366/blog/2016/03/18/travis-ci-for-perl-and-introduction-to-rex/" />
+        <content type="html"><![CDATA[
+            <p>This month, <a href="http://preaction.me">Doug Bell</a> will be giving two short
+talks.</p>
+
+<p>One talk is about using <a href="https://travis-ci.org">Travis-CI, a free continuous integration
+testing service</a>, for Perl projects, and
+maximizing Travis's effectiveness. This talk introduces <a href="https://github.com/haarg">Graham
+Knop</a>'s <a href="https://github.com/travis-perl/helpers">Perl Travis
+Helpers</a>, gets you started using
+Travis-CI, and shows how to configure Travis to cover edge cases like
+very old Perls and missing optional modules/features (using
+<a href="http://metacpan.org/pod/Devel::Hide">Devel::Hide</a>).</p>
+
+<p>The other talk is an introduction to <a href="http://rexify.org">Rex, a Perl-based server
+configuration management system</a>. This talk was given
+informally at an office hours last year, but now it's a real talk with
+real slides! This talk introduces Rex, goes through simple configuration
+and tasks, and touches on some of the more powerful features of Rex such
+as the CMDB (Configuration Management Database).</p>
+
+<p><a href="http://www.meetup.com/ChicagoPM/events/229699475/">RSVP on the Meetup</a></p>
+
+<p>EDIT: Slides are now available for both talks on <a href="/talks">the Chicago.PM talks
+page</a>:</p>
+
+<ul>
+<li><a href="http://preaction.github.io/Introduction-to-Rex/">Introduction to Rex</a></li>
+<li><a href="http://preaction.github.io/Getting-The-Most-From-Travis-CI-For-Perl/">Getting the Most from Travis-CI for Perl</a></li>
+</ul>
+
+        ]]></content>
+        <updated>2016-03-18T00:00:00Z</updated>
+    </entry>
+    <entry>
+        <id>http://127.0.0.1:57366/blog/2015/09/19/the-perl-test-ecosystem/blog/2015/09/19/the-perl-test-ecosystem/</id>
+        <title>The Perl Test Ecosystem</title>
+        <link rel="alternate" href="http://127.0.0.1:57366/blog/2015/09/19/the-perl-test-ecosystem/" />
+        <content type="html"><![CDATA[
+            <p>This month, <a href="http://kablamo.org">Eric Johnson (kablamo)</a> will be giving
+a <a href="http://kablamo.org/slides-perl-testing/">talk exploring the Perl testing
+ecosystem</a>, including how to
+write tests in Perl, using prove to run tests, TAP (the Test-Anything
+Protocol), and an exploration of CPAN test libraries including:</p>
+
+<ul>
+<li><a href="http://metacpan.org/pod/Test::More">Test::More</a></li>
+<li><a href="http://metacpan.org/pod/Test::Differences">Test::Differences</a></li>
+<li><a href="http://metacpan.org/pod/Test::Deep">Test::Deep</a></li>
+<li><a href="http://metacpan.org/pod/Test::Fatal">Test::Fatal</a></li>
+<li><a href="http://metacpan.org/pod/Test::Warnings">Test::Warnings</a></li>
+<li><a href="http://metacpan.org/pod/Test::Lib">Test::Lib</a></li>
+<li><a href="http://metacpan.org/pod/Test::Cmd">Test::Cmd</a></li>
+<li><a href="http://metacpan.org/pod/Test::DescribeMe">Test::DescribeMe</a></li>
+<li><a href="http://metacpan.org/pod/Plack::Test">Plack::Test</a></li>
+<li><a href="http://metacpan.org/pod/Devel::Cover">Devel::Cover</a></li>
+<li><a href="http://metacpan.org/pod/Test::Most">Test::Most</a></li>
+<li><a href="http://metacpan.org/pod/Test::Modern">Test::Modern</a></li>
+<li><a href="http://metacpan.org/pod/Test::Pretty">Test::Pretty</a></li>
+</ul>
+
+<p><a href="http://kablamo.org/slides-perl-testing/#/">Slides are available on
+kablamo.org</a></p>
+
+<p><a href="http://www.meetup.com/ChicagoPM/events/225357015/">RSVP on the Chicago.PM Meetup
+page</a></p>
+
+        ]]></content>
+        <updated>2015-09-19T00:00:00Z</updated>
+    </entry>
+</feed>

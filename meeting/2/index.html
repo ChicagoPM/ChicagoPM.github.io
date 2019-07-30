@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta content="width=device-width, initial-scale=1" name="viewport">
+        <link href="/css/normalize.css" rel="stylesheet">
+        <link href="/css/skeleton.css" rel="stylesheet">
+        <link href="/css/statocles-default.css" rel="stylesheet">
+        <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+        <title>Chicago.PM</title>
+            <link href="/meeting/1.rss" rel="alternate" type="application/rss+xml">
+    <link href="/meeting/1.atom" rel="alternate" type="application/atom+xml">
+    <link href="/theme/css/chicagopm.css" rel="stylesheet">
+
+    </head>
+    <body>
+        <header>
+                <nav class="navbar inner">
+            <div class="container">
+                <a alt="Chicago.PM" href="/"><img src="/theme/images/chicagopm-small.png"></a>
+                <ul>
+                    <li>
+                        <a href="http://www.meetup.com/ChicagoPM">Meetup</a>
+                    </li>
+                    <li>
+                        <a href="http://github.com/ChicagoPM">Github</a>
+                    </li>
+                    <li>
+                        <a href="/talks/">Talks</a>
+                    </li>
+                    <li>
+                        <a href="/notes/">Meeting Notes</a>
+                    </li>
+                    <li>
+                        <a href="/jobs/">Jobs</a>
+                    </li>
+                    <li>
+                        <a href="/about/">About</a>
+                    </li>
+                    <li>
+                        <a href="https://chat.mibbit.com/?channel=%23chicago.pm&amp;server=irc.perl.org">IRC</a>
+                    </li>
+                    <li>
+                        <a href="/about/">Mailing List</a>
+                    </li>
+                    <li>
+                        <a href="/howto/">How To</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+        </header>
+        
+        <div class="main container">
+            <div class="row">
+                <div class="nine columns">
+                    <main>
+                    
+                        <article>
+    <header>
+        <h1><a href="/blog/2016/04/22/logging-and-analytics-using-perl-and-fluentd/">Logging and Analytics Using Perl and Fluentd</a></h1>
+
+        <aside>
+            <time datetime="2016-04-22">
+                Posted on 2016-04-22
+            </time>
+            <a data-disqus-identifier="/blog/2016/04/22/logging-and-analytics-using-perl-and-fluentd/" href="/blog/2016/04/22/logging-and-analytics-using-perl-and-fluentd/#disqus_thread">0 comments</a>
+        </aside>
+    </header>
+
+    <section>
+        <p>This month, <a href="http://www.cromedome.net">Jason Crome</a> is giving a talk on
+using <a href="http://www.fluentd.org">Fluentd</a> for logging, and Perl for
+analytics:</p>
+
+<blockquote>
+  <p>Logging is one of the most important pieces youâll have in any
+  large-scale software system, and in a massively multiplayer game itâs
+  even more critical. Using Ovidâs Veure MMO as an example, Iâll discuss
+  what we are logging and why, how we use fluentd to collect information
+  at all levels in the gameâs stack, and the tools and processes we use
+  to analyze that data.</p>
+</blockquote>
+
+<p><a href="http://www.meetup.com/ChicagoPM/events/230564694/">RSVP on the Chicago.PM Meetup</a></p>
+
+<p><em>EDIT</em>: <a href="http://www.slideshare.net/cromedome/logging-with-perl-and-fluentd">Slides for Logging and Analytics Using Perl and Fluentd have
+been posted to cromedome&#39;s
+Slideshare</a></p>
+
+    </section>
+
+
+</article>
+<article>
+    <header>
+        <h1><a href="/blog/2016/03/18/travis-ci-for-perl-and-introduction-to-rex/">Travis-CI for Perl and Introduction to Rex</a></h1>
+
+        <aside>
+            <time datetime="2016-03-18">
+                Posted on 2016-03-18
+            </time>
+            <a data-disqus-identifier="/blog/2016/03/18/travis-ci-for-perl-and-introduction-to-rex/" href="/blog/2016/03/18/travis-ci-for-perl-and-introduction-to-rex/#disqus_thread">0 comments</a>
+        </aside>
+    </header>
+
+    <section>
+        <p>This month, <a href="http://preaction.me">Doug Bell</a> will be giving two short
+talks.</p>
+
+<p>One talk is about using <a href="https://travis-ci.org">Travis-CI, a free continuous integration
+testing service</a>, for Perl projects, and
+maximizing Travis&#39;s effectiveness. This talk introduces <a href="https://github.com/haarg">Graham
+Knop</a>&#39;s <a href="https://github.com/travis-perl/helpers">Perl Travis
+Helpers</a>, gets you started using
+Travis-CI, and shows how to configure Travis to cover edge cases like
+very old Perls and missing optional modules/features (using
+<a href="http://metacpan.org/pod/Devel::Hide">Devel::Hide</a>).</p>
+
+<p>The other talk is an introduction to <a href="http://rexify.org">Rex, a Perl-based server
+configuration management system</a>. This talk was given
+informally at an office hours last year, but now it&#39;s a real talk with
+real slides! This talk introduces Rex, goes through simple configuration
+and tasks, and touches on some of the more powerful features of Rex such
+as the CMDB (Configuration Management Database).</p>
+
+<p><a href="http://www.meetup.com/ChicagoPM/events/229699475/">RSVP on the Meetup</a></p>
+
+<p>EDIT: Slides are now available for both talks on <a href="/talks/">the Chicago.PM talks
+page</a>:</p>
+
+<ul>
+<li><a href="http://preaction.github.io/Introduction-to-Rex/">Introduction to Rex</a></li>
+<li><a href="http://preaction.github.io/Getting-The-Most-From-Travis-CI-For-Perl/">Getting the Most from Travis-CI for Perl</a></li>
+</ul>
+
+    </section>
+
+
+</article>
+<article>
+    <header>
+        <h1><a href="/blog/2016/02/23/imager-the-perl-image-library/">Imager - The Perl Image Library</a></h1>
+
+        <aside>
+            <time datetime="2016-02-23">
+                Posted on 2016-02-23
+            </time>
+            <a data-disqus-identifier="/blog/2016/02/23/imager-the-perl-image-library/" href="/blog/2016/02/23/imager-the-perl-image-library/#disqus_thread">0 comments</a>
+        </aside>
+    </header>
+
+    <section>
+        <p>This month, <a href="http://wlindley.com">William Lindley</a> will be giving a talk
+on <a href="http://metacpan.org/pod/Imager">Imager, an image manipulation library for
+Perl</a>. Easier to install than
+Image::Magick, Imager has grown into a rich set of tools, including some
+overlooked features that turn it into a robust solution.</p>
+
+<p><a href="http://www.meetup.com/ChicagoPM/events/228490453/">RSVP on the Chicago.PM Meetup</a></p>
+
+    </section>
+
+
+</article>
+<article>
+    <header>
+        <h1><a href="/blog/2016/01/24/collecting-metrics-with-graphite/">Collecting Metrics with Graphite</a></h1>
+
+        <aside>
+            <time datetime="2016-01-24">
+                Posted on 2016-01-24
+            </time>
+            <a data-disqus-identifier="/blog/2016/01/24/collecting-metrics-with-graphite/" href="/blog/2016/01/24/collecting-metrics-with-graphite/#disqus_thread">0 comments</a>
+        </aside>
+    </header>
+
+    <section>
+        <p>This month, <a href="http://preaction.me">Doug Bell</a> will give a talk on
+<a href="http://graphite.readthedocs.org/en/latest">Graphite, a scalable time-series
+database</a>. He&#39;ll go over
+a quick installation and setup, how to add your metrics using Perl, and
+how to display your metrics using the <a href="http://grafana.org">Grafana charting
+dashboard</a>.</p>
+
+<p><a href="http://www.meetup.com/ChicagoPM/events/227353550/">RSVP on the Chicago.PM Meetup</a></p>
+
+<p>EDIT: <a href="http://preaction.github.io/Collecting-Metrics-With-Graphite">Slides for Collecting Metrics with Graphite are now available on the Talks page</a></p>
+
+    </section>
+
+
+</article>
+<article>
+    <header>
+        <h1><a href="/blog/2015/12/03/testing-psgi-with-test-mojo-and-stupid-websocket-tricks/">Testing PSGI With Test::Mojo and Stupid Websocket Tricks</a></h1>
+
+        <aside>
+            <time datetime="2015-12-03">
+                Posted on 2015-12-03
+            </time>
+            <a data-disqus-identifier="/blog/2015/12/03/testing-psgi-with-test-mojo-and-stupid-websocket-tricks/" href="/blog/2015/12/03/testing-psgi-with-test-mojo-and-stupid-websocket-tricks/#disqus_thread">0 comments</a>
+        </aside>
+    </header>
+
+    <section>
+        <p>We&#39;ve got a couple short talks scheduled for this month, and we&#39;ve got
+a new venue, generously provided by <a href="http://www.servercentral.com">ServerCentral</a>.</p>
+
+<p><a href="http://metacpan.org/author/JBERGER">Joel Berger</a> is going to give
+a talk on testing any <a href="http://plackperl.org">PSGI application</a> with
+<a href="http://mojolicio.us/perldoc/Test/Mojo">Test::Mojo, Mojolicious&#39;s excellent web testing
+library.</a></p>
+
+<p>And, <a href="http://metacpan.org/author/PREACTION">Doug Bell</a> is going to give
+a talk on some simple websocket tricks with <a href="http://metacpan.org/pod/mercury">Mercury, a WebSocket
+message broker</a>, <a href="http://mojolicio.us">Mojolicious</a>
+and <a href="http://mojolicio.us/perldoc/Mojo/UserAgent">Mojo::UserAgent</a>.</p>
+
+<p>Due to the holidays, our meeting will be on December 10. <a href="http://www.meetup.com/ChicagoPM/events/226879320/">RSVP on the
+Chicago.PM Meetup</a></p>
+
+<p>(EDIT: Slides from the <a href="http://preaction.github.io/Stupid-Websocket-Tricks-With-Perl/">simple WebSocket tricks talk are now
+available</a>)</p>
+
+    </section>
+
+
+</article>
+<article>
+    <header>
+        <h1><a href="/blog/2015/10/11/the-why-of-git/">The Why Of Git</a></h1>
+
+        <aside>
+            <time datetime="2015-10-11">
+                Posted on 2015-10-11
+            </time>
+            <a data-disqus-identifier="/blog/2015/10/11/the-why-of-git/" href="/blog/2015/10/11/the-why-of-git/#disqus_thread">0 comments</a>
+        </aside>
+    </header>
+
+    <section>
+        <p>This month <a href="http://preaction.me">Doug Bell</a> will be giving a talk on
+<a href="http://git-scm.com">Git</a> internals, and how they effect how you use Git
+commands like <code>commit</code>, <code>merge</code>, <code>pull</code>, and <code>rebase</code>. The presentation
+will go over some common errors and explain what they mean, and how
+resolving them will affect the internal data of your repository.</p>
+
+<p><a href="http://www.meetup.com/ChicagoPM/events/225737511/">RSVP on the Chicago.PM
+Meetup</a></p>
+
+<p>(EDIT: <a href="http://preaction.github.io/The-Why-of-Git/">See the slides for The Why of Git</a>)</p>
+
+    </section>
+
+
+</article>
+<article>
+    <header>
+        <h1><a href="/blog/2015/09/19/the-perl-test-ecosystem/">The Perl Test Ecosystem</a></h1>
+
+        <aside>
+            <time datetime="2015-09-19">
+                Posted on 2015-09-19
+            </time>
+            <a data-disqus-identifier="/blog/2015/09/19/the-perl-test-ecosystem/" href="/blog/2015/09/19/the-perl-test-ecosystem/#disqus_thread">0 comments</a>
+        </aside>
+    </header>
+
+    <section>
+        <p>This month, <a href="http://kablamo.org">Eric Johnson (kablamo)</a> will be giving
+a <a href="http://kablamo.org/slides-perl-testing/">talk exploring the Perl testing
+ecosystem</a>, including how to
+write tests in Perl, using prove to run tests, TAP (the Test-Anything
+Protocol), and an exploration of CPAN test libraries including:</p>
+
+<ul>
+<li><a href="http://metacpan.org/pod/Test::More">Test::More</a></li>
+<li><a href="http://metacpan.org/pod/Test::Differences">Test::Differences</a></li>
+<li><a href="http://metacpan.org/pod/Test::Deep">Test::Deep</a></li>
+<li><a href="http://metacpan.org/pod/Test::Fatal">Test::Fatal</a></li>
+<li><a href="http://metacpan.org/pod/Test::Warnings">Test::Warnings</a></li>
+<li><a href="http://metacpan.org/pod/Test::Lib">Test::Lib</a></li>
+<li><a href="http://metacpan.org/pod/Test::Cmd">Test::Cmd</a></li>
+<li><a href="http://metacpan.org/pod/Test::DescribeMe">Test::DescribeMe</a></li>
+<li><a href="http://metacpan.org/pod/Plack::Test">Plack::Test</a></li>
+<li><a href="http://metacpan.org/pod/Devel::Cover">Devel::Cover</a></li>
+<li><a href="http://metacpan.org/pod/Test::Most">Test::Most</a></li>
+<li><a href="http://metacpan.org/pod/Test::Modern">Test::Modern</a></li>
+<li><a href="http://metacpan.org/pod/Test::Pretty">Test::Pretty</a></li>
+</ul>
+
+<p><a href="http://kablamo.org/slides-perl-testing/#/">Slides are available on
+kablamo.org</a></p>
+
+<p><a href="http://www.meetup.com/ChicagoPM/events/225357015/">RSVP on the Chicago.PM Meetup
+page</a></p>
+
+    </section>
+
+
+</article>
+<article>
+    <header>
+        <h1><a href="/blog/2015/08/10/distribution-management-shootout/">Distribution Management Shootout</a></h1>
+
+        <aside>
+            <time datetime="2015-08-10">
+                Posted on 2015-08-10
+            </time>
+            <a data-disqus-identifier="/blog/2015/08/10/distribution-management-shootout/" href="/blog/2015/08/10/distribution-management-shootout/#disqus_thread">0 comments</a>
+        </aside>
+    </header>
+
+    <section>
+        <p>This month, Doug Bell, Joel Berger, and Eric Johnson will be giving
+short demonstrations of tools to manage Perl distributions. A
+distribution is an installable bundle of modules, usually uploaded to
+CPAN for others to download.</p>
+
+<p>Doug will be presenting Dist::Zilla, the 500-lb gorilla of dist
+management. Joel will presenting Module::Build and Module::Build::Tiny
+with App::ModuleBuildTiny. Finally, Eric will be presenting Minilla and
+Carton.</p>
+
+<p>Each talk with take about 20 minutes, with some extra time for
+questions.</p>
+
+<p><a href="http://www.meetup.com/ChicagoPM/events/224393894/">RSVP on the Chicago.PM Meetup</a></p>
+
+    </section>
+
+
+</article>
+<article>
+    <header>
+        <h1><a href="/blog/2015/07/09/testing-javascript-from-perl/">Testing Javascript From Perl</a></h1>
+
+        <aside>
+            <time datetime="2015-07-09">
+                Posted on 2015-07-09
+            </time>
+            <a data-disqus-identifier="/blog/2015/07/09/testing-javascript-from-perl/" href="/blog/2015/07/09/testing-javascript-from-perl/#disqus_thread">0 comments</a>
+        </aside>
+    </header>
+
+    <section>
+        <p>This month, <a href="https://metacpan.org/author/JBERGER">Joel Berger</a> will be giving a
+talk on testing Javascript from <a href="http://mojolicio.us">Mojolicious</a></p>
+
+<blockquote>
+  <p>Do you test your Javascript? All of it? Be honest. I thought so, neither did
+  I.</p>
+  
+  <p>It is very easy to say that testing Javascript is too hard, or that you don&#39;t
+  need to because you have so little of it. But what if testing your
+  client-side Javascript was as easy as testing a Mojolicious app, which is
+  pretty darn easy? Would you do it then?</p>
+  
+  <p>In this talk I will demonstrate Test::Mojo::Role::Phantom, which allows
+  testing a Mojolicious app, PSGI app or even external website&#39;s client-side
+  Javascript. It only requires the phantomjs executable, which is a piece of
+  cake to install. You&#39;ll be testing your browser behavior in no time!</p>
+</blockquote>
+
+<p>Doors open at 6:45. Meeting starts at 7:00. <a href="http://www.meetup.com/ChicagoPM/events/223686277/">RSVP on the Meetup
+page</a></p>
+
+    </section>
+
+
+</article>
+<article>
+    <header>
+        <h1><a href="/blog/2015/06/02/excel-spreadsheets-with-perl/">Excel Spreadsheets with Perl</a></h1>
+
+        <aside>
+            <time datetime="2015-06-02">
+                Posted on 2015-06-02
+            </time>
+            <a data-disqus-identifier="/blog/2015/06/02/excel-spreadsheets-with-perl/" href="/blog/2015/06/02/excel-spreadsheets-with-perl/#disqus_thread">0 comments</a>
+        </aside>
+    </header>
+
+    <section>
+        <p>This month, Mike Schienle will talk about reading and writing Excel
+spreadsheets from Perl, with the main focus on writing them. The presentation
+will discuss writing both data and formulas, multiple sheets, adding comments,
+etc. Mike uses Excel in both his day job as an ETL geek for Northern Trust and
+processing weather data.</p>
+
+<p>Doors open at 6:30pm. Meeting starts at 7:00pm. <a href="http://www.meetup.com/ChicagoPM/events/221598709/">RSVP for Excel Spreadsheets
+with Perl on the Chicago.PM
+Meetup.</a></p>
+
+<p>This month&#39;s office hours will be on June 11. <a href="http://www.meetup.com/ChicagoPM/events/222836256/">RSVP for office hours on the
+Chicago.PM Meetup</a></p>
+
+<p>(EDIT: <a href="/talks/excel-spreadsheets-with-perl.pdf">Slides from the talk</a> have been added
+to <a href="/talks/">the talks page</a>)</p>
+
+    </section>
+
+
+</article>
+
+<ul class="pager">
+    <li class="next">
+            <a class="button button-primary" href="/meeting/3" rel="next">
+                ← Older
+            </a>
+    </li>
+    <li class="prev">
+            <a class="button button-primary" href="/meeting" rel="prev">
+                Newer →
+            </a>
+    </li>
+</ul>
+
+
+<script type="text/javascript">
+    var disqus_shortname = 'chicagopm';
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+
+                    </main>
+                </div>
+
+                <div class="three columns sidebar">
+                    <section style="text-align:center;">
+  <iframe frameborder="0" height="400" src="http://meetu.ps/380cqX" width="225"></iframe>
+</section>
+    <h1>Categories</h1>
+        <a href="/blog">blog</a>
+        <a href="/conference">conference</a>
+        <a href="/cpan">cpan</a>
+        <a href="/database">database</a>
+        <a href="/development">development</a>
+        <a href="/devops">devops</a>
+        <a href="/games">games</a>
+        <a href="/logging">logging</a>
+        <a href="/meeting">meeting</a>
+        <a href="/perl%206">perl 6</a>
+        <a href="/podcast">podcast</a>
+        <a href="/syntax">syntax</a>
+        <a href="/testing">testing</a>
+        <a href="/web">web</a>
+                </div>
+            </div>
+        </div>
+        <footer>
+            
+            <div class="container tagline">
+                <a href="http://preaction.me/statocles">Made with Statocles</a><br>
+                <a href="http://www.perl.org">Powered by Perl</a>
+            </div>
+        </footer>
+
+    </body>
+</html>
