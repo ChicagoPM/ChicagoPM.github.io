@@ -49,6 +49,14 @@
 
 % content_for sidebar => begin
 <section style="text-align:center;">
-  <iframe width="225" height="570" src="http://meetu.ps/380cqX" frameborder="0"></iframe>
+  <iframe width="225" height="400" src="http://meetu.ps/380cqX" frameborder="0"></iframe>
 </section>
+% my $app = app->statocles->app( 'blog' );
+% if ( $app && ( my @links = $app->category_links ) ) {
+    <h1>Categories</h1>
+    % for my $link ( @links ) {
+        %= link_to $link->{title}, $link->{href}
+    % }
+% }
 % end
+
