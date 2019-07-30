@@ -1,7 +1,6 @@
 ---
 date: 2015-06-02
-tags:
-  - meeting
+tags: [ meeting ]
 title: 'Excel Spreadsheets with Perl'
 ---
 This month, Mike Schienle will talk about reading and writing Excel

@@ -1,6 +1,6 @@
 ---
 last_modified: 2015-01-13 21:58:00
-tags: meeting
+tags: [ meeting ]
 title: 'Presentation - Introduction to Mojolicious'
 ---
 

@@ -1,6 +1,6 @@
 ---
 last_modified: 2014-10-07 01:10:00
-tags: meeting
+tags: [ meeting ]
 title: 'Presentation - Modern Perl Object-Oriented Programming'
 ---
 This month's presentation will be on [modern Perl OO and the tools to make object-oriented code easy](http://www.meetup.com/ChicagoPM/events/211160342/).

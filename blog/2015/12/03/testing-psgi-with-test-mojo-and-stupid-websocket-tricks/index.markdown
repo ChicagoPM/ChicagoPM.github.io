@@ -1,8 +1,6 @@
 ---
 date: 2015-12-03
-tags:
-  - meeting
-  - web
+tags: [ meeting, web ]
 title: Testing PSGI With Test::Mojo and Stupid Websocket Tricks
 ---
 

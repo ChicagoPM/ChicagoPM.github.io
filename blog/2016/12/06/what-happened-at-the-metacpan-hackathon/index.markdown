@@ -1,6 +1,6 @@
 ---
 date: 2016-12-06
-tags: cpan, blog
+tags: [ cpan, blog ]
 title: What Happened At The MetaCPAN Hackathon
 ---
 

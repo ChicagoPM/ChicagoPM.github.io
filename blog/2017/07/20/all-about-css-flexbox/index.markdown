@@ -1,9 +1,7 @@
 ---
 date: 2017-07-20
 status: published
-tags:
-  - meeting
-  - web
+tags: [ meeting, web ]
 title: All About CSS Flexbox
 ---
 This month, [Doug Bell](http://preaction.me/) will be talking about

@@ -1,6 +1,6 @@
 ---
 last_modified: 2014-07-04 15:49:00
-tags: meeting
+tags: [ meeting ]
 title: 'Meeting - Parsing - Regex and Grammars'
 ---
 

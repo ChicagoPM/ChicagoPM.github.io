@@ -1,7 +1,6 @@
 ---
 date: 2015-08-10
-tags:
-  - meeting
+tags: [ meeting ]
 title: Distribution Management Shootout
 ---
 

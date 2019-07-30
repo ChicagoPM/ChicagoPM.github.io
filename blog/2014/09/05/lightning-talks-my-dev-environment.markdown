@@ -1,6 +1,6 @@
 ---
 last_modified: 2014-09-05 01:17:00
-tags: meeting
+tags: [ meeting ]
 title: 'Lightning Talks - My Dev Environment'
 ---
 

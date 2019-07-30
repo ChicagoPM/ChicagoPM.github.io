@@ -1,6 +1,6 @@
 ---
 last_modified: 2014-04-19 21:02:00
-tags: meeting
+tags: [ meeting ]
 title: "perldelta - What's New in Perl Since 5.8 - April 24, 2014"
 ---
 

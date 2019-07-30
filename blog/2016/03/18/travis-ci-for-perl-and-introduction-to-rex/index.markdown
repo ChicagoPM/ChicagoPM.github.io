@@ -1,10 +1,7 @@
 ---
 date: 2016-03-18
 status: published
-tags:
-  - meeting
-  - testing
-  - devops
+tags: [ meeting, testing, devops ]
 title: Travis-CI for Perl and Introduction to Rex
 ---
 This month, [Doug Bell](http://preaction.me) will be giving two short

@@ -1,9 +1,7 @@
 ---
 date: 2016-04-30
 status: published
-tags:
-  - blog
-  - testing
+tags: [ blog, testing ]
 title: 'Blog: Reflections on Test2'
 ---
 

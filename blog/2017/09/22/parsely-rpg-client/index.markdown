@@ -1,9 +1,7 @@
 ---
 date: 2017-09-22
 status: published
-tags:
-  - meeting
-  - games
+tags: [ meeting, games ]
 title: Parsely RPG Client
 ---
 This month, [Jason A Crome (cromedome)](https://crome-plated.com/) ([<i class="fa fa-twitter"></i>](https://twitter.com/cromedome)[<i class="fa fa-github"></i>](https://github.com/cromedome))

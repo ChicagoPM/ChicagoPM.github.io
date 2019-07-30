@@ -1,8 +1,6 @@
 ---
 date: 2015-09-19
-tags:
-  - meeting
-  - testing
+tags: [ meeting, testing ]
 title: The Perl Test Ecosystem
 ---
 

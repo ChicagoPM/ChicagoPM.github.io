@@ -1,8 +1,6 @@
 ---
 date: 2015-05-07
-tags:
-  - meeting
-  - perl 6
+tags: [ meeting, "perl 6" ]
 title: Getting Into Perl 6
 ---
 

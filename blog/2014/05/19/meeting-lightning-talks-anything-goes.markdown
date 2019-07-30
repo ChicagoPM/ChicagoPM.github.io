@@ -1,6 +1,6 @@
 ---
 last_modified: 2014-05-19 16:47:00
-tags: meeting
+tags: [ meeting ]
 title: 'Meeting - Lightning Talks - Anything Goes'
 ---
 

@@ -1,9 +1,7 @@
 ---
 date: 2019-01-26
 status: published
-tags:
-  - meeting
-  - web
+tags: [ meeting, web ]
 title: A Website For Yancy
 ---
 This month, [Doug Bell (preaction)](http://preaction.me) ([<i class="fa fa-twitter"></i>](http://twitter.com/preaction)[<i class="fa fa-github"></i>](https://github.com/preaction))

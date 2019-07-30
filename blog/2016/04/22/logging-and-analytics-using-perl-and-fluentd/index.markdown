@@ -1,9 +1,7 @@
 ---
 date: 2016-04-22
 status: published
-tags:
-  - meeting
-  - devops
+tags: [ meeting, devops ]
 title: Logging and Analytics Using Perl and Fluentd
 ---
 

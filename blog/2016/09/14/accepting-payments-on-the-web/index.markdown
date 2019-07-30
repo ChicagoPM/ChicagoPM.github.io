@@ -1,9 +1,7 @@
 ---
 date: 2016-09-14
 status: published
-tags:
-  - meeting
-  - web
+tags: [ meeting, web ]
 title: Accepting Payments on the Web
 ---
 This month, [Noel Rappin](http://www.noelrappin.com) will be talking

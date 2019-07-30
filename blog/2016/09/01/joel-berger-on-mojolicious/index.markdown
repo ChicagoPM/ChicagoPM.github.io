@@ -1,9 +1,7 @@
 ---
 date: 2016-09-01
 status: published
-tags:
-  - podcast
-  - web
+tags: [ podcast, web ]
 title: Joel Berger on Mojolicious
 ---
 

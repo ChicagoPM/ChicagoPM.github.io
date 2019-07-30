@@ -1,6 +1,6 @@
 ---
 date: 2017-06-12
-tags: meeting, conference
+tags: [ meeting, conference ]
 title: The Perl Conference Post-Meeting
 ---
 This month is [The Perl Conference](http://www.perlconference.us/tpc-2017-dc/)

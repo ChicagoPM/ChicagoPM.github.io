@@ -1,10 +1,7 @@
 ---
 date: 2017-03-17
 status: published
-tags:
-  - meeting
-  - web
-  - testing
+tags: [ meeting, web, testing ]
 title: Test Environments for Modern Web Apps
 ---
 

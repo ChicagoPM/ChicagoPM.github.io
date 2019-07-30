@@ -1,7 +1,6 @@
 ---
 date: 2015-07-09
-tags:
-  - meeting
+tags: [ meeting ]
 title: Testing Javascript From Perl
 ---
 This month, [Joel Berger](https://metacpan.org/author/JBERGER) will be giving a

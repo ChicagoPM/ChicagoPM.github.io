@@ -1,6 +1,6 @@
 ---
 date: 2016-03-20
-tags: blog, web
+tags: [ blog, web ]
 title: Super Easy SSL Certs for Mojolicious Apps
 ---
 

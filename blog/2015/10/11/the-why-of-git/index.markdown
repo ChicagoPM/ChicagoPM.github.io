@@ -1,7 +1,6 @@
 ---
 date: 2015-10-11
-tags:
-  - meeting
+tags: [ meeting ]
 title: The Why Of Git
 ---
 

@@ -1,6 +1,6 @@
 ---
 last_modified: 2014-12-04 02:58:00
-tags: meeting
+tags: [ meeting ]
 title: 'Holiday Schedule - Office Hours 2'
 ---
 

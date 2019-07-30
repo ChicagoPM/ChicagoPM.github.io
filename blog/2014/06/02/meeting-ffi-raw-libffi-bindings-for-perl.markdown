@@ -1,6 +1,6 @@
 ---
 last_modified: 2014-06-02 21:58:00
-tags: meeting
+tags: [ meeting ]
 title: 'Meeting - FFI::Raw - libffi bindings for Perl'
 ---
 

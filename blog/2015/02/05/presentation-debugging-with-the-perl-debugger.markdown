@@ -1,6 +1,6 @@
 ---
 last_modified: 2015-02-05 23:23:00
-tags: meeting
+tags: [ meeting ]
 title: 'Presentation - Debugging with the Perl Debugger'
 ---
 

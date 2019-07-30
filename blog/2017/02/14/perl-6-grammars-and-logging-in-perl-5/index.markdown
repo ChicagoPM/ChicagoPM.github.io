@@ -1,10 +1,7 @@
 ---
 date: 2017-02-14
 status: published
-tags:
-  - meeting
-  - perl 6
-  - logging
+tags: [ meeting, "perl 6", logging ]
 title: Perl 6 Grammars and Logging in Perl 5
 ---
 

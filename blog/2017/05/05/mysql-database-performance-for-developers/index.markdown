@@ -1,9 +1,7 @@
 ---
 date: 2017-05-05
 status: published
-tags:
-  - meeting
-  - database
+tags: [ meeting, database ]
 title: MySQL Database Performance For Developers
 ---
 

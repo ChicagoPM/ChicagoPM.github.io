@@ -1,6 +1,6 @@
 ---
 date: 2016-08-24
-tags: blog, web
+tags: [ blog, web ]
 title: New Dancer2 Release with Security and Bug Fixes
 ---
 

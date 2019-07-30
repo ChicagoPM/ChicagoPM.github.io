@@ -1,8 +1,7 @@
 ---
 date: 2016-02-23
 status: published
-tags:
-  - meeting
+tags: [ meeting ]
 title: 'Imager - The Perl Image Library'
 ---
 

@@ -1,9 +1,7 @@
 ---
 date: 2016-08-29
 status: published
-tags:
-  - podcast
-  - web
+tags: [ podcast, web ]
 title: Interview about Perl Dancer 2
 ---
 

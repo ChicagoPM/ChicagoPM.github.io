@@ -1,9 +1,7 @@
 ---
 date: 2017-01-17
 status: published
-tags:
-  - meeting
-  - syntax
+tags: [ meeting, syntax ]
 title: 'Variables, Scoping, and Namespaces'
 ---
 
